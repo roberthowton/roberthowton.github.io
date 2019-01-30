@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Robert Howton</title>
-    <link>https://roberthowton.github.io/tags/</link>
+    <link>https://www.roberthowton.com/tags/</link>
     <description>Recent content in Tags on Robert Howton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
     <lastBuildDate>Sat, 24 Nov 2018 18:40:21 +0100</lastBuildDate>
     
-	<atom:link href="https://roberthowton.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.roberthowton.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Current Courses</title>
-      <link>https://roberthowton.github.io/tags/current-courses/</link>
+      <link>https://www.roberthowton.com/tags/current-courses/</link>
       <pubDate>Sat, 24 Nov 2018 18:40:21 +0100</pubDate>
       
-      <guid>https://roberthowton.github.io/tags/current-courses/</guid>
+      <guid>https://www.roberthowton.com/tags/current-courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Past Courses</title>
-      <link>https://roberthowton.github.io/tags/past-courses/</link>
+      <link>https://www.roberthowton.com/tags/past-courses/</link>
       <pubDate>Sat, 24 Nov 2018 18:56:32 +0100</pubDate>
       
-      <guid>https://roberthowton.github.io/tags/past-courses/</guid>
+      <guid>https://www.roberthowton.com/tags/past-courses/</guid>
       <description></description>
     </item>
     

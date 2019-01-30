@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Current Courses on Robert Howton</title>
-    <link>https://roberthowton.github.io/tags/current-courses/</link>
+    <link>https://www.roberthowton.com/tags/current-courses/</link>
     <description>Recent content in Current Courses on Robert Howton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
     <lastBuildDate>Sat, 24 Nov 2018 18:40:21 +0100</lastBuildDate>
     
-	<atom:link href="https://roberthowton.github.io/tags/current-courses/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.roberthowton.com/tags/current-courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Early Modern Philosophy</title>
-      <link>https://roberthowton.github.io/teaching/intro_early_modern/</link>
+      <link>https://www.roberthowton.com/teaching/intro_early_modern/</link>
       <pubDate>Sat, 24 Nov 2018 18:40:21 +0100</pubDate>
       
-      <guid>https://roberthowton.github.io/teaching/intro_early_modern/</guid>
+      <guid>https://www.roberthowton.com/teaching/intro_early_modern/</guid>
       <description></description>
     </item>
     

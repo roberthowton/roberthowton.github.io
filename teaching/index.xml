@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings on Robert Howton</title>
-    <link>https://roberthowton.github.io/teaching/</link>
+    <link>https://www.roberthowton.com/teaching/</link>
     <description>Recent content in Teachings on Robert Howton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
     <lastBuildDate>Sat, 24 Nov 2018 18:56:32 +0100</lastBuildDate>
     
-	<atom:link href="https://roberthowton.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.roberthowton.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aristotle&#39;s Soul</title>
-      <link>https://roberthowton.github.io/teaching/aristotles_psychology/</link>
+      <link>https://www.roberthowton.com/teaching/aristotles_psychology/</link>
       <pubDate>Sat, 24 Nov 2018 18:56:32 +0100</pubDate>
       
-      <guid>https://roberthowton.github.io/teaching/aristotles_psychology/</guid>
+      <guid>https://www.roberthowton.com/teaching/aristotles_psychology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Illusion: When Appearances Deceive</title>
-      <link>https://roberthowton.github.io/teaching/illusion/</link>
+      <link>https://www.roberthowton.com/teaching/illusion/</link>
       <pubDate>Sat, 24 Nov 2018 18:47:01 +0100</pubDate>
       
-      <guid>https://roberthowton.github.io/teaching/illusion/</guid>
+      <guid>https://www.roberthowton.com/teaching/illusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early Modern Philosophy</title>
-      <link>https://roberthowton.github.io/teaching/intro_early_modern/</link>
+      <link>https://www.roberthowton.com/teaching/intro_early_modern/</link>
       <pubDate>Sat, 24 Nov 2018 18:40:21 +0100</pubDate>
       
-      <guid>https://roberthowton.github.io/teaching/intro_early_modern/</guid>
+      <guid>https://www.roberthowton.com/teaching/intro_early_modern/</guid>
       <description></description>
     </item>
     

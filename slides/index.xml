@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides on Robert Howton</title>
-    <link>https://roberthowton.github.io/slides/</link>
+    <link>https://www.roberthowton.com/slides/</link>
     <description>Recent content in Slides on Robert Howton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
     
-	<atom:link href="https://roberthowton.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.roberthowton.com/slides/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unit 0.1</title>
-      <link>https://roberthowton.github.io/slides/intro_early_modern/unit01slides/</link>
+      <link>https://www.roberthowton.com/slides/intro_early_modern/unit01slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://roberthowton.github.io/slides/intro_early_modern/unit01slides/</guid>
+      <guid>https://www.roberthowton.com/slides/intro_early_modern/unit01slides/</guid>
       <description>Introducing Modern Philosophy Why devote a course in the history of Western European philosophy to the \nth{17} and \nth{18} centuries? The reason may not be obvious. For one thing, philosophy in Europe is far \emph{older} than the \nth{17} century; it stretches at least as far back as the ancient Greeks in the \nth{6} century CE, perhaps even further, finding its ultimate roots in the speculations of ancient Egyptians and Babylonians centuries before.</description>
     </item>
     

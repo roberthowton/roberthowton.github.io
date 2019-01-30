@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Robert Howton</title>
-    <link>https://roberthowton.github.io/authors/</link>
+    <link>https://www.roberthowton.com/authors/</link>
     <description>Recent content in Authors on Robert Howton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
     
-	<atom:link href="https://roberthowton.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.roberthowton.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Robert Howton</title>
-      <link>https://roberthowton.github.io/authors/robert-howton/</link>
+      <link>https://www.roberthowton.com/authors/robert-howton/</link>
       <pubDate>Fri, 28 Dec 2018 17:35:16 +0300</pubDate>
       
-      <guid>https://roberthowton.github.io/authors/robert-howton/</guid>
+      <guid>https://www.roberthowton.com/authors/robert-howton/</guid>
       <description></description>
     </item>
     
