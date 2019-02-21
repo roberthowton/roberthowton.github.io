@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -384,10 +384,10 @@
     
     <item>
       <title>Comments on Meister</title>
-      <link>https://www.roberthowton.com/apacomments/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <link>https://www.roberthowton.com/apa/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
-      <guid>https://www.roberthowton.com/apacomments/</guid>
+      <guid>https://www.roberthowton.com/apa/</guid>
       <description>
 
 &lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -399,10 +399,9 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#metaphysics-z-10-1035b31-1036a13-tr-ross-modified&#34;&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z 10, 1035b31&amp;ndash;1036a13 (tr. Ross, modified)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#metaphysics-z-10-1035b31-1036a13-tr-modified-from-ross&#34;&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z 10, 1035b31&amp;ndash;1036a13 (tr. modified from Ross)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#comments&#34;&gt;Comments&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
@@ -410,49 +409,13 @@
 
 &lt;h2 id=&#34;passage&#34;&gt;Passage&lt;/h2&gt;
 
-&lt;h4 id=&#34;metaphysics-z-10-1035b31-1036a13-tr-ross-modified&#34;&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z 10, 1035b31&amp;ndash;1036a13 (tr. Ross, modified)&lt;/h4&gt;
+&lt;h4 id=&#34;metaphysics-z-10-1035b31-1036a13-tr-modified-from-ross&#34;&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z 10, 1035b31&amp;ndash;1036a13 (tr. modified from Ross)&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;μέρος μὲν οὖν ἐστὶ καὶ τοῦ εἴδους (εἶδος δὲ λέγω τὸ τί ἦν εἶναι) καὶ τοῦ συνόλου τοῦ ἐκ τοῦ εἴδους καὶ τῆς ὕλης &amp;lt;καὶ τῆς ὕλης&amp;gt; αὐτῆς. ἀλλὰ τοῦ λόγου μέρη τὰ τοῦ εἴδους μόνον ἐστίν, ὁ δὲ λόγος ἐστὶ τοῦ καθόλου· τὸ γὰρ κύκλῳ εἶναι καὶ κύκλος καὶ ψυχῇ εἶναι καὶ ψυχὴ ταὐτό. τοῦ δὲ συνόλου ἤδη, οἷον κύκλου τουδὶ καὶ τῶν καθ&amp;rsquo; ἕκαστά τινος ἢ αἰσθητοῦ ἢ νοητοῦ – λέγω δὲ νοητοὺς μὲν οἷον τοὺς μαθηματικούς, αἰσθητοὺς δὲ οἷον τοὺς χαλκοῦς καὶ τοὺς ξυλίνους – τούτων δὲ οὐκ ἔστιν ὁρισμός, ἀλλὰ μετὰ νοήσεως ἢ αἰσθήσεως γνωρίζονται, ἀπελθόντες δὲ ἐκ τῆς ἐντελεχείας οὐ δῆλον πότερον εἰσὶν ἢ οὐκ εἰσίν· ἀλλ&amp;rsquo; ἀεὶ λέγονται καὶ γνωρίζονται τῷ καθόλου λόγῳ. ἡ δ&amp;rsquo; ὕλη ἄγνωστος καθ&amp;rsquo; αὑτήν. &lt;strong&gt;ὕλη δὲ ἡ μὲν αἰσθητή ἐστιν ἡ δὲ νοητή, αἰσθητὴ μὲν οἷον χαλκὸς καὶ ξύλον καὶ ὅση κινητὴ ὕλη, νοητὴ δὲ ἡ ἐν τοῖς αἰσθητοῖς ὑπάρχουσα μὴ ᾗ αἰσθητά, οἷον τὰ μαθηματικά.&lt;/strong&gt; πῶς μὲν οὖν ἔχει περὶ ὅλου καὶ μέρους καὶ περὶ τοῦ προτέρου καὶ ὑστέρου, εἴρηται.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A part may be a part either of the form (i.e. the essence), or of the compound of the form and the matter, or of the matter itself. But only the parts of the form are parts of the account, and the account is of the universal; for being a circle is the same as the circle, and being a soul is the same as the soul. But when we come to the concrete thing, e.g. this circle, i.e. one of the individual circles, whether sensible or intelligible (I mean by intelligible for instance mathematical [circles], and by sensible those of bronze and of wood), of these there is no definition, but they are known by the aid of thought or perception; and when they go out of our actual consciousness it is not clear whether they exist or not; but they are always stated and cognized by means of the universal account. But matter is unknowable in itself. &lt;strong&gt;And some matter is perceptible and some intelligible, perceptible matter being for instance bronze and wood and all matter that is changeable, and intelligible matter being that which is present in perceptible things not qua perceptible, such as mathematical objects.&lt;/strong&gt; We have stated, then, how whole and part, and prior and posterior, are related.&lt;/p&gt;
-
-&lt;h2 id=&#34;comments&#34;&gt;Comments&lt;/h2&gt;
-
-&lt;p&gt;As Julia Annas has put it, Aristotle presents mathematics as a discipline &amp;ldquo;elucidated by its method and not by its subject-matter&amp;rdquo;.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Annas-1976-30&#34;&gt;&lt;a href=&#34;#fn:Annas-1976-30&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; What distinguishes mathematics from the other theoretical sciences is not that it studies a distinct class of objects, as natural science studies objects that admit of change and are ontologically inseparable from perceptible matter, whereas first philosophy studies what is changeless and ontologically separable from matter. The mathematician studies the same perceptible, changeable bodies that the natural scientist studies, only &lt;em&gt;not&lt;/em&gt; insofar as they are perceptible and changeable. Rather, in considering the geometrical and numerical features of perceptible bodies, she &amp;ldquo;strips away&amp;rdquo; or &amp;ldquo;abstracts&amp;rdquo; (&lt;em&gt;aphairei&lt;/em&gt;) their perceptible, changeable features to focus on features which are incidental to their status as perceptible bodies. She studies planets, but &lt;em&gt;qua&lt;/em&gt; spherical; animals, but &lt;em&gt;qua&lt;/em&gt; countable.&lt;/p&gt;
-
-&lt;p&gt;Of course, as Annas herself observed, it is notoriously difficult to move beyond this general characterization to a detailed account of the ontology and methodology of Aristotelian mathematics. Today, as I see it, Samuel has pointed out another difficulty for this project, one that has so far received insufficient attention from commentators. The problem, as I understand it, is this. On the one hand, Aristotle clearly intends for his conception of mathematics to be an alternative to a Platonic theory according to which mathematical objects form a distinct class of ontological &amp;ldquo;intermediates&amp;rdquo; that are nevertheless present in and inseparable from perceptible bodies. For Aristotle, positing such a class of entities is not only redundant but indefensible, since it entails such impossible conclusions as that two solids, one perceptible and one mathematical, can be located in the same place, and that mathematical solids are divisible in the same way that perceptible bodies are.&lt;/p&gt;
-
-&lt;p&gt;But on the other hand, it is unclear just how successfully Aristotle himself avoids the complications he attributes to the theory of intermediates. For another distinctive claim of Aristotle&amp;rsquo;s philosophy of mathematics is that particular mathematical objects are hylomorphic compounds of form and &lt;em&gt;intelligible&lt;/em&gt; matter, just as particular perceptible bodies are compounds of form and &lt;em&gt;perceptible&lt;/em&gt; matter. As Samuel pointed out, there are a few ways of spelling out what Aristotle might mean by &amp;ldquo;mathematical particulars&amp;rdquo;. But whatever we take them to be, the question arises how they relate to the perceptible particulars studied by the natural scientist and the mathematician alike.&lt;/p&gt;
-
-&lt;p&gt;Now, given that Aristotle thinks of mathematical objects as both ontologically dependent on and abstractions from perceptible bodies, it would seem attractive to interpret their ontological dependence along the lines of &lt;em&gt;Categories&lt;/em&gt; 2. So understood, a mathematical object such as &lt;em&gt;this&lt;/em&gt; sphere would be present in and inseparable from (say) a spherical planet, not by being a part, but in such a way that the universal sphere instantiated by the particular mathematical sphere is paronymously predicable of the planet&amp;mdash;making the planet, not a sphere, but &lt;em&gt;spherical&lt;/em&gt;. But on such a reading mathematical particulars would seem to be &lt;em&gt;in&lt;/em&gt; perceptible particulars in precisely the way that made inseparable Platonic intermediates objectionable.&lt;/p&gt;
-
-&lt;p&gt;According to Samuel, the way out of this difficulty is to appreciate that the ontological dependence of mathematical particulars on perceptible particulars need &lt;em&gt;not&lt;/em&gt; be modeled on the dependence of non-substance particulars on primary substances&amp;mdash;a view he calls the &amp;ldquo;Babuska interpretation&amp;rdquo; and attributes to commentators like Ian Mueller and Edward Hussey. Another model can be found in the way &lt;em&gt;secondary substances&lt;/em&gt; depend on primary substances, &lt;em&gt;e.g.&lt;/em&gt; in &lt;em&gt;Categories&lt;/em&gt; 5. Understood along these lines, mathematical particulars turn out to be the universal &amp;ldquo;quasi-species&amp;rdquo; of the class of their perceptible instances. They would be &lt;em&gt;particular&lt;/em&gt; insofar as each is a maximally differentiated species of the generic mathematical kind to which it belongs, but nevertheless predicable of, and to that extent ontologically &lt;em&gt;dependent on&lt;/em&gt;, their perceptible instances.&lt;/p&gt;
-
-&lt;p&gt;A crucial initial question for Samuel&amp;rsquo;s proposal is what the qualification &amp;ldquo;quasi&amp;rdquo; amounts to. Ordinarily, for Aristotle, to say that X is the &lt;em&gt;species&lt;/em&gt; of Y is to say that the definition of X applies non-homonymously to Y; but this is not true, for instance, of the universal sphere and spherical bodies such as planets. For the sphere is defined as a certain determination of three-dimensional extension, whereas a planet a certain sort of natural body, a body which is both perceptible and changeable. (The same, I think, can be said of the bronze and wooden isosceles triangles from Samuel&amp;rsquo;s examples.) So one question I&amp;rsquo;d like to pose for discussion is this: in what sense can mathematical particulars be the &lt;em&gt;species&lt;/em&gt; of perceptible particulars, given that the ordinary relation between species and species-member does not obtain?&lt;/p&gt;
-
-&lt;p&gt;But the main concern I want to raise about the species interpretation is that it seems to me to underestimate the depth of the difficulty Samuel has identified. It is not just on the so-called Babushka interpretation that Aristotle appears committed to the view that mathematical particulars are in perceptible particulars. Aristotle himself seems to claim that intelligible matter is &amp;ldquo;present in&amp;rdquo; (&lt;em&gt;huparchousa en&lt;/em&gt;) perceptible objects, and to do so in language that mirrors &lt;em&gt;both&lt;/em&gt; the &lt;em&gt;Categories&lt;/em&gt; 2 account of in-predecation &lt;em&gt;and&lt;/em&gt; the objections against inseparable Platonic intermediates in &lt;em&gt;Metaphysics&lt;/em&gt; B 2 and M 2 (1036a9&amp;ndash;12):&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;And some matter is perceptible and some intelligible, perceptible matter being for instance bronze and wood and all matter that is changeable, and intelligible matter being that which is present in perceptible objects not qua perceptible, such as mathematical objects.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;\noindent A natural reading of these lines suggests that mathematical particulars are compounds of form and intelligible matter that is present in perceptible particulars. But if so, then we cannot extricate Aristotle from the problem we&amp;rsquo;ve been discussing simply by rethinking the ontological dependence relation that obtains between mathematical particulars and perceptible particulars. For, on his view, the matter of mathematical particulars &lt;em&gt;is&lt;/em&gt; present in perceptible particulars, albeit &lt;em&gt;not&lt;/em&gt; insofar as they are perceptible.&lt;/p&gt;
-
-&lt;p&gt;I suspect it is by means of this qualification that Aristotle intends to avoid the consequences he attributes to inseparable Platonic intermediates. To see the point of the qualification, consider an analogy. Arguably, for Aristotle, what makes it true to say that a tulip is red is not that redness is said of the tulip, but that there is something &amp;ldquo;in&amp;rdquo; the tulip&amp;mdash;its color&amp;mdash;to which the definition of redness applies. This thing, the tulip&amp;rsquo;s color, is said to be &amp;ldquo;in&amp;rdquo; the tulip because its proper subject&amp;mdash;its &lt;em&gt;matter&lt;/em&gt;&amp;mdash;is not the tulip as such but its &lt;em&gt;surface&lt;/em&gt;; the tulip&amp;rsquo;s color just &lt;em&gt;is&lt;/em&gt; a certain determination of the surface of a bounded body.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Cf-Sens-439b10-1&#34;&gt;&lt;a href=&#34;#fn:Cf-Sens-439b10-1&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Likewise, what makes it true to say that a planet is spherical is not that sphericity is said of the planet; a planet is a heavenly body, not a geometrical solid. Rather, it is that there is something &amp;ldquo;in&amp;rdquo; the planet&amp;mdash;its shape&amp;mdash;to which the definition of sphericity applies. This thing, the planet&amp;rsquo;s shape, is said to be &amp;ldquo;in&amp;rdquo; the planet because its proper subject&amp;mdash;its &lt;em&gt;matter&lt;/em&gt;&amp;mdash;is not the planet as such but its three-dimensional &lt;em&gt;extension&lt;/em&gt;. The planet&amp;rsquo;s extension, however, is not perceptible and changeable, as the tulip&amp;rsquo;s surface is; to mistake the matter of the planet&amp;rsquo;s sphericity with its perceptible surface would be to mistake a logically separable feature like sphericity for one, like color, which cannot be defined independently of the perceptible matter of which it is said. To be sure, Aristotle accepts that the planet&amp;rsquo;s sphericity is &lt;em&gt;ontologically&lt;/em&gt; inseparable from the planet itself. But in his view the fact that the planet&amp;rsquo;s sphericity is &lt;em&gt;logically&lt;/em&gt; separable is an indication that it is ontologically posterior to, and an abstraction from, the planet&amp;rsquo;s perceptible physical extension, an object graspable only in thought and whose extra-mental existence is, as he claims, at best &amp;ldquo;unclear&amp;rdquo;.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Metaph-1036a6-7&#34;&gt;&lt;a href=&#34;#fn:Metaph-1036a6-7&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Of course, it would be difficult to move beyond this general characterization to a detailed account of how the ontological posteriority of Aristotelian mathematical particulars eliminates the conflict with perceptible particulars that appears on the Platonic account. But I think appreciating the contrast between the way tulips are red and the way planets are spherical gets us some way toward understanding why Aristotle posits intelligible matter in the first place.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:Annas-1976-30&#34;&gt;Annas 1976, 30 &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Annas-1976-30&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:Cf-Sens-439b10-1&#34;&gt;&lt;em&gt;Cf.&lt;/em&gt;\ &lt;em&gt;Sens.&lt;/em&gt;\ 439b10&amp;ndash;12 &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Cf-Sens-439b10-1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:Metaph-1036a6-7&#34;&gt;&lt;em&gt;Metaph.&lt;/em&gt;\ 1036a6&amp;ndash;7 &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Metaph-1036a6-7&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;A part may be a part either of the form (&lt;em&gt;i.e.&lt;/em&gt;\ the essence), or of the compound of the form and the matter, or of the matter itself. But only the parts of the form are parts of the account, and the account is of the universal; for being a circle is the same as the circle, and being a soul is the same as the soul. But when we come to the concrete thing, &lt;em&gt;e.g.&lt;/em&gt;\ this circle, &lt;em&gt;i.e.&lt;/em&gt;\ one of the individual circles, whether sensible or intelligible (I mean by intelligible for instance mathematical [circles], and by sensible those of bronze and of wood), of these there is no definition, but they are known by the aid of thought or perception; and when they go out of our actual consciousness it is not clear whether they exist or not; but they are always stated and cognized by means of the universal account. But matter is unknowable in itself. &lt;strong&gt;And some matter is perceptible and some intelligible, perceptible matter being for instance bronze and wood and all matter that is changeable, and intelligible matter being that which is present in perceptible things not qua perceptible, such as mathematical objects.&lt;/strong&gt; We have stated, then, how whole and part, and prior and posterior, are related.&lt;/p&gt;
 </description>
     </item>
     

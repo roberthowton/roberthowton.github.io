@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://www.roberthowton.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://www.roberthowton.com/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>https://www.roberthowton.com/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Biography</title>
       <link>https://www.roberthowton.com/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/about/</guid>
       <description>I am Assistant Professor in the Department of Philosophy at Koç University in Istanbul. I received my PhD in 2017 from the Department of Philosophy and the Collaborative Programme in Ancient and Medieval Philosophy at the University of Toronto. Before coming to Koç, I was Visiting Lecturer in the Department of Philosophy at the University of Pittsburgh.
@@ -43,7 +43,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Skills</title>
       <link>https://www.roberthowton.com/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/skills/</guid>
       <description></description>
@@ -70,7 +70,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Featured Publications</title>
       <link>https://www.roberthowton.com/home/publications_featured/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/publications_featured/</guid>
       <description></description>
@@ -88,7 +88,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Papers</title>
       <link>https://www.roberthowton.com/home/papers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/papers/</guid>
       <description></description>
@@ -97,7 +97,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Recent Publications</title>
       <link>https://www.roberthowton.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/publications/</guid>
       <description></description>
@@ -106,7 +106,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Featured Talks</title>
       <link>https://www.roberthowton.com/home/talks_featured/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/talks_featured/</guid>
       <description></description>
@@ -115,7 +115,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://www.roberthowton.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/talks/</guid>
       <description></description>
@@ -124,7 +124,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Recent Posts</title>
       <link>https://www.roberthowton.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/posts/</guid>
       <description></description>
@@ -133,7 +133,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Projects</title>
       <link>https://www.roberthowton.com/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/projects/</guid>
       <description></description>
@@ -142,7 +142,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Teaching</title>
       <link>https://www.roberthowton.com/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/teaching/</guid>
       <description></description>
@@ -151,7 +151,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Tags</title>
       <link>https://www.roberthowton.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/tags/</guid>
       <description></description>
@@ -160,7 +160,7 @@ My research interests lie principally in ancient Greek and Roman philosophy and 
     <item>
       <title>Contact</title>
       <link>https://www.roberthowton.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://www.roberthowton.com/home/contact/</guid>
       <description></description>
