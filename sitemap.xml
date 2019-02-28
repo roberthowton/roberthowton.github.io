@@ -84,14 +84,6 @@
     
     <url>
     
-      <loc>https://www.roberthowton.com/apa/</loc>
-      <lastmod>2019-02-21T11:07:32-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.roberthowton.com/author/admin/</loc>
       <lastmod>2019-02-04T11:33:07+03:00</lastmod>
     </url>
@@ -109,15 +101,6 @@
     
     <url>
     
-      <loc>https://www.roberthowton.com/authors/admin/</loc>
-      <lastmod>2019-02-21T11:07:32-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.roberthowton.com/author/</loc>
       <priority>0</priority>
     </url>
@@ -127,7 +110,6 @@
     <url>
     
       <loc>https://www.roberthowton.com/authors/</loc>
-      <lastmod>2019-02-21T11:07:32-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -154,6 +136,14 @@
       <loc>https://www.roberthowton.com/tags/current-courses/</loc>
       <lastmod>2019-01-29T12:52:20+03:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.roberthowton.com/slides/paperwriting/howto/</loc>
+      <lastmod>2019-02-28T12:44:14+03:00</lastmod>
     </url>
     
   

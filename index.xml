@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -383,39 +383,208 @@
     </item>
     
     <item>
-      <title>Comments on Meister</title>
-      <link>https://www.roberthowton.com/apa/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <title>How to Write a Philosophy Paper</title>
+      <link>https://www.roberthowton.com/slides/paperwriting/howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.roberthowton.com/apa/</guid>
+      <guid>https://www.roberthowton.com/slides/paperwriting/howto/</guid>
       <description>
 
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+&lt;h1 id=&#34;how-to-write-a-philosophy-paper&#34;&gt;How to Write a Philosophy Paper&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;the-goal-of-a-philosophy-paper&#34;&gt;The Goal of a Philosophy Paper&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;question&#34;&gt;Question&lt;/h3&gt;
+
+&lt;p&gt;What makes a philosophy paper successful?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Answer&lt;/h3&gt;
+
+A successful philosophy paper does two things:
+
+&lt;/section&gt;
+
+&lt;section&gt;
+1. It makes an &lt;em&gt;argument&lt;/em&gt; for a specific &lt;em&gt;claim&lt;/em&gt;; i.e., it &lt;em&gt;defends&lt;/em&gt; a &lt;em&gt;thesis&lt;/em&gt;!
+&lt;/section&gt;
+
+&lt;section&gt;
+2. The argument it makes is &lt;em&gt;intelligible&lt;/em&gt; and &lt;em&gt;convincing&lt;/em&gt; to the reader as well.
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;planning-a-successful-philosophy-paper&#34;&gt;Planning a Successful Philosophy Paper&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt; Step 1: Select a &lt;em&gt;thesis&lt;/em&gt; &lt;/h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt; Exercise: What theses address the TP1 prompt? &lt;/h4&gt;
+
+How does Descartes reply to the &#34;Cartesian Circle&#34; objection in his &lt;em&gt;Objections &amp; Replies&lt;/em&gt;? In your view, is his reply successful? Why or why not?
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Step 2: Develop an &lt;em&gt;argument&lt;/em&gt; for that thesis.&lt;/h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Three forms of argument&lt;/h4&gt;
+
+&lt;h5&gt; 1. Deductive [Must be Valid and Sound!] &lt;/h5&gt;
+
+All humans are mortal. Socrates is a human. Therefore, Socrates is mortal. &lt;br&gt;&lt;br&gt;
+
+Moose is a dog. Moose does not have fleas. Therefore, not all dogs have fleas.
+
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Three forms of argument&lt;/h4&gt;
+
+&lt;h5&gt; 2. Inductive [Sample Must be Representative!]&lt;/h5&gt;
+
+a, b, c, and d are all Fs which are also G. Therefore, &lt;em&gt;all&lt;/em&gt; Fs are Gs.
+
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Three forms of argument&lt;/h4&gt;
+
+&lt;h5&gt;3. Abductive [Must be Best Available Explanation!]&lt;/h5&gt;
+
+Increase in carbon emissions correlates with increasingly rapid climate change; there is no other correlation which could better explain increasingly rapid climate change; therefore, increase in carbon emissions &lt;em&gt;causes&lt;/em&gt; climate change.
+
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Exercise: What argument(s) support the theses that address the TP1 prompt?&lt;/h4&gt;
+
+(Hint: by identifying the form of argument Descartes is giving, we can develop a strategy for supporting or undermining it.)
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Step 3: Construct an outline&lt;h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+(Hint: your outline should present the argument in a way that your peers can understand.)
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Elements of an outline&lt;/h4&gt;
+&lt;h5&gt;I. Introduction&lt;/h5&gt;
+
+Introduces the problem/question; draws in the reader; states thesis.
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Elements of an outline&lt;/h4&gt;
+&lt;h5&gt;II. Exegesis [Optional]&lt;/h5&gt;
+
+Adds any other relevant information that the reader must know in order to understand the argument to come.
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Elements of an outline&lt;/h4&gt;
+&lt;h5&gt;III. Body&lt;/h5&gt;
+
+States, as clearly and succinctly as possible, the argument for the thesis.
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Elements of an outline&lt;/h4&gt;
+&lt;h5&gt;IV. Conclusion&lt;/h5&gt;
+
+Provides extremely brief restatement of thesis and argument for it; convinces the reader of the significance of the paper&#39;s conclusion(s)
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Exercise: Construct an outline for the TP1 thesis you&#39;ve chosen.&lt;/h4&gt;
+
+(Hints: If you&#39;re arguing that Descartes&#39; argument is successful, why is the most convincing argument against his conclusion incorrect? If you&#39;re arguing that his argument is unsuccessful, where does the argument go wrong?)
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Step 4: Fill in your outline with complete sentences&lt;h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+
+(Hint: Ideally, the most nested items in each &#34;stem&#34; of your outline will correspond to a single paragraph.)
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;developing-philosophical-writing-skills&#34;&gt;Developing Philosophical Writing Skills&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;tips-for-writing-philosophy&#34;&gt;Tips for Writing Philosophy&lt;/h3&gt;
+
 &lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#passage&#34;&gt;Passage&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#metaphysics-z-10-1035b31-1036a13-tr-modified-from-ross&#34;&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z 10, 1035b31&amp;ndash;1036a13 (tr. modified from Ross)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Get to the point! (No &amp;ldquo;since the dawn of time&amp;hellip;&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Write plainly!&lt;/li&gt;
+&lt;li&gt;Use &amp;lsquo;I&amp;rsquo;, &amp;lsquo;me&amp;rsquo;, &amp;lsquo;my&amp;rsquo;!&lt;/li&gt;
+&lt;li&gt;Provide clear transitions: &amp;lsquo;therefore&amp;rsquo;, &amp;lsquo;however&amp;rsquo;, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Signpost&lt;/strong&gt;: state what you&amp;rsquo;ve done; what you&amp;rsquo;re going to do (&amp;lsquo;I will now argue&amp;rsquo;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/nav&gt;
 
+&lt;hr /&gt;
 
-&lt;h2 id=&#34;passage&#34;&gt;Passage&lt;/h2&gt;
+&lt;h3 id=&#34;improving-philosophical-writing&#34;&gt;Improving Philosophical Writing&lt;/h3&gt;
 
-&lt;h4 id=&#34;metaphysics-z-10-1035b31-1036a13-tr-modified-from-ross&#34;&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z 10, 1035b31&amp;ndash;1036a13 (tr. modified from Ross)&lt;/h4&gt;
+&lt;hr /&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;μέρος μὲν οὖν ἐστὶ καὶ τοῦ εἴδους (εἶδος δὲ λέγω τὸ τί ἦν εἶναι) καὶ τοῦ συνόλου τοῦ ἐκ τοῦ εἴδους καὶ τῆς ὕλης &amp;lt;καὶ τῆς ὕλης&amp;gt; αὐτῆς. ἀλλὰ τοῦ λόγου μέρη τὰ τοῦ εἴδους μόνον ἐστίν, ὁ δὲ λόγος ἐστὶ τοῦ καθόλου· τὸ γὰρ κύκλῳ εἶναι καὶ κύκλος καὶ ψυχῇ εἶναι καὶ ψυχὴ ταὐτό. τοῦ δὲ συνόλου ἤδη, οἷον κύκλου τουδὶ καὶ τῶν καθ&amp;rsquo; ἕκαστά τινος ἢ αἰσθητοῦ ἢ νοητοῦ – λέγω δὲ νοητοὺς μὲν οἷον τοὺς μαθηματικούς, αἰσθητοὺς δὲ οἷον τοὺς χαλκοῦς καὶ τοὺς ξυλίνους – τούτων δὲ οὐκ ἔστιν ὁρισμός, ἀλλὰ μετὰ νοήσεως ἢ αἰσθήσεως γνωρίζονται, ἀπελθόντες δὲ ἐκ τῆς ἐντελεχείας οὐ δῆλον πότερον εἰσὶν ἢ οὐκ εἰσίν· ἀλλ&amp;rsquo; ἀεὶ λέγονται καὶ γνωρίζονται τῷ καθόλου λόγῳ. ἡ δ&amp;rsquo; ὕλη ἄγνωστος καθ&amp;rsquo; αὑτήν. &lt;strong&gt;ὕλη δὲ ἡ μὲν αἰσθητή ἐστιν ἡ δὲ νοητή, αἰσθητὴ μὲν οἷον χαλκὸς καὶ ξύλον καὶ ὅση κινητὴ ὕλη, νοητὴ δὲ ἡ ἐν τοῖς αἰσθητοῖς ὑπάρχουσα μὴ ᾗ αἰσθητά, οἷον τὰ μαθηματικά.&lt;/strong&gt; πῶς μὲν οὖν ἔχει περὶ ὅλου καὶ μέρους καὶ περὶ τοῦ προτέρου καὶ ὑστέρου, εἴρηται.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;section&gt;
+&lt;h4&gt; 1. Argument reconstructions &lt;/h4&gt;
 
-&lt;p&gt;A part may be a part either of the form (&lt;em&gt;i.e.&lt;/em&gt; the essence), or of the compound of the form and the matter, or of the matter itself. But only the parts of the form are parts of the account, and the account is of the universal; for being a circle is the same as the circle, and being a soul is the same as the soul. But when we come to the concrete thing, &lt;em&gt;e.g.&lt;/em&gt; this circle, &lt;em&gt;i.e.&lt;/em&gt; one of the individual circles, whether sensible or intelligible (I mean by intelligible for instance mathematical [circles], and by sensible those of bronze and of wood), of these there is no definition, but they are known by the aid of thought or perception; and when they go out of our actual consciousness it is not clear whether they exist or not; but they are always stated and cognized by means of the universal account. But matter is unknowable in itself. &lt;strong&gt;And some matter is perceptible and some intelligible, perceptible matter being for instance bronze and wood and all matter that is changeable, and intelligible matter being that which is present in perceptible things not qua perceptible, such as mathematical objects.&lt;/strong&gt; We have stated, then, how whole and part, and prior and posterior, are related.&lt;/p&gt;
+Take an argumentative passage, identify the premises and conclusion, and restate the argument in your own words.
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h5&gt;Sample Passage 1: Objections&lt;/h5&gt;
+
+&lt;q&gt;My only remaining concern is whether the author does not commit a vicious circle when he says that we have no other basis on which to establish that what we clearly and distinctly perceive is true, than that God exists. But we can be certain that God exists only because we clearly and evidently perceive this fact. Therefore, before we are certain that God exists, we ought to be certain that whatever we clearly and evidently perceive is true.&lt;/q&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h5&gt;Sample Passage 2: Replies&lt;/h5&gt;
+
+&lt;q&gt;I drew a distinction between what we are actually perceiving clearly and what we recall having clearly perceived sometime earlier. For first of all it is manifest to us that God exists, since we are attending to the arguments that prove this; but later on, it is enough for us to recall our having clearly perceived something in order to be certain that it is true. This would not suffice, unless we knew that God exists and does not deceive us.&lt;/q&gt;
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jimpryor.net/teaching/guidelines/writing.html&#34; target=&#34;_blank&#34;&gt;Guidelines on Writing a Philosophy Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://philosophy.fas.harvard.edu/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf&#34; target=&#34;_blank&#34;&gt;Brief Guide to Writing a Philosophy Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://global.oup.com/us/companion.websites/9780190200237/stud/guide/&#34; target=&#34;_blank&#34;&gt;Guide to Writing Philosophy Papers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
