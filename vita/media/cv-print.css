@@ -54,10 +54,28 @@ table {
 
 body {
 	font: normal normal 400;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	font-size: 9pt;
+	line-height: 1.35em;
+	font-family: "Open sans", sans-serif;
+=======
+<<<<<<< HEAD
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 	font-size: 10pt;
 	line-height: 1.5em;
 	font-family: "Minion Pro", serif;
 	/* font-family: "Open sans", sans-serif; */
+<<<<<<< HEAD
+=======
+=======
+	font-size: 9pt;
+	line-height: 1.35em;
+	font-family: "Open sans", sans-serif;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -65,21 +83,63 @@ body {
 p {
 	position: relative;
 	left: 28%;
+<<<<<<< HEAD
 	margin-bottom: 0.2em;
+=======
+<<<<<<< HEAD
+	/* margin-bottom: 0.2em; */
+=======
+<<<<<<< HEAD
+	margin-bottom: 0.2em;
+=======
+	/* margin-bottom: 0.2em; */
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 	margin-right: 0;
 	width: 70%;
 }
 
 code {
 	font: normal normal;
+<<<<<<< HEAD
 	font-size: 75%;
 	font-family: Menlo, monospace,sans-serif;
 	color: #363636;
+=======
+<<<<<<< HEAD
+	font-size: 70%;
+	font-family: Menlo, monospace,s ans-serif;
+	color: #444;
+=======
+<<<<<<< HEAD
+	font-size: 75%;
+	font-family: Menlo, monospace,sans-serif;
+	color: #363636;
+=======
+	font-size: 70%;
+	font-family: Menlo, monospace,s ans-serif;
+	color: #444;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 }
 
 p code {
 	position: absolute;
+<<<<<<< HEAD
 	left: -9%;
+=======
+<<<<<<< HEAD
+	left: -10%;
+=======
+<<<<<<< HEAD
+	left: -9%;
+=======
+	left: -10%;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 }
 
 
@@ -89,9 +149,27 @@ ul {
 	width: 65%;
 	margin-bottom: 1em;
 	margin-top: 2em;
+<<<<<<< HEAD
 	columns: 2;
 	-webkit-columns: 2;
 	-moz-columns: 2;
+=======
+<<<<<<< HEAD
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+=======
+<<<<<<< HEAD
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
+=======
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 }
 
 li {
@@ -104,6 +182,13 @@ li ul {
 	margin-top: 0.25em;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+h1,h2,h3,h4 {
+=======
+<<<<<<< HEAD
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 h1 {
 	font-weight: 400;
 	width: 65%;
@@ -111,6 +196,13 @@ h1 {
 }
 
 h2,h3,h4 {
+<<<<<<< HEAD
+=======
+=======
+h1,h2,h3,h4 {
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
@@ -149,8 +241,23 @@ h2+p {
 }
 
 h3 {
+<<<<<<< HEAD
 	/* color: #F07415; */
 	font-size: .9em;
+=======
+<<<<<<< HEAD
+	color: #F07415;
+	font-size: 1em;
+=======
+<<<<<<< HEAD
+	/* color: #F07415; */
+	font-size: .9em;
+=======
+	color: #F07415;
+	font-size: 1em;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 	line-height: 2em;
 	color: #444;
 	position: relative;
@@ -174,7 +281,19 @@ a:hover {
 	left: 28%;
 	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
+<<<<<<< HEAD
 	font-size: 90%;
+=======
+<<<<<<< HEAD
+	font-size: 80%;
+=======
+<<<<<<< HEAD
+	font-size: 90%;
+=======
+	font-size: 80%;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 }
 
 #webaddress a {
@@ -182,7 +301,19 @@ a:hover {
 }
 
 em {
+<<<<<<< HEAD
 	font-style: italic;
+=======
+<<<<<<< HEAD
+	font-style: normal;
+=======
+<<<<<<< HEAD
+	font-style: italic;
+=======
+	font-style: normal;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 	color: #2d4e5e
 }
 
@@ -196,9 +327,27 @@ strong {
 }
 
 
+<<<<<<< HEAD
 /* #links {
 	 page-break-before: always;
 } */
+=======
+<<<<<<< HEAD
+#links {
+	 page-break-before: always;  
+}
+=======
+<<<<<<< HEAD
+/* #links {
+	 page-break-before: always;
+} */
+=======
+#links {
+	 page-break-before: always;  
+}
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -211,9 +360,21 @@ strong {
 		margin-right: 0;
 		width: 65%;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
 
 @media print {
   .no-print {
     visibility: hidden;
   }
 }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
+>>>>>>> 531278c5a34b791e78d85a89cc8be9d5c4e63a7b
+>>>>>>> ab2963c1b92bb0e81d04dba0e5dd724f5de98634
