@@ -54,7 +54,11 @@ table {
 
 body {
 	font: normal normal 400;
+<<<<<<< HEAD
 	font-size: 100%;
+=======
+	font-size: 80%;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
@@ -67,14 +71,24 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
+<<<<<<< HEAD
 	width: 70%;
+=======
+	width: 65%;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 }
 
 code {
 	font: normal normal;
+<<<<<<< HEAD
 	font-size: 80%;
 	font-family: Menlo, monospace,sans-serif;
 	color: #363636;
+=======
+	font-size: 90%;
+	font-family: Menlo, monospace, sans-serif;
+	color: #aaa;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 }
 
 p code {
@@ -89,9 +103,15 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
+<<<<<<< HEAD
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
+=======
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 }
 
 
@@ -112,15 +132,21 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+<<<<<<< HEAD
 	color: #222;
 	text-align: left;
 	text-transform: uppercase;
+=======
+	color: #fd9544;
+	text-align: left;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
 	left: 25%;
 	/* padding: .1rem 1rem; */
+<<<<<<< HEAD
   /* text-shadow: 1px 1px #fff,
       					1px 2px #ccc; */
 }
@@ -133,6 +159,11 @@ h1 {
 	position: relative;
 	left: 28%;
 } */
+=======
+  text-shadow: 1px 1px #fff,
+      					1px 2px #ccc;
+}
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 
 h1+p {
 	/*subtitle*/
@@ -146,8 +177,13 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
+<<<<<<< HEAD
 	color: #a00;
 	/* color: #1D49A0; */
+=======
+	/* color: #a00; */
+	color: #1D49A0;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
@@ -156,7 +192,11 @@ h2 {
 }
 
 h3 {
+<<<<<<< HEAD
 	color: #444;
+=======
+	color: #F07415;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	font-size: 1em;
 	line-height: 2em;
 	position: relative;
@@ -180,7 +220,11 @@ a:hover {
   margin-left: 25%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
+<<<<<<< HEAD
 	font-size: 90%;
+=======
+	font-size: 80%;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 }
 
 #webaddress a {

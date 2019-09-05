@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/roberthowton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://roberthowton.com
+  * I am roberthowton (https://keybase.io/roberthowton) on keybase.
+  * I have a public key ASCFVn6LG9wmYY6oXFwsEeCsBmcS4mqlQY26DDYiBHEyAQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012085567e8b1bdc26618ea85c5c2c11e0ac066712e26aa5418dba0c3622047132010a",
+      "host": "keybase.io",
+      "kid": "012085567e8b1bdc26618ea85c5c2c11e0ac066712e26aa5418dba0c3622047132010a",
+      "uid": "cf9d8aa9c6d8b1dad80e484aa8e84219",
+      "username": "roberthowton"
+    },
+    "merkle_root": {
+      "ctime": 1561805668,
+      "hash": "6283a3f77a364b3e355acf65c22c0087bbe3e7681640e845fc30e0aa5a1a5988201a064ba2250ea6d773025c3e4209864ceb688577d4ca21b2231e14deab0f20",
+      "hash_meta": "77b5e01f691c5e0c6025b415791a9a4a7b8076ebe06f1d7aebf1732bdd10372e",
+      "seqno": 5662354
+    },
+    "service": {
+      "entropy": "Kwm5kOmjhLaQYkxGLcYdxUB+",
+      "hostname": "roberthowton.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1561805700,
+  "expire_in": 504576000,
+  "prev": "e555d4bd4c65f9216b4d326be3175af06e8a8a2a7f3f02db64c15ff27c481a96",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghVZ+ixvcJmGOqFxcLBHgrAZnEuJqpUGNugw2IgRxMgEKp3BheWxvYWTESpcCCsQg5VXUvUxl+SFrTTJr4xda8G6Kiip/PwLbZMFf8nxIGpbEIAbcnrsBPmtvi2RNUMZiv36Am9PhdJO0R7jZmjN9dlbOAgHCo3NpZ8RAaImET3HKnDNU3EIvzY3eo7YtymEtESiagBRB86RcpYYPpe7JJgY3CcYXcNCaYX9rAcJzf0AFZSF4cWeqqDIPAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIITVHIv7Zf11ORn5EWDFKlaZJN9N74DGNxOaBTQ1yHuSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/roberthowton
+
+==================================================================

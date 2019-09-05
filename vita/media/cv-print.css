@@ -54,10 +54,16 @@ table {
 
 body {
 	font: normal normal 400;
+<<<<<<< HEAD
 	font-size: 10pt;
 	line-height: 1.5em;
 	font-family: "Minion Pro", serif;
 	/* font-family: "Open sans", sans-serif; */
+=======
+	font-size: 9pt;
+	line-height: 1.35em;
+	font-family: "Open sans", sans-serif;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -65,21 +71,35 @@ body {
 p {
 	position: relative;
 	left: 28%;
+<<<<<<< HEAD
 	margin-bottom: 0.2em;
+=======
+	/* margin-bottom: 0.2em; */
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	margin-right: 0;
 	width: 70%;
 }
 
 code {
 	font: normal normal;
+<<<<<<< HEAD
 	font-size: 75%;
 	font-family: Menlo, monospace,sans-serif;
 	color: #363636;
+=======
+	font-size: 70%;
+	font-family: Menlo, monospace,s ans-serif;
+	color: #444;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 }
 
 p code {
 	position: absolute;
+<<<<<<< HEAD
 	left: -9%;
+=======
+	left: -10%;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 }
 
 
@@ -89,9 +109,15 @@ ul {
 	width: 65%;
 	margin-bottom: 1em;
 	margin-top: 2em;
+<<<<<<< HEAD
 	columns: 2;
 	-webkit-columns: 2;
 	-moz-columns: 2;
+=======
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 }
 
 li {
@@ -104,6 +130,7 @@ li ul {
 	margin-top: 0.25em;
 }
 
+<<<<<<< HEAD
 h1 {
 	font-weight: 400;
 	width: 65%;
@@ -111,6 +138,9 @@ h1 {
 }
 
 h2,h3,h4 {
+=======
+h1,h2,h3,h4 {
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
@@ -149,8 +179,13 @@ h2+p {
 }
 
 h3 {
+<<<<<<< HEAD
 	/* color: #F07415; */
 	font-size: .9em;
+=======
+	color: #F07415;
+	font-size: 1em;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	line-height: 2em;
 	color: #444;
 	position: relative;
@@ -174,7 +209,11 @@ a:hover {
 	left: 28%;
 	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
+<<<<<<< HEAD
 	font-size: 90%;
+=======
+	font-size: 80%;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 }
 
 #webaddress a {
@@ -182,7 +221,11 @@ a:hover {
 }
 
 em {
+<<<<<<< HEAD
 	font-style: italic;
+=======
+	font-style: normal;
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 	color: #2d4e5e
 }
 
@@ -196,9 +239,15 @@ strong {
 }
 
 
+<<<<<<< HEAD
 /* #links {
 	 page-break-before: always;
 } */
+=======
+#links {
+	 page-break-before: always;  
+}
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -211,9 +260,12 @@ strong {
 		margin-right: 0;
 		width: 65%;
 }
+<<<<<<< HEAD
 
 @media print {
   .no-print {
     visibility: hidden;
   }
 }
+=======
+>>>>>>> 31cb770865bf6c801d0bcdf4ada2440de377d461
