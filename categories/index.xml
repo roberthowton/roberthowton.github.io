@@ -4,11 +4,11 @@
     <title>Categories on Robert Howton</title>
     <link>https://www.roberthowton.com/categories/</link>
     <description>Recent content in Categories on Robert Howton</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
     
-	<atom:link href="https://www.roberthowton.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.roberthowton.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

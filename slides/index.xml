@@ -4,11 +4,11 @@
     <title>Slides on Robert Howton</title>
     <link>https://www.roberthowton.com/slides/</link>
     <description>Recent content in Slides on Robert Howton</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robert Howton</copyright>
     
-	<atom:link href="https://www.roberthowton.com/slides/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.roberthowton.com/slides/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,204 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.roberthowton.com/slides/paperwriting/howto/</guid>
-      <description>How to Write a Philosophy Paper The Goal of a Philosophy Paper Question What makes a philosophy paper successful?
- Answer A successful philosophy paper does two things:   1. It makes an argument for a specific claim; i.e., it defends a thesis!   2. The argument it makes is intelligible and convincing to the reader as well.  Planning a Successful Philosophy Paper   Step 1: Select a thesis     Exercise: What theses address the TP1 prompt?</description>
+      <description>
+
+&lt;h1 id=&#34;how-to-write-a-philosophy-paper&#34;&gt;How to Write a Philosophy Paper&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;the-goal-of-a-philosophy-paper&#34;&gt;The Goal of a Philosophy Paper&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;question&#34;&gt;Question&lt;/h3&gt;
+
+&lt;p&gt;What makes a philosophy paper successful?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Answer&lt;/h3&gt;
+
+A successful philosophy paper does two things:
+
+&lt;/section&gt;
+
+&lt;section&gt;
+1. It makes an &lt;em&gt;argument&lt;/em&gt; for a specific &lt;em&gt;claim&lt;/em&gt;; i.e., it &lt;em&gt;defends&lt;/em&gt; a &lt;em&gt;thesis&lt;/em&gt;!
+&lt;/section&gt;
+
+&lt;section&gt;
+2. The argument it makes is &lt;em&gt;intelligible&lt;/em&gt; and &lt;em&gt;convincing&lt;/em&gt; to the reader as well.
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;planning-a-successful-philosophy-paper&#34;&gt;Planning a Successful Philosophy Paper&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt; Step 1: Select a &lt;em&gt;thesis&lt;/em&gt; &lt;/h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt; Exercise: What theses address the TP1 prompt? &lt;/h4&gt;
+
+How does Descartes reply to the &#34;Cartesian Circle&#34; objection in his &lt;em&gt;Objections &amp; Replies&lt;/em&gt;? In your view, is his reply successful? Why or why not?
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Step 2: Develop an &lt;em&gt;argument&lt;/em&gt; for that thesis.&lt;/h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Three forms of argument&lt;/h4&gt;
+
+&lt;h5&gt; 1. Deductive [Must be Valid and Sound!] &lt;/h5&gt;
+
+All humans are mortal. Socrates is a human. Therefore, Socrates is mortal. &lt;br&gt;&lt;br&gt;
+
+Moose is a dog. Moose does not have fleas. Therefore, not all dogs have fleas.
+
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Three forms of argument&lt;/h4&gt;
+
+&lt;h5&gt; 2. Inductive [Sample Must be Representative!]&lt;/h5&gt;
+
+a, b, c, and d are all Fs which are also G. Therefore, &lt;em&gt;all&lt;/em&gt; Fs are Gs.
+
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Three forms of argument&lt;/h4&gt;
+
+&lt;h5&gt;3. Abductive [Must be Best Available Explanation!]&lt;/h5&gt;
+
+Increase in carbon emissions correlates with increasingly rapid climate change; there is no other correlation which could better explain increasingly rapid climate change; therefore, increase in carbon emissions &lt;em&gt;causes&lt;/em&gt; climate change.
+
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Exercise: What argument(s) support the theses that address the TP1 prompt?&lt;/h4&gt;
+
+(Hint: by identifying the form of argument Descartes is giving, we can develop a strategy for supporting or undermining it.)
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Step 3: Construct an outline&lt;h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+(Hint: your outline should present the argument in a way that your peers can understand.)
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Elements of an outline&lt;/h4&gt;
+&lt;h5&gt;I. Introduction&lt;/h5&gt;
+
+Introduces the problem/question; draws in the reader; states thesis.
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Elements of an outline&lt;/h4&gt;
+&lt;h5&gt;II. Exegesis [Optional]&lt;/h5&gt;
+
+Adds any other relevant information that the reader must know in order to understand the argument to come.
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Elements of an outline&lt;/h4&gt;
+&lt;h5&gt;III. Body&lt;/h5&gt;
+
+States, as clearly and succinctly as possible, the argument for the thesis.
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Elements of an outline&lt;/h4&gt;
+&lt;h5&gt;IV. Conclusion&lt;/h5&gt;
+
+Provides extremely brief restatement of thesis and argument for it; convinces the reader of the significance of the paper&#39;s conclusion(s)
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h4&gt;Exercise: Construct an outline for the TP1 thesis you&#39;ve chosen.&lt;/h4&gt;
+
+(Hints: If you&#39;re arguing that Descartes&#39; argument is successful, why is the most convincing argument against his conclusion incorrect? If you&#39;re arguing that his argument is unsuccessful, where does the argument go wrong?)
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Step 4: Fill in your outline with complete sentences&lt;h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+
+(Hint: Ideally, the most nested items in each &#34;stem&#34; of your outline will correspond to a single paragraph.)
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;developing-philosophical-writing-skills&#34;&gt;Developing Philosophical Writing Skills&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;tips-for-writing-philosophy&#34;&gt;Tips for Writing Philosophy&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Get to the point! (No &amp;ldquo;since the dawn of time&amp;hellip;&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Write plainly!&lt;/li&gt;
+&lt;li&gt;Use &amp;lsquo;I&amp;rsquo;, &amp;lsquo;me&amp;rsquo;, &amp;lsquo;my&amp;rsquo;!&lt;/li&gt;
+&lt;li&gt;Provide clear transitions: &amp;lsquo;therefore&amp;rsquo;, &amp;lsquo;however&amp;rsquo;, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Signpost&lt;/strong&gt;: state what you&amp;rsquo;ve done; what you&amp;rsquo;re going to do (&amp;lsquo;I will now argue&amp;rsquo;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;improving-philosophical-writing&#34;&gt;Improving Philosophical Writing&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;h4&gt; 1. Argument reconstructions &lt;/h4&gt;
+
+Take an argumentative passage, identify the premises and conclusion, and restate the argument in your own words.
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h5&gt;Sample Passage 1: Objections&lt;/h5&gt;
+
+&lt;q&gt;My only remaining concern is whether the author does not commit a vicious circle when he says that we have no other basis on which to establish that what we clearly and distinctly perceive is true, than that God exists. But we can be certain that God exists only because we clearly and evidently perceive this fact. Therefore, before we are certain that God exists, we ought to be certain that whatever we clearly and evidently perceive is true.&lt;/q&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h5&gt;Sample Passage 2: Replies&lt;/h5&gt;
+
+&lt;q&gt;I drew a distinction between what we are actually perceiving clearly and what we recall having clearly perceived sometime earlier. For first of all it is manifest to us that God exists, since we are attending to the arguments that prove this; but later on, it is enough for us to recall our having clearly perceived something in order to be certain that it is true. This would not suffice, unless we knew that God exists and does not deceive us.&lt;/q&gt;
+
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jimpryor.net/teaching/guidelines/writing.html&#34; target=&#34;_blank&#34;&gt;Guidelines on Writing a Philosophy Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://philosophy.fas.harvard.edu/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf&#34; target=&#34;_blank&#34;&gt;Brief Guide to Writing a Philosophy Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://global.oup.com/us/companion.websites/9780190200237/stud/guide/&#34; target=&#34;_blank&#34;&gt;Guide to Writing Philosophy Papers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +223,208 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.roberthowton.com/slides/intro_early_modern/unit01slides/</guid>
-      <description>Introducing Modern Philosophy Why devote a course in the history of Western European philosophy to the \nth{17} and \nth{18} centuries? The reason may not be obvious. For one thing, philosophy in Europe is far \emph{older} than the \nth{17} century; it stretches at least as far back as the ancient Greeks in the \nth{6} century CE, perhaps even further, finding its ultimate roots in the speculations of ancient Egyptians and Babylonians centuries before.</description>
+      <description>
+
+&lt;h1 id=&#34;introducing-modern-philosophy&#34;&gt;Introducing Modern Philosophy&lt;/h1&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  Why devote a course in the history of Western European philosophy to the \nth{17} and \nth{18} centuries? The reason may not be obvious. For one thing, philosophy in Europe is far \emph{older} than the \nth{17} century; it stretches at least as far back as the ancient Greeks in the \nth{6} century CE, perhaps even further, finding its ultimate roots in the speculations of ancient Egyptians and Babylonians centuries before. For another thing, the Western European philosophical tradition has \emph{continued} far beyond the \nth{18} century, and still persists in our \nth{21} century. But while the \nth{17} and \nth{18} centuries occupy only a small portion of the vast history of philosophy in the West, the thinkers who worked during this period have exerted an outsized influence on the Western philosophical tradition. Together, these thinkers introduced into the Western tradition a new way of doing philosophy, and introduced a new set of philosophical questions and problems. And they did so self-consciously: they saw themselves as breaking with the older tradition inherited from the middle ages, and as practicing an explicitly new form of philosophical inquiry. For these reasons these thinkers have been given the honorific title of \emph{modern philosophers}, and the centuries in which they worked has come to be known as the \emph{modern}, or \emph{early modern}, period.
+
+  &lt;p&gt;Our goal this week is to get an idea of the intellectual background in which this break with philosophical tradition occurred. To do that, however, we must first get a grip on the intellectual scene in Western Europe before the early modern period.
+
+  (I should note at the outset that I&#39;ll be painting with extremely broad strokes. I&#39;m doing so to give you a serviceable grip on the intellectual milieu of Western Europe in the early modern period. Just keep in mind that many of the portraits I paint of pre-modern thought, especially that of Aristotle, are more like caricatures.)
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;section&gt;
+&lt;!-- &lt;h2&gt;Features&lt;/h2&gt; --&gt;
+- Efficiently write slides in Markdown
+- 3-in-1: Create, Present, and Publish your slides
+- Supports speaker notes
+- Mobile friendly slides
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Title of first vertical slide&lt;/h3&gt;
+ The body of the first slide
+&lt;/section&gt;
+&lt;section&gt;
+&lt;h3&gt;Title of second vertical slide&lt;/h3&gt;
+ The body of the second vertical slide
+&lt;/section&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;this-is-a-new-section&#34;&gt;This is a new section?&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/univ.jpg&#34;
+  
+      
+      class=&#34;stretch&#34;
+  &gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-theme=&#34;white&#34;
+  &gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
