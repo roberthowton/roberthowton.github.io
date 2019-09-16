@@ -101,13 +101,13 @@
       <guid>https://www.roberthowton.com/post/sensnotes/</guid>
       <description>
 
-&lt;h1 id=&#34;sigla-and-povisional-stemma&#34;&gt;Sigla and Povisional Stemma&lt;/h1&gt;
+&lt;h1 id=&#34;stemma-sigla&#34;&gt;Stemma &amp;amp; Sigla&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;stemma.jpg&#34; alt=&#34;Feature Image&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;conspectus-siglorum&#34;&gt;Conspectus Siglorum&lt;/h2&gt;
+&lt;!-- ## Conspectus Siglorum --&gt;
 
-&lt;h3 id=&#34;families&#34;&gt;Families&lt;/h3&gt;
+&lt;h2 id=&#34;families&#34;&gt;Families&lt;/h2&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -175,7 +175,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&#34;manuscripts&#34;&gt;Manuscripts&lt;/h3&gt;
+&lt;h2 id=&#34;manuscripts&#34;&gt;Manuscripts&lt;/h2&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
