@@ -20,6 +20,19 @@
       <guid>https://www.roberthowton.com/course/illusion/fall2019schedule/</guid>
       <description>
 
+
+
+&lt;style&gt;
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+&lt;/style&gt;
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     All dates given below are subject to change.
@@ -417,7 +430,20 @@
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
       
       <guid>https://www.roberthowton.com/course/illusion/fall2019basicinfo/</guid>
-      <description>&lt;table&gt;
+      <description>
+
+&lt;style&gt;
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+&lt;/style&gt;
+
+
+
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;span&gt;&lt;/th&gt;
@@ -449,11 +475,6 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;mailto:cansumeric19@ku.edu.tr&#34; target=&#34;_blank&#34;&gt;Cansu İrem Meriç &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&amp;lt;!&amp;ndash;&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Office Hours&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

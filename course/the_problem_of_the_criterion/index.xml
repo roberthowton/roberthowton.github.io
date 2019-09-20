@@ -20,6 +20,19 @@
       <guid>https://www.roberthowton.com/course/the_problem_of_the_criterion/fall2019schedule/</guid>
       <description>
 
+
+
+&lt;style&gt;
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+&lt;/style&gt;
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     All dates given below are subject to change.
@@ -356,7 +369,20 @@
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
       
       <guid>https://www.roberthowton.com/course/the_problem_of_the_criterion/fall2019basicinfo/</guid>
-      <description>&lt;table&gt;
+      <description>
+
+&lt;style&gt;
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+&lt;/style&gt;
+
+
+
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;span&gt;&lt;/th&gt;
