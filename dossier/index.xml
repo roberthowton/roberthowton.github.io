@@ -218,8 +218,28 @@ different from my own to make their contribution.&lt;/p&gt;
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
       
       <guid>https://www.roberthowton.com/dossier/effectiveness/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;!-- ![Aristotle Teaching](aristotleteaching.jpg) --&gt;
+&lt;!-- 
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;st-catherine-disputing-with-scholars-by-masolino-da-panicale.jpg&#34; &gt;
+
+&lt;img src=&#34;st-catherine-disputing-with-scholars-by-masolino-da-panicale.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;A caption&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+ --&gt;
 &lt;p&gt;This section provides evidence for my effectiveness in teaching drawn from student evaluations. Click the link for the relevant semester to view an overview of quantitative and qualitative student feedback from the courses given that semester, as well as links to complete raw data.&lt;/p&gt;
 </description>
     </item>
@@ -231,7 +251,11 @@ different from my own to make their contribution.&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/2016fall/</guid>
       <description>&lt;h2 id=&#34;phil-0460-introduction-to-philosophy-of-mind&#34;&gt;PHIL 0460: Introduction to Philosophy of Mind&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2016%20Fall%20-%20PHIL%200460%20-%20Quantitative%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Quantitative Data
+&lt;/a&gt; | &lt;a href=&#34;https://www.roberthowton.com/files/evals/2016%20Fall%20-%20PHIL%200460%20-%20Qualitative%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Qualitative Data
+&lt;/a&gt;
 &lt;h3 id=&#34;quantitative-feedback&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -279,7 +303,11 @@ different from my own to make their contribution.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    53 respondents totaling 47% of registered students; 5-point scale from 1 [hardly at all/ineffective] to 5 [to a very high degree/excellent].
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;selected-qualitative-feedback&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Robbie is friendly and shows great passion for the subject. He is not
@@ -321,7 +349,9 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/2017fall/</guid>
       <description>&lt;h2 id=&#34;phil-0080-introduction-to-philosophical-problems&#34;&gt;PHIL 0080: Introduction to Philosophical Problems&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2017%20Fall%20-%20PHIL%200080%20-%20Combined%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Raw Data
+&lt;/a&gt;
 &lt;h3 id=&#34;quantitative-feedback&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -377,7 +407,11 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Total enrollment 115; 5-point scale from 1 [hardly at all/ineffective] to 5 [to a very high degree/excellent].
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;selected-qualitative-feedback&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;There was an air of egalitarianism, and Robbie is clearly enthusiastic about the subject to the point of it being infectious.&lt;/p&gt;
@@ -422,7 +456,9 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/2018fall/</guid>
       <description>&lt;h2 id=&#34;phil-403-topics-in-ancient-philosophy-aristotles-psychology&#34;&gt;PHIL 403: Topics in Ancient Philosophy: Aristotle&#39;s Psychology&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2018%20Fall%20-%20PHIL%20403%20-%20Combined%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Raw Data
+&lt;/a&gt;
 &lt;h3 id=&#34;quantitative-feedback&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -510,12 +546,18 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    7-point scale ranging from +3 [extremely good] to -3 [extremely poor]; total enrollment: 10 students.
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;selected-qualitative-feedback&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;p&gt;No qualitative feedback received.&lt;/p&gt;
 &lt;h2 id=&#34;hums-132-illusions-when-appearances-deceive&#34;&gt;HUMS 132: Illusions: When Appearances Deceive&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;quantitative-feedback1&#34;&gt;Quantitative Feedback&lt;/h3&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2018%20Fall%20-%20HUMS%20132%20-%20Combined%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Raw Data
+&lt;/a&gt;
+&lt;h3 id=&#34;quantitative-feedback-1&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -602,8 +644,12 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;selected-qualitative-feedback1&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    7-point scale ranging from +3 [extremely good] to -3 [extremely poor]; total enrollment: 40 students.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;selected-qualitative-feedback-1&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;&lt;strong&gt;He is a great teacher. He really changed my opinion on philosophy for the better.&lt;/strong&gt; I enjoyed being in his class.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -629,7 +675,9 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/2016spring/</guid>
       <description>&lt;h2 id=&#34;phil-1440-philosophy-of-mind&#34;&gt;PHIL 1440: Philosophy of Mind&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2016%20Spring%20-%20PHIL%201440%20-%20Combined%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Raw Data
+&lt;/a&gt;
 &lt;h3 id=&#34;quantitative-feedback&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -677,7 +725,11 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    11 respondents totaling 79% of registered students; 5-point scale from 1 [hardly at all/ineffective] to 5 [to a very high degree/excellent].
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;selected-qualitative-feedback&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;&lt;strong&gt;Being the lead discussant was beneficial to me because it forced me
@@ -720,7 +772,11 @@ reading philosophy on my own.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/2017spring/</guid>
       <description>&lt;h2 id=&#34;phil-1040-aristotle&#34;&gt;PHIL 1040: Aristotle&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2017%20Spring%20-%20PHIL%201040%20-%20Quantitative%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Quantitative Data
+&lt;/a&gt; | &lt;a href=&#34;https://www.roberthowton.com/files/evals/2017%20Spring%20-%20PHIL%201040%20-%20Qualitative%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Qualitative Data
+&lt;/a&gt;
 &lt;h3 id=&#34;quantitative-feedback&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -773,7 +829,11 @@ reading philosophy on my own.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    11 respondents totaling 64.71% of registered students; 5-point scale from 1 [hardly at all/ineffective] to 5 [to a very high degree/excellent].
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;selected-qualitative-feedback&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Each lecture was enthusiastically and clearly expressed. &lt;strong&gt;One thing
@@ -822,8 +882,12 @@ every way. Often times during the semester, when Robert started
 preaching the gospel, I could not help moving and dancing in my seat.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;phil-0450-theories-of-knowledge--reality&#34;&gt;PHIL 0450: Theories of Knowledge &amp;amp; Reality&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;quantitative-feedback1&#34;&gt;Quantitative Feedback&lt;/h3&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2017%20Spring%20-%20PHIL%200450%20-%20Quantitative%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Quantitative Data
+&lt;/a&gt; | &lt;a href=&#34;https://www.roberthowton.com/files/evals/2017%20Spring%20-%20PHIL%200450%20-%20Qualitative%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Qualitative Data
+&lt;/a&gt;
+&lt;h3 id=&#34;quantitative-feedback-1&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -870,8 +934,12 @@ preaching the gospel, I could not help moving and dancing in my seat.&amp;rdquo;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;selected-qualitative-feedback1&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    58 respondents totaling 50.86% of registered students [* = 31 respondents]; 5-point scale from 1 [hardly at all/ineffective] to 5 [to a very high degree/excellent].
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;selected-qualitative-feedback-1&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Professor Howton always presented the material we covered in a very
 interesting and engaging way. He made lecture an enjoyable
@@ -915,7 +983,9 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/2018spring/</guid>
       <description>&lt;h2 id=&#34;phil-0210-introduction-to-modern-philosophy&#34;&gt;PHIL 0210 Introduction to Modern Philosophy&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2018%20Spring%20-%20PHIL%200210%20-%20Combined%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Raw Data
+&lt;/a&gt;
 &lt;h3 id=&#34;quantitative-feedback&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -963,7 +1033,11 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    63 respondents totaling 56.76% of registered students [* = 36 respondents, ** = 45 respondents, *** = 42 respondents]; 5-point scale from 1 [hardly at all/ineffective] to 5 [to a very high degree/excellent].
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;selected-qualitative-feedback&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The professor for this course is one of the best I have had at this university so far.&lt;/strong&gt; I like how he lays out the readings in a way thats [&lt;em&gt;sic&lt;/em&gt;] a lot easier to understand in the powerpoints.&lt;/p&gt;
@@ -1008,9 +1082,15 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/2019spring/</guid>
       <description>&lt;h2 id=&#34;phil-217-modern-philosophy&#34;&gt;PHIL 217: Modern Philosophy&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/PHIL-217-01_Spring2019.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Raw Data
+&lt;/a&gt;
 &lt;h3 id=&#34;quantitative-feedback&#34;&gt;Quantitative Feedback&lt;/h3&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Instructor performance surpassed College and University benchmarks on &lt;em&gt;all&lt;/em&gt; questions.
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1097,7 +1177,11 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    7-point scale ranging from +3 [extremely good] to -3 [extremely poor]
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;select-qualitative-feedback&#34;&gt;Select Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;I want to thank you for your concern about for us in terms of learning the material and willingness to help when needed. The slides were very helpful as guidances&lt;/strong&gt; [&lt;em&gt;sic&lt;/em&gt;]. I think we could spend more time on the paper topics in class as well, but you were again [text cuts off]&lt;/p&gt;
@@ -1118,7 +1202,7 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/experience/</guid>
       <description>&lt;h2 id=&#34;as-instructor&#34;&gt;As Instructor&lt;/h2&gt;
-&lt;h3 id=&#34;ko-university&#34;&gt;Koç University&lt;/h3&gt;
+&lt;h3 id=&#34;koç-university&#34;&gt;Koç University&lt;/h3&gt;
 &lt;h4 id=&#34;fall-2019&#34;&gt;Fall 2019&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;PHIL 453: Mind &amp;amp; Reality in the Ancient World: the Problem of the Criterion&lt;/li&gt;
@@ -1161,12 +1245,12 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
 &lt;li&gt;PHIL 340: Issues in Philosophy of Mind: Perception and Singular Thought&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;as-tutorial-leader&#34;&gt;As Tutorial Leader&lt;/h2&gt;
-&lt;h3 id=&#34;university-of-toronto1&#34;&gt;University of Toronto&lt;/h3&gt;
+&lt;h3 id=&#34;university-of-toronto-1&#34;&gt;University of Toronto&lt;/h3&gt;
 &lt;h4 id=&#34;fall-2013&#34;&gt;Fall 2013&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;PHL 205: Early Medieval Philosophy&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;fall-2012spring-2013&#34;&gt;Fall 2012&amp;ndash;Spring 2013&lt;/h4&gt;
+&lt;h4 id=&#34;fall-2012--spring-2013&#34;&gt;Fall 2012&amp;ndash;Spring 2013&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;PHL 200: Ancient Philosophy&lt;/li&gt;
 &lt;/ul&gt;
@@ -1288,7 +1372,9 @@ of our discipline.&lt;/p&gt;
       
       <guid>https://www.roberthowton.com/dossier/2014winter/</guid>
       <description>&lt;h2 id=&#34;phl-340-issues-in-philosophy-of-mind-perception-and-singular-thought&#34;&gt;PHL 340: Issues in Philosophy of Mind: Perception and Singular Thought&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://www.roberthowton.com/files/evals/2014%20Winter%20-%20PHL%20340%20-%20Combined%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Raw Data
+&lt;/a&gt;
 &lt;h3 id=&#34;quantitative-feedback&#34;&gt;Quantitative Feedback&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1346,7 +1432,11 @@ of our discipline.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    16 respondents totaling 51.6% of registered students; 5-point scale from 1 [not at all/poor/very light] to 5 [a great deal/excellent/very heavy/strongly].
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;selected-qualitative-feedback&#34;&gt;Selected Qualitative Feedback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Robert Howton, a PhD student in the department of Philosophy
