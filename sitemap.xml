@@ -3,43 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.roberthowton.com/tags/current-courses/</loc>
-    <lastmod>2020-01-18T12:09:25+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.roberthowton.com/teaching/intro_early_modern/</loc>
-    <lastmod>2020-01-18T12:09:25+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.roberthowton.com/teaching/illusion/</loc>
     <lastmod>2020-01-18T12:09:25+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.roberthowton.com/tags/past-courses/</loc>
-    <lastmod>2020-01-18T12:09:25+03:00</lastmod>
+    <lastmod>2020-01-20T12:02:21+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.roberthowton.com/</loc>
-    <lastmod>2020-01-18T12:09:25+03:00</lastmod>
+    <lastmod>2020-01-20T12:02:21+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.roberthowton.com/tags/</loc>
-    <lastmod>2020-01-18T12:09:25+03:00</lastmod>
+    <lastmod>2020-01-20T12:02:21+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.roberthowton.com/teaching/</loc>
-    <lastmod>2020-01-18T12:09:25+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.roberthowton.com/teaching/the_problem_of_the_criterion/</loc>
-    <lastmod>2020-01-18T12:09:25+03:00</lastmod>
+    <lastmod>2020-01-20T12:02:21+03:00</lastmod>
   </url>
   
   <url>
@@ -258,11 +243,6 @@
   </url>
   
   <url>
-    <loc>https://www.roberthowton.com/teaching/color/</loc>
-    <lastmod>2020-01-18T12:09:25+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.roberthowton.com/post/</loc>
     <lastmod>2019-11-18T19:21:36+03:00</lastmod>
   </url>
@@ -277,7 +257,22 @@
   </url>
   
   <url>
+    <loc>https://www.roberthowton.com/teaching/color/</loc>
+    <lastmod>2020-01-20T12:02:21+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.roberthowton.com/course/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/tags/current-courses/</loc>
+    <lastmod>2020-01-20T12:02:21+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/teaching/intro_early_modern/</loc>
+    <lastmod>2020-01-20T12:02:21+03:00</lastmod>
   </url>
   
   <url>
@@ -293,6 +288,11 @@
   <url>
     <loc>https://www.roberthowton.com/slides/</loc>
     <lastmod>2019-11-18T19:21:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/teaching/the_problem_of_the_criterion/</loc>
+    <lastmod>2020-01-20T12:02:21+03:00</lastmod>
   </url>
   
   <url>
