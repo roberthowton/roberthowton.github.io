@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Current Courses on Robert Howton</title>
+    <title>Current Courses | Robert Howton</title>
     <link>https://www.roberthowton.com/tags/current-courses/</link>
-    <description>Recent content in Current Courses on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 12:42:55 +0000</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/tags/current-courses/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/tags/current-courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Tue, 21 Jan 2020 12:42:55 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Current Courses</title>
+      <link>https://www.roberthowton.com/tags/current-courses/</link>
+    </image>
     
     <item>
       <title>Color and Color Experience</title>
       <link>https://www.roberthowton.com/teaching/color/</link>
       <pubDate>Tue, 21 Jan 2020 12:42:55 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/teaching/color/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Early Modern Philosophy</title>
       <link>https://www.roberthowton.com/teaching/intro_early_modern/</link>
       <pubDate>Tue, 21 Jan 2020 12:42:55 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/teaching/intro_early_modern/</guid>
       <description></description>
     </item>

@@ -3,23 +3,14 @@
   <channel>
     <title>Robert Howton</title>
     <link>https://www.roberthowton.com/authors/robert-howton/</link>
-    <description>Recent content on Robert Howton</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Robert Howton</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 17:35:16 +0300</lastBuildDate>
-    
-	<atom:link href="https://www.roberthowton.com/authors/robert-howton/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Why De Anima Needs III 12-13</title>
-      <link>https://www.roberthowton.com/publication/why_da_needs_iii_12-13/</link>
-      <pubDate>Fri, 28 Dec 2018 17:35:16 +0300</pubDate>
-      
-      <guid>https://www.roberthowton.com/publication/why_da_needs_iii_12-13/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://www.roberthowton.com/authors/robert-howton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Howton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Wed, 15 May 2019 11:52:27 +0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Robert Howton</title>
+      <link>https://www.roberthowton.com/authors/robert-howton/</link>
+    </image>
     
   </channel>
 </rss>

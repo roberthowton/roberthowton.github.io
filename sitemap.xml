@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://www.roberthowton.com/</loc>
-    <lastmod>2020-02-06T14:34:58+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.roberthowton.com/tags/</loc>
     <lastmod>2020-01-21T16:02:00+03:00</lastmod>
   </url>
@@ -55,6 +50,31 @@
   <url>
     <loc>https://www.roberthowton.com/post/krisis/</loc>
     <lastmod>2019-11-18T19:21:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/authors/</loc>
+    <lastmod>2019-11-18T19:21:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/authors/robert-howton/</loc>
+    <lastmod>2019-11-18T19:21:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/slides/paperwriting/howto/</loc>
+    <lastmod>2020-02-26T12:02:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/slides/</loc>
+    <lastmod>2020-02-26T12:02:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/course/</loc>
+    <lastmod>2020-02-06T14:34:58+03:00</lastmod>
   </url>
   
   <url>
@@ -128,17 +148,7 @@
   </url>
   
   <url>
-    <loc>https://www.roberthowton.com/authors/admin/</loc>
-    <lastmod>2019-11-18T19:21:36+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.roberthowton.com/publication_types/6/</loc>
-    <lastmod>2019-11-18T19:21:36+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.roberthowton.com/authors/</loc>
     <lastmod>2019-11-18T19:21:36+03:00</lastmod>
   </url>
   
@@ -273,16 +283,12 @@
   </url>
   
   <url>
-    <loc>https://www.roberthowton.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.roberthowton.com/course/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.roberthowton.com/slides/paperwriting/howto/</loc>
+    <loc>https://www.roberthowton.com/authors/admin/</loc>
     <lastmod>2019-11-18T19:21:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.roberthowton.com/categories/</loc>
   </url>
   
   <url>
@@ -291,7 +297,7 @@
   </url>
   
   <url>
-    <loc>https://www.roberthowton.com/slides/</loc>
+    <loc>https://www.roberthowton.com/</loc>
     <lastmod>2019-11-18T19:21:36+03:00</lastmod>
   </url>
   

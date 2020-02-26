@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Statement on Robert Howton</title>
+    <title>Research Statement | Robert Howton</title>
     <link>https://www.roberthowton.com/research/</link>
-    <description>Recent content in Research Statement on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/research/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Statement</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Research Statement</title>
+      <link>https://www.roberthowton.com/research/</link>
+    </image>
     
     <item>
       <title>Book Project</title>
       <link>https://www.roberthowton.com/research/book/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/research/book/</guid>
       <description>&lt;h1 id=&#34;_aristotle-on-perceptual-discrimination_&#34;&gt;&lt;em&gt;Aristotle on Perceptual Discrimination&lt;/em&gt;&lt;/h1&gt;
 &lt;p&gt;After &amp;ldquo;Aristotle on Why the Senses Discriminate&amp;rdquo; and &amp;ldquo;Aristotle on the End of an Organism&amp;rsquo;s Nature&amp;rdquo; are accepted for publication, I plan to write a book manuscript that draws together both major topics of my research. The book, &lt;em&gt;Aristotle on Perceptual Discrimination&lt;/em&gt;, will be the first dedicated study of Aristotle&amp;rsquo;s thesis that the senses are discriminative capacities of soul. While this thesis has received greater attention from commentators in recent years, it has for the most part been considered in isolation from its context in the explanatory project of the Aristotelian life sciences and read instead as part of an attempt to explain the character of ordinary perceptual experience. I argue that this is a mistake. For Aristotle, the significance of the thesis that the senses are discriminative capacities concerns precisely the teleological role of sense perception in animal life. To the question, why do animals perceive in the ways they do?, Aristotle has a single, univocal answer: because the senses are &lt;em&gt;discriminative&lt;/em&gt; capacities. By this, Aristotle means that the senses belong to the animals that have them because &lt;em&gt;discriminating&lt;/em&gt; by means of those senses promotes the achievement of the ends those animals naturally pursue. Understanding Aristotle&amp;rsquo;s thesis that the senses discriminate therefore requires understanding how Aristotle thinks sensory discrimination contributes to goals that structure animal life.&lt;/p&gt;
@@ -38,7 +37,6 @@
       <title>Papers</title>
       <link>https://www.roberthowton.com/research/papers/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/research/papers/</guid>
       <description>&lt;h2 id=&#34;on-aristotles-theory-of-perceptual-discrimination&#34;&gt;On Aristotle&amp;rsquo;s Theory of Perceptual Discrimination&lt;/h2&gt;
 &lt;h3 id=&#34;perception-and-hypothetical-necessity-in-_posterior-analytics_-219&#34;&gt;Perception and Hypothetical Necessity in &lt;em&gt;Posterior Analytics&lt;/em&gt; 2.19&lt;/h3&gt;

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Robert Howton</title>
+    <title>Publications | Robert Howton</title>
     <link>https://www.roberthowton.com/publication/</link>
-    <description>Recent content in Publications on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    
-	    <atom:link href="https://www.roberthowton.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>https://www.roberthowton.com/publication/</link>
+    </image>
     
     <item>
       <title>Why De Anima Needs III 12-13</title>
       <link>https://www.roberthowton.com/publication/why_da_needs_iii_12-13/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/publication/why_da_needs_iii_12-13/</guid>
       <description></description>
     </item>

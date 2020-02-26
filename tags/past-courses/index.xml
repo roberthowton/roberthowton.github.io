@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Past Courses on Robert Howton</title>
+    <title>Past Courses | Robert Howton</title>
     <link>https://www.roberthowton.com/tags/past-courses/</link>
-    <description>Recent content in Past Courses on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 12:42:55 +0000</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/tags/past-courses/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/tags/past-courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Tue, 21 Jan 2020 12:42:55 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Past Courses</title>
+      <link>https://www.roberthowton.com/tags/past-courses/</link>
+    </image>
     
     <item>
       <title>Aristotle&#39;s Soul</title>
       <link>https://www.roberthowton.com/teaching/aristotles_soul/</link>
       <pubDate>Tue, 21 Jan 2020 12:42:55 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/teaching/aristotles_soul/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Illusion: When Appearances Deceive</title>
       <link>https://www.roberthowton.com/teaching/illusion/</link>
       <pubDate>Tue, 21 Jan 2020 12:42:55 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/teaching/illusion/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>The Problem of the Criterion</title>
       <link>https://www.roberthowton.com/teaching/the_problem_of_the_criterion/</link>
       <pubDate>Tue, 21 Jan 2020 12:42:55 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/teaching/the_problem_of_the_criterion/</guid>
       <description></description>
     </item>

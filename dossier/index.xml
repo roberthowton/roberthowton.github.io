@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching Dossier on Robert Howton</title>
+    <title>Teaching Dossier | Robert Howton</title>
     <link>https://www.roberthowton.com/dossier/</link>
-    <description>Recent content in Teaching Dossier on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/dossier/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/dossier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching Dossier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Teaching Dossier</title>
+      <link>https://www.roberthowton.com/dossier/</link>
+    </image>
     
     <item>
       <title>Areas of Teaching Competence</title>
       <link>https://www.roberthowton.com/dossier/competence/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/competence/</guid>
       <description>&lt;h2 id=&#34;primary-areas-of-teaching-competence&#34;&gt;Primary Areas of Teaching Competence&lt;/h2&gt;
 &lt;ol&gt;
@@ -118,7 +117,6 @@
       <title>Diversity Statement</title>
       <link>https://www.roberthowton.com/dossier/diversity/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/diversity/</guid>
       <description>&lt;p&gt;Teaching at the University of Toronto (located in the heart of a richly
 multicultural city), the University of Pittsburgh (with its large and
@@ -216,7 +214,6 @@ different from my own to make their contribution.&lt;/p&gt;
       <title>Evaluations</title>
       <link>https://www.roberthowton.com/dossier/effectiveness/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/effectiveness/</guid>
       <description>&lt;!-- ![Aristotle Teaching](aristotleteaching.jpg) --&gt;
 &lt;!-- 
@@ -225,18 +222,31 @@ different from my own to make their contribution.&lt;/p&gt;
 
 
 
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;st-catherine-disputing-with-scholars-by-masolino-da-panicale.jpg&#34; &gt;
 
-&lt;img src=&#34;st-catherine-disputing-with-scholars-by-masolino-da-panicale.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;st-catherine-disputing-with-scholars-by-masolino-da-panicale.jpg&#34; data-caption=&#34;A caption&#34;&gt;
+
+
+  &lt;img src=&#34;st-catherine-disputing-with-scholars-by-masolino-da-panicale.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;A caption&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
  --&gt;
@@ -248,7 +258,6 @@ different from my own to make their contribution.&lt;/p&gt;
       <title>Fall 2016</title>
       <link>https://www.roberthowton.com/dossier/2016fall/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/2016fall/</guid>
       <description>&lt;h2 id=&#34;phil-0460-introduction-to-philosophy-of-mind&#34;&gt;PHIL 0460: Introduction to Philosophy of Mind&lt;/h2&gt;
 &lt;a href=&#34;https://www.roberthowton.com/files/evals/2016%20Fall%20-%20PHIL%200460%20-%20Quantitative%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
@@ -346,7 +355,6 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
       <title>Fall 2017</title>
       <link>https://www.roberthowton.com/dossier/2017fall/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/2017fall/</guid>
       <description>&lt;h2 id=&#34;phil-0080-introduction-to-philosophical-problems&#34;&gt;PHIL 0080: Introduction to Philosophical Problems&lt;/h2&gt;
 &lt;a href=&#34;https://www.roberthowton.com/files/evals/2017%20Fall%20-%20PHIL%200080%20-%20Combined%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
@@ -453,7 +461,6 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
       <title>Fall 2018</title>
       <link>https://www.roberthowton.com/dossier/2018fall/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/2018fall/</guid>
       <description>&lt;h2 id=&#34;phil-403-topics-in-ancient-philosophy-aristotles-psychology&#34;&gt;PHIL 403: Topics in Ancient Philosophy: Aristotle&amp;rsquo;s Psychology&lt;/h2&gt;
 &lt;a href=&#34;https://www.roberthowton.com/files/evals/2018%20Fall%20-%20PHIL%20403%20-%20Combined%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
@@ -672,7 +679,6 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
       <title>Spring 2016</title>
       <link>https://www.roberthowton.com/dossier/2016spring/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/2016spring/</guid>
       <description>&lt;h2 id=&#34;phil-1440-philosophy-of-mind&#34;&gt;PHIL 1440: Philosophy of Mind&lt;/h2&gt;
 &lt;a href=&#34;https://www.roberthowton.com/files/evals/2016%20Spring%20-%20PHIL%201440%20-%20Combined%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
@@ -769,7 +775,6 @@ reading philosophy on my own.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       <title>Spring 2017</title>
       <link>https://www.roberthowton.com/dossier/2017spring/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/2017spring/</guid>
       <description>&lt;h2 id=&#34;phil-1040-aristotle&#34;&gt;PHIL 1040: Aristotle&lt;/h2&gt;
 &lt;a href=&#34;https://www.roberthowton.com/files/evals/2017%20Spring%20-%20PHIL%201040%20-%20Quantitative%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
@@ -980,7 +985,6 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       <title>Spring 2018</title>
       <link>https://www.roberthowton.com/dossier/2018spring/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/2018spring/</guid>
       <description>&lt;h2 id=&#34;phil-0210-introduction-to-modern-philosophy&#34;&gt;PHIL 0210 Introduction to Modern Philosophy&lt;/h2&gt;
 &lt;a href=&#34;https://www.roberthowton.com/files/evals/2018%20Spring%20-%20PHIL%200210%20-%20Combined%20Lecture%20Report.pdf&#34; target=&#34;_blank&#34;&gt;
@@ -1079,7 +1083,6 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       <title>Spring 2019</title>
       <link>https://www.roberthowton.com/dossier/2019spring/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/2019spring/</guid>
       <description>&lt;h2 id=&#34;phil-217-modern-philosophy&#34;&gt;PHIL 217: Modern Philosophy&lt;/h2&gt;
 &lt;a href=&#34;https://www.roberthowton.com/files/evals/PHIL-217-01_Spring2019.pdf&#34; target=&#34;_blank&#34;&gt;
@@ -1199,7 +1202,6 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       <title>Teaching Experience</title>
       <link>https://www.roberthowton.com/dossier/experience/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/experience/</guid>
       <description>&lt;h2 id=&#34;as-instructor&#34;&gt;As Instructor&lt;/h2&gt;
 &lt;h3 id=&#34;koç-university&#34;&gt;Koç University&lt;/h3&gt;
@@ -1274,7 +1276,6 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
       <title>Teaching Statement</title>
       <link>https://www.roberthowton.com/dossier/statement/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/statement/</guid>
       <description>&lt;p&gt;For teachers and students alike, it is all too easy to regard the texts
 that make up the standard philosophical curriculum as artifacts, relics
@@ -1369,7 +1370,6 @@ of our discipline.&lt;/p&gt;
       <title>Winter 2014</title>
       <link>https://www.roberthowton.com/dossier/2014winter/</link>
       <pubDate>Sun, 02 Dec 2018 10:23:40 +0300</pubDate>
-      
       <guid>https://www.roberthowton.com/dossier/2014winter/</guid>
       <description>&lt;h2 id=&#34;phl-340-issues-in-philosophy-of-mind-perception-and-singular-thought&#34;&gt;PHL 340: Issues in Philosophy of Mind: Perception and Singular Thought&lt;/h2&gt;
 &lt;a href=&#34;https://www.roberthowton.com/files/evals/2014%20Winter%20-%20PHL%20340%20-%20Combined%20Report.pdf&#34; target=&#34;_blank&#34;&gt;

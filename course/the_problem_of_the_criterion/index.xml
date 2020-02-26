@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Problem of the Criterion on Robert Howton</title>
+    <title>The Problem of the Criterion | Robert Howton</title>
     <link>https://www.roberthowton.com/course/the_problem_of_the_criterion/</link>
-    <description>Recent content in The Problem of the Criterion on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/course/the_problem_of_the_criterion/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/course/the_problem_of_the_criterion/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Problem of the Criterion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>The Problem of the Criterion</title>
+      <link>https://www.roberthowton.com/course/the_problem_of_the_criterion/</link>
+    </image>
     
     <item>
       <title>Fall 2019 Schedule</title>
       <link>https://www.roberthowton.com/course/the_problem_of_the_criterion/fall2019schedule/</link>
       <pubDate>Tue, 22 Jan 2019 14:16:58 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/course/the_problem_of_the_criterion/fall2019schedule/</guid>
       <description>
 
@@ -308,7 +307,6 @@
       <title>Fall 2019 Basic Information</title>
       <link>https://www.roberthowton.com/course/the_problem_of_the_criterion/fall2019basicinfo/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/course/the_problem_of_the_criterion/fall2019basicinfo/</guid>
       <description>
 
@@ -332,7 +330,8 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Instructor&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;mailto:rhowton@ku.edu.tr&#34;&gt;Robert Howton &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;mailto:rhowton@ku.edu.tr&#34;&gt;Robert Howton &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Office Hours&lt;/strong&gt;&lt;/td&gt;
@@ -344,7 +343,8 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Course Website&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://ku.blackboard.com/&#34;&gt;Blackboard&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://ku.blackboard.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackboard&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

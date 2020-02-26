@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Early Modern Philosophy on Robert Howton</title>
+    <title>Early Modern Philosophy | Robert Howton</title>
     <link>https://www.roberthowton.com/course/intro_early_modern/</link>
-    <description>Recent content in Early Modern Philosophy on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/course/intro_early_modern/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/course/intro_early_modern/index.xml" rel="self" type="application/rss+xml" />
+    <description>Early Modern Philosophy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Early Modern Philosophy</title>
+      <link>https://www.roberthowton.com/course/intro_early_modern/</link>
+    </image>
     
     <item>
       <title>Spring 2020 Schedule</title>
       <link>https://www.roberthowton.com/course/intro_early_modern/spring2020schedule/</link>
       <pubDate>Tue, 22 Jan 2019 14:16:58 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/course/intro_early_modern/spring2020schedule/</guid>
       <description>
 
@@ -265,7 +264,6 @@
       <title>Spring 2020 Basic Information</title>
       <link>https://www.roberthowton.com/course/intro_early_modern/spring2020basicinfo/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/course/intro_early_modern/spring2020basicinfo/</guid>
       <description>
 
@@ -289,7 +287,8 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Instructor&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;mailto:rhowton@ku.edu.tr&#34;&gt;Robert Howton &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;mailto:rhowton@ku.edu.tr&#34;&gt;Robert Howton &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;em&gt;Office Hours&lt;/em&gt;&lt;/td&gt;
@@ -301,11 +300,13 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Course Website&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://ku.blackboard.com/&#34;&gt;Blackboard&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://ku.blackboard.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackboard&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;mailto:vdemirbas19@ku.edu.tr&#34;&gt;Vedat Demirbaş &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;mailto:vdemirbas19@ku.edu.tr&#34;&gt;Vedat Demirbaş &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;em&gt;TA Office Hours&lt;/em&gt;&lt;/td&gt;

@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slides on Robert Howton</title>
+    <title>Slides | Robert Howton</title>
     <link>https://www.roberthowton.com/slides/</link>
-    <description>Recent content in Slides on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    
-	    <atom:link href="https://www.roberthowton.com/slides/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+      <atom:link href="https://www.roberthowton.com/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Write a Philosophy Paper</title>
       <link>https://www.roberthowton.com/slides/paperwriting/howto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://www.roberthowton.com/slides/paperwriting/howto/</guid>
       <description>&lt;h1 id=&#34;how-to-write-a-philosophy-paper&#34;&gt;How to Write a Philosophy Paper&lt;/h1&gt;
 &lt;hr&gt;
@@ -42,7 +36,9 @@
 &lt;/section&gt;
 &lt;section&gt;
 &lt;h4&gt; Exercise: What theses address the TP1 prompt? &lt;/h4&gt;
-&lt;p&gt;What does Sextus Empiricus mean when he says that &amp;ldquo;true&amp;rdquo;, or Pyrrhonian, skeptics &amp;ldquo;hold no beliefs&amp;rdquo;? In your view, is it possible to live without holding any beliefs?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What is the objection Elisabeth is raising for Cartesian dualism, and how does Descartes respond to it? Is Elisabeth’s objection successful? Why, or why not?&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
@@ -97,14 +93,14 @@
 &lt;/section&gt;
 &lt;section&gt;
 &lt;h4&gt;Exercise: Construct an outline for the TP1 thesis you&#39;ve chosen.&lt;/h4&gt;
-&lt;p&gt;(Hints: If you&amp;rsquo;re arguing that Sextus&amp;rsquo; argument is successful, why is the most convincing argument against his conclusion incorrect? If you&amp;rsquo;re arguing that his argument is unsuccessful, where does the argument go wrong?)&lt;/p&gt;
+&lt;p&gt;(Hints: If you&amp;rsquo;re arguing that Descartes&amp;rsquo; response is successful, why is the most convincing argument against his conclusion incorrect? If you&amp;rsquo;re arguing that his argument is unsuccessful, where does the argument go wrong?)&lt;/p&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
 &lt;h3&gt;Step 4: Fill in your outline with complete sentences&lt;h3&gt;
 &lt;/section&gt;
 &lt;section&gt;
-&lt;p&gt;(Hint: Ideally, the most nested items in each &amp;ldquo;stem&amp;rdquo; of your outline will correspond to a single paragraph.)&lt;/p&gt;
+&lt;p&gt;(Hint: Ideally, the most nested items in each &amp;ldquo;branch&amp;rdquo; of your outline will correspond to a single paragraph.)&lt;/p&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;developing-philosophical-writing-skills&#34;&gt;Developing Philosophical Writing Skills&lt;/h2&gt;
@@ -125,19 +121,22 @@
 &lt;p&gt;Take an argumentative passage, identify the premises and conclusion, and restate the argument in your own words.&lt;/p&gt;
 &lt;/section&gt;
 &lt;section&gt;
-&lt;h5&gt;Sample Passage 1: Skeptical Tranquility (PH I.29--30)&lt;/h5&gt;
-&lt;p&gt;&lt;q&gt;We do not, however, take Skeptics to be undisturbed in every way&amp;mdash;we say that they are disturbed by things which are forced upon them; for we agree that at times they shiver and are thirsty and have other feelings of this kind. But in these cases ordinary people are afflicted by two sets of circumstances: by the feelings themselves, and no less by believing that these circumstances are bad by nature. Skeptics, who shed the additional opinion that each of these things is bad in its nature, come off more moderately even in these cases.&lt;/q&gt;&lt;/p&gt;
+&lt;h5&gt;Sample Passage 1: The Cartesian Circle (AT 214)&lt;/h5&gt;
+&lt;p&gt;&lt;q&gt;My only remaining concern is whether the author does not commit a vicious circle when he says that we have no other basis on which to establish that what we clearly and distinctly perceive is true, than that God exists. But we can be certain that God exists only because we clearly and evidently perceive this fact. Therefore, before we are certain that God exists, we ought to be certain that whatever we clearly and evidently perceive is true.&lt;/q&gt;&lt;/p&gt;
 &lt;/section&gt;
 &lt;section&gt;
-&lt;h5&gt;Sample Passage 2: Why Democritus is Not a Skeptic&lt;/h5&gt;
-&lt;p&gt;&lt;q&gt;But the Skeptics and the Democriteans use the phrase &amp;lsquo;No more&amp;rsquo; in different senses. The latter assign it the sense that neither is the case, we the sense that we do not know whether some apparent thing is both or neither. Hence even in this respect we differ. But the clearest distinction is made when Democritus says &amp;lsquo;In verity there are atoms and void.&amp;rsquo; For by &amp;lsquo;In verity&amp;rsquo; he means &amp;lsquo;In truth&amp;rsquo;&amp;mdash;and I think it is superfluous to remark that he differs from us in saying that atoms and void in truth subsist, even if he does begin from the anomaly in what is apparent.&lt;/q&gt;&lt;/p&gt;
+&lt;h5&gt;Sample Passage 2: Malebranche on the one true cause&lt;/h5&gt;
+&lt;p&gt;&lt;q&gt;The motive force of bodies is therefore not in the bodies that are moved, for this motive force is nothing other than the will of God. Thus bodies have no action; and when a moving ball collides with and moves another, it communicates to it nothing of its own, for it does not itself have the force it communicates. However, a ball is the natural cause of the motion it communicates. A natural cause is therefore not a real and true but only an occasional cause, one that determines the Author of nature to act in such and such a manner in such and such a situation. (213)&lt;/q&gt;&lt;/p&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jimpryor.net/teaching/guidelines/writing.html&#34;&gt;Guidelines on Writing a Philosophy Paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://philosophy.fas.harvard.edu/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf&#34;&gt;Brief Guide to Writing a Philosophy Paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://global.oup.com/us/companion.websites/9780190200237/stud/guide/&#34;&gt;Guide to Writing Philosophy Papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.jimpryor.net/teaching/guidelines/writing.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guidelines on Writing a Philosophy Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://philosophy.fas.harvard.edu/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brief Guide to Writing a Philosophy Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://global.oup.com/us/companion.websites/9780190200237/stud/guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guide to Writing Philosophy Papers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -146,7 +145,6 @@
       <title>Unit 0.1</title>
       <link>https://www.roberthowton.com/slides/intro_early_modern/unit01slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/slides/intro_early_modern/unit01slides/</guid>
       <description>&lt;h1 id=&#34;introducing-modern-philosophy&#34;&gt;Introducing Modern Philosophy&lt;/h1&gt;
 &lt;aside class=&#34;notes&#34;&gt;
@@ -181,7 +179,8 @@
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;this-is-a-new-section&#34;&gt;This is a new section?&lt;/h1&gt;
@@ -189,10 +188,11 @@
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;porridge &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;blueberry&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; porridge &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;blueberry&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;:
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Eating...&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -205,15 +205,16 @@ $$&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One 
+One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt; 
+&lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three 
+Three
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -224,11 +225,12 @@ Three
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{% speaker_note %}}
-&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
-&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Press &lt;span style=&#34;color:#e6db74&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
 {{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -271,22 +273,26 @@ Three
 &lt;/p&gt;
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;#34;/img/boards.jpg&amp;#34; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;#34;#0000FF&amp;#34; &amp;gt;}}
-{{&amp;lt; slide class=&amp;#34;my-style&amp;#34; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
-.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
-.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt; {
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;navy&lt;/span&gt;;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
 }
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

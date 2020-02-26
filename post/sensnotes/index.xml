@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aristotelis De Sensu et Sensibilibus on Robert Howton</title>
+    <title>Aristotelis De Sensu et Sensibilibus | Robert Howton</title>
     <link>https://www.roberthowton.com/post/sensnotes/</link>
-    <description>Recent content in Aristotelis De Sensu et Sensibilibus on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/post/sensnotes/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/post/sensnotes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aristotelis De Sensu et Sensibilibus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Aristotelis De Sensu et Sensibilibus</title>
+      <link>https://www.roberthowton.com/post/sensnotes/</link>
+    </image>
     
     <item>
       <title>Sens. 1</title>
       <link>https://www.roberthowton.com/post/sensnotes/ch1/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/post/sensnotes/ch1/</guid>
       <description>
 
@@ -96,7 +95,6 @@
       <title>Sens. 2</title>
       <link>https://www.roberthowton.com/post/sensnotes/ch2/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/post/sensnotes/ch2/</guid>
       <description>
 
@@ -237,7 +235,6 @@
       <title>Sens. 3</title>
       <link>https://www.roberthowton.com/post/sensnotes/ch3/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/post/sensnotes/ch3/</guid>
       <description>
 
@@ -378,7 +375,6 @@
       <title>Sens. 4</title>
       <link>https://www.roberthowton.com/post/sensnotes/ch4/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/post/sensnotes/ch4/</guid>
       <description>
 
@@ -525,7 +521,6 @@
       <title>Sens. 5</title>
       <link>https://www.roberthowton.com/post/sensnotes/ch5/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/post/sensnotes/ch5/</guid>
       <description>
 
@@ -714,7 +709,6 @@
       <title>Sens. 6</title>
       <link>https://www.roberthowton.com/post/sensnotes/ch6/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/post/sensnotes/ch6/</guid>
       <description>
 
@@ -837,7 +831,6 @@
       <title>Sens. 7</title>
       <link>https://www.roberthowton.com/post/sensnotes/ch7/</link>
       <pubDate>Sun, 20 Jan 2019 10:41:18 +0000</pubDate>
-      
       <guid>https://www.roberthowton.com/post/sensnotes/ch7/</guid>
       <description>
 

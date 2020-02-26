@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Illusion: When Appearances Deceive on Robert Howton</title>
+    <title>Illusion: When Appearances Deceive | Robert Howton</title>
     <link>https://www.roberthowton.com/course/illusion/</link>
-    <description>Recent content in Illusion: When Appearances Deceive on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/course/illusion/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.roberthowton.com/course/illusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Illusion: When Appearances Deceive</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Illusion: When Appearances Deceive</title>
+      <link>https://www.roberthowton.com/course/illusion/</link>
+    </image>
     
   </channel>
 </rss>

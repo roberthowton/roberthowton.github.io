@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Robert Howton</title>
+    <title>Tags | Robert Howton</title>
     <link>https://www.roberthowton.com/tags/</link>
-    <description>Recent content in Tags on Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Robert Howton</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 12:42:55 +0000</lastBuildDate>
-    
-	    <atom:link href="https://www.roberthowton.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Current Courses</title>
-      <link>https://www.roberthowton.com/tags/current-courses/</link>
-      <pubDate>Tue, 21 Jan 2020 12:42:55 +0000</pubDate>
-      
-      <guid>https://www.roberthowton.com/tags/current-courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Past Courses</title>
-      <link>https://www.roberthowton.com/tags/past-courses/</link>
-      <pubDate>Tue, 21 Jan 2020 12:42:55 +0000</pubDate>
-      
-      <guid>https://www.roberthowton.com/tags/past-courses/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://www.roberthowton.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Tue, 21 Jan 2020 12:42:55 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>https://www.roberthowton.com/tags/</link>
+    </image>
     
   </channel>
 </rss>
