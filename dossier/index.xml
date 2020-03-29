@@ -231,7 +231,7 @@ different from my own to make their contribution.&lt;/p&gt;
 
 
 
-&lt;figure&gt;
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;st-catherine-disputing-with-scholars-by-masolino-da-panicale.jpg&#34; data-caption=&#34;A caption&#34;&gt;
@@ -472,7 +472,7 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;&lt;strong&gt;Question&lt;/strong&gt;&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Mean&lt;/strong&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;**% Resp.**&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;% Resp.&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -570,7 +570,7 @@ explaining concepts.&amp;rdquo;&lt;/p&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;&lt;strong&gt;Question&lt;/strong&gt;&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Mean&lt;/strong&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;**% Resp.**&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;% Resp.&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1099,7 +1099,7 @@ teaching during lecture.&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;&lt;strong&gt;Question&lt;/strong&gt;&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Mean&lt;/strong&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;**% Resp.**&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;% Resp.&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
