@@ -5,12 +5,72 @@
     <link>https://www.roberthowton.com/course/illusion/</link>
       <atom:link href="https://www.roberthowton.com/course/illusion/index.xml" rel="self" type="application/rss+xml" />
     <description>Illusion: When Appearances Deceive</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 02 Dec 2018 10:23:40 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.roberthowton.com/course/illusion/featured.jpg</url>
       <title>Illusion: When Appearances Deceive</title>
       <link>https://www.roberthowton.com/course/illusion/</link>
     </image>
+    
+    <item>
+      <title>Basic Information</title>
+      <link>https://www.roberthowton.com/course/illusion/fall2019basicinfo/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course/illusion/fall2019basicinfo/</guid>
+      <description>&lt;!-- +++ --&gt;
+&lt;!-- title = &#34;Fall 2019 Basic Information&#34; --&gt;
+&lt;!-- date = 2019-01-20T10:41:18+00:00 --&gt;
+&lt;!-- draft = true --&gt;
+&lt;!-- toc = false --&gt;
+&lt;!-- type = &#34;docs&#34;  # Do not modify. --&gt;
+&lt;!-- # Add menu entry to sidebar. --&gt;
+&lt;!-- linktitle = &#34;Basic Information&#34; --&gt;
+&lt;!-- [menu.illusion] --&gt;
+&lt;!--   parent = &#34;Fall 2019&#34; --&gt;
+&lt;!--   weight = 1 --&gt;
+&lt;!-- +++ --&gt;
+
+
+&lt;style&gt;
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+&lt;/style&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Instructor&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;mailto:rhowton@ku.edu.tr&#34;&gt;Robert Howton &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Office Hours&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;TuTh 15:00&amp;ndash;16:00, SOS 156&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Lectures&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;TuTh 13:00&amp;ndash;14:15, SCI 129&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Course Website&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://ku.blackboard.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackboard&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

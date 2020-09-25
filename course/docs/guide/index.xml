@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides | Robert Howton</title>
+    <link>https://www.roberthowton.com/course/docs/guide/</link>
+      <atom:link href="https://www.roberthowton.com/course/docs/guide/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.roberthowton.com/images/icon_hu54747066b42249938da40e4cc06b81d2_111739_512x512_fill_lanczos_center_2.png</url>
+      <title>Guides</title>
+      <link>https://www.roberthowton.com/course/docs/guide/</link>
+    </image>
+    
+    <item>
+      <title>Add analytics</title>
+      <link>https://www.roberthowton.com/course/docs/guide/analytics/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course/docs/guide/analytics/</guid>
+      <description>&lt;p&gt;There are three main approaches to analysing your site traffic with Academic:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;a comprehensive, widely adopted solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://tagmanager.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Tag Manager&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;a service to integrate &lt;em&gt;any&lt;/em&gt; analytics provider, including Google Analytics, &lt;em&gt;without&lt;/em&gt; modifying any code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Academic JS Hook&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;google&#34;&gt;Google&lt;/h2&gt;
+&lt;p&gt;If you wish to use 
+&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt; or 
+&lt;a href=&#34;https://tagmanager.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Tag Manager&lt;/a&gt;, include your associated tracking code (e.g. &lt;code&gt;UA-12345678-9&lt;/code&gt;) in &lt;code&gt;config/_default/params.toml&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;############################
+## Marketing
+############################
+[marketing]
+  google_analytics = &amp;quot;&amp;quot;
+  google_tag_manager = &amp;quot;&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h3&gt;
+&lt;p&gt;GA tracks users on your live &lt;em&gt;production&lt;/em&gt; website and not your own views on your &lt;em&gt;development&lt;/em&gt; site, if you have one.&lt;/p&gt;
+&lt;p&gt;Hugo&amp;rsquo;s default environments are &lt;code&gt;development&lt;/code&gt; when running the &lt;code&gt;hugo serve&lt;/code&gt; command and &lt;code&gt;production&lt;/code&gt; when running the &lt;code&gt;hugo&lt;/code&gt; command. You can explicitly set the environment to production with &lt;code&gt;HUGO_ENV&lt;/code&gt; or Hugo&amp;rsquo;s &lt;code&gt;--environment&lt;/code&gt; 
+&lt;a href=&#34;https://gohugo.io/commands/hugo_env/#readout&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;option&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you deploy with Netlify, the &lt;em&gt;production&lt;/em&gt; environment should already be setup in your &lt;code&gt;netlify.toml&lt;/code&gt; file, but if not, check that your Netlify settings in &lt;code&gt;netlify.toml&lt;/code&gt; are similar to the 
+&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/blob/master/netlify.toml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;latest Netlify settings in the &lt;em&gt;Academic Kickstart&lt;/em&gt; template&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you choose to use Google Tag Manager, you&amp;rsquo;ll need to setup and configure your analytics solutions, such as Google Analytics, in the Google Tag Manager admin panel.&lt;/p&gt;
+&lt;p&gt;If you choose to use GA via Google Tag Manager (&lt;code&gt;google_tag_manager&lt;/code&gt;) instead of directly via the &lt;code&gt;google_analytics&lt;/code&gt; option, it will override the direct GA implementation to prevent tracking each user twice.&lt;/p&gt;
+&lt;p&gt;We recommend testing that your analytics are working as expected. If they are not, check that your production environment is as described above and check that your URL in your GA admin panel matches your site&amp;rsquo;s URL. Furthermore, GA provide a troubleshooting guide to help with any issues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Add comments</title>
+      <link>https://www.roberthowton.com/course/docs/guide/comments/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course/docs/guide/comments/</guid>
+      <description>&lt;p&gt;Wish to empower users to comment on your pages?&lt;/p&gt;
+&lt;p&gt;Academic supports the following comment providers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;widely adopted but not particularly minimal and may contain adverts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://commento.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Commento&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;privacy focussed with support for threaded Markdown comments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You may also add your own comment provider by overriding the comments file with the code from your provider.&lt;/p&gt;
+&lt;p&gt;To configure the provider, open &lt;code&gt;config/_default/params.toml&lt;/code&gt;, scroll down to the &lt;code&gt;[comments]&lt;/code&gt; section, and change &lt;code&gt;engine&lt;/code&gt; to the provider you wish to use.&lt;/p&gt;
+&lt;p&gt;For Disqus, copy your &lt;code&gt;shortname&lt;/code&gt; from your Disqus admin panel and paste it in the Disqus config section:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[comments.disqus]
+  shortname = &amp;quot;&amp;quot;  # Paste the shortname from your Disqus dashboard.
+  show_count = true  # Show comment count in page header? (true/false)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;choose-where-users-can-comment&#34;&gt;Choose where users can comment&lt;/h2&gt;
+&lt;p&gt;Under the &lt;code&gt;[comments]&lt;/code&gt; section, you also have the option to choose which types of pages a user may comment on. Simply add the type of page (if it&amp;rsquo;s not already in the list) and set it&amp;rsquo;s value to &lt;code&gt;true&lt;/code&gt; to enable comments. For example,&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;commentable = {page = true, post = true, book = true, project = true, publication = true, talk = true}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Alternatively, you can make page specific exceptions to this rule by adding &lt;code&gt;commentable: true&lt;/code&gt; (or &lt;code&gt;false&lt;/code&gt;) to the front matter of a page that you wish to enable/disable comments on.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build an offline site</title>
+      <link>https://www.roberthowton.com/course/docs/guide/offline-site/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course/docs/guide/offline-site/</guid>
+      <description>&lt;p&gt;Wish to build an &lt;em&gt;offline&lt;/em&gt; site?&lt;/p&gt;
+&lt;p&gt;Or an &lt;em&gt;online&lt;/em&gt; site that &lt;em&gt;does not attempt to speed up your site&amp;rsquo;s load time&lt;/em&gt; by serving assets via a third party Content Distribution Network (CDN)?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Add search</title>
+      <link>https://www.roberthowton.com/course/docs/guide/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course/docs/guide/search/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Empower your users&lt;/strong&gt; to search your website content for keywords so that they can quickly discover relevant content.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

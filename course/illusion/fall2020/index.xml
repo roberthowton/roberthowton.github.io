@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2020 | Robert Howton</title>
+    <link>https://www.roberthowton.com/course/illusion/fall2020/</link>
+      <atom:link href="https://www.roberthowton.com/course/illusion/fall2020/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fall 2020</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Robert Howton</copyright><lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.roberthowton.com/images/icon_hu54747066b42249938da40e4cc06b81d2_111739_512x512_fill_lanczos_center_2.png</url>
+      <title>Fall 2020</title>
+      <link>https://www.roberthowton.com/course/illusion/fall2020/</link>
+    </image>
+    
+    <item>
+      <title>Basic Information</title>
+      <link>https://www.roberthowton.com/course/illusion/fall2020/basicinfo/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course/illusion/fall2020/basicinfo/</guid>
+      <description>
+
+&lt;style&gt;
+  a:active,
+  a:focus,
+  a:hover {
+    color: #9b9b9b;
+    /* color: #ffdbdc; */
+  }
+&lt;/style&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Instructor&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;mailto:rhowton@ku.edu.tr&#34;&gt;Robert Howton &lt;i class=&#34;far fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Office Hours&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;TuTh 15:00&amp;ndash;16:00, SOS 156&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Lectures&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;TuTh 13:00&amp;ndash;14:15, SCI 129&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Course Website&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://ku.blackboard.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackboard&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
