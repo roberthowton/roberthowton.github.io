@@ -5,12 +5,20 @@
     <link>https://www.roberthowton.com/author/robert-howton/</link>
       <atom:link href="https://www.roberthowton.com/author/robert-howton/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Howton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Robert Howton</copyright><lastBuildDate>Wed, 15 May 2019 11:52:27 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Robert Howton</copyright>
     <image>
       <url>https://www.roberthowton.com/images/icon_hu54747066b42249938da40e4cc06b81d2_111739_512x512_fill_lanczos_center_2.png</url>
       <title>Robert Howton</title>
       <link>https://www.roberthowton.com/author/robert-howton/</link>
     </image>
+    
+    <item>
+      <title>Why De Anima Needs III 12-13</title>
+      <link>https://www.roberthowton.com/publication/why_da_needs_iii_12-13/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/publication/why_da_needs_iii_12-13/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
