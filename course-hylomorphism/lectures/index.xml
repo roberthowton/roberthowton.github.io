@@ -12,5 +12,442 @@
       <link>https://www.roberthowton.com/course-hylomorphism/lectures/</link>
     </image>
     
+    <item>
+      <title>Introduction</title>
+      <link>https://www.roberthowton.com/course-hylomorphism/lectures/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course-hylomorphism/lectures/introduction/</guid>
+      <description>&lt;h2 id=&#34;hylomorphism-defined&#34;&gt;Hylomorphism defined&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Hylomorphism&lt;/dt&gt;
+&lt;dd&gt;The metaphysical theory that a &lt;strong&gt;substance&lt;/strong&gt; is a &lt;em&gt;composite&lt;/em&gt; of &amp;ldquo;form&amp;rdquo; (&lt;em&gt;morphē&lt;/em&gt;, &lt;em&gt;eidos&lt;/em&gt;) and &amp;ldquo;matter&amp;rdquo; (&lt;em&gt;hulē&lt;/em&gt;).&lt;/dd&gt;
+&lt;/dl&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.roberthowton.com/ox-hugo/substance.png&#34; &gt;
+
+
+  &lt;img src=&#34;https://www.roberthowton.com/ox-hugo/substance.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;parsing-the-definition&#34;&gt;Parsing the definition&lt;/h2&gt;
+&lt;p&gt;Hylomorphism posits a relationship between three items: &lt;strong&gt;substance&lt;/strong&gt;, &lt;strong&gt;form&lt;/strong&gt;, and &lt;strong&gt;matter&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;substance--ousia&#34;&gt;Substance (&lt;em&gt;ousia&lt;/em&gt;)&lt;/h3&gt;
+&lt;p&gt;Comes from the from the Greek &amp;ldquo;to be&amp;rdquo; (&lt;em&gt;einai&lt;/em&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Prior to Aristotle, has a variety of meanings:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Property&amp;rdquo;, or &amp;ldquo;that which is one&amp;rsquo;s own&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Being&amp;rdquo;, &amp;ldquo;reality&amp;rdquo;, &amp;ldquo;existence&amp;rdquo; (&lt;em&gt;to on&lt;/em&gt;) - Charles Kahn&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Both senses seem to be at work in Aristotle&amp;rsquo;s conception of substance:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;1--substance-as-essence&#34;&gt;(1) Substance as essence&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;For Aristotle, the &lt;em&gt;ousia&lt;/em&gt; of a thing is identical to &amp;ldquo;what it is&amp;rdquo; (&lt;em&gt;ti esti&lt;/em&gt;) or, as it&amp;rsquo;s sometimes known, it&amp;rsquo;s &lt;strong&gt;essence&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &amp;ldquo;what it is&amp;rdquo; corresponds to a thing&amp;rsquo;s definition (&lt;em&gt;horos&lt;/em&gt;, &lt;em&gt;horismos&lt;/em&gt;, lit. &amp;ldquo;limits&amp;rdquo;, &amp;ldquo;boundaries&amp;rdquo;), or what we know when we know what something is, it&amp;rsquo;s essence.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The association between &lt;em&gt;ousia&lt;/em&gt;, &lt;em&gt;ti esti&lt;/em&gt;, and definition precedes Aristotle. Recall:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Socrates&lt;/strong&gt; (in the Platonic dialogues at least) famously traces disputes about the status of some action as virtuous, or the properties of a given virtue, to questions about &lt;em&gt;what&lt;/em&gt; that virtue &lt;em&gt;is&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Plato, &lt;em&gt;Meno&lt;/em&gt; 70a&amp;ndash;b&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MENO: Can you tell me, Socrates, can virtue be taught? Or is it not
+teachable but the result of practice, or is it neither of these, but men possess
+it by nature or in some other way?&lt;/p&gt;
+&lt;p&gt;SOCRATES: &amp;hellip;I myself, Meno, am as poor as my fellow citizens in this matter, and I
+blame myself for my complete ignorance about virtue. If I do not know
+what something is, how could I know what qualities it possesses? Or do
+you think that someone who does not know at all who Meno is could
+know whether he is good-looking or rich or well-born, or the opposite of
+these? Do you think that is possible?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Plato&lt;/strong&gt; famously follows Socrates in thinking of the objects of knowledge as corresponding to the &amp;ldquo;what it is&amp;rdquo;, or essence, of what we know&amp;mdash;with one major difference.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Plato, &lt;em&gt;Phaedo&lt;/em&gt; 70b&amp;ndash;c&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Then before we began to see or hear or otherwise perceive, we must
+have possessed knowledge of the Equal itself if we were about to refer
+our sense perceptions of equal objects to it, and realized that all of them
+were eager to be like it, but were inferior.&lt;/p&gt;
+&lt;p&gt;That follows from what has been said, Socrates.&lt;/p&gt;
+&lt;p&gt;But we began to see and hear and otherwise perceive right after birth?&lt;/p&gt;
+&lt;p&gt;Certainly.&lt;/p&gt;
+&lt;p&gt;We must then have acquired the knowledge of the Equal before this.&lt;/p&gt;
+&lt;p&gt;Yes.&lt;/p&gt;
+&lt;p&gt;It seems then that we must have possessed it before birth.&lt;/p&gt;
+&lt;p&gt;It seems so.&lt;/p&gt;
+&lt;p&gt;Therefore, if we had this knowledge, we knew before birth and immedi-
+ately after not only the Equal, but the Greater and the Smaller and all such
+things, for our present argument is no more about the Equal than about
+d the Beautiful itself, the Good itself, the Just, the Pious and, as I say, about
+all those things which we mark with the seal of &amp;ldquo;what it is,&amp;rdquo; both when
+we are putting questions and answering them. So we must have acquired
+knowledge of them all before we were born.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Here&amp;rsquo;s how Aristotle characterizes the difference:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Aristotle, &lt;em&gt;Metaphysics&lt;/em&gt; A 6, 987a28&amp;ndash;b12&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After the systems we have named came the philosophy of
+Plato, which in most respects followed these thinkers, but had
+peculiarities that distinguished it [30] from the philosophy of
+the Italians. For, having in his youth first become familiar
+with Cratylus and with the Heraclitean doctrines (that all
+sensible things are ever in a state of flux and there is no
+knowledge about them), these views he held even in later
+years. Socrates, however, was busying himself about ethical
+matters and [987b1] neglecting the world of nature as a whole
+but seeking the universal in these ethical matters, and fixed
+thought for the first time on definitions; Plato accepted his
+teaching, but held that the problem applied not to any sensible
+thing but to entities [5] of another kind—for this reason, that
+the common definition could not be a definition of any
+sensible thing, as they were always changing. Things of this
+other sort, then, he called Ideas, and sensible things, he said,
+were apart from these, and were all called after these; for the
+multitude of things which have the same name as the Form
+exist by participation in it. Only the name ‘participation’ was
+new; for the [10] Pythagoreans say that things exist by
+imitation of numbers, and Plato says they exist by
+participation, changing the name. But what the participation
+or the imitation of the Forms could be they left an open
+question.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2--substance-as-what-is&#34;&gt;(2) Substance as &amp;ldquo;what is&amp;rdquo;&lt;/h4&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;to on&lt;/em&gt; in Presocratic thought&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aristotle&amp;rsquo;s testimony alludes to a distinction that occupied Plato as well as Presocrates like Parmenides, Melissus, Empedocles, Anaxagoras, and Democritus: the distinction between &amp;ldquo;what is&amp;rdquo; (&lt;em&gt;to on&lt;/em&gt;) and &amp;ldquo;what is not&amp;rdquo; (&lt;em&gt;to mē on&lt;/em&gt;).
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Parmenides and his Eleatic &amp;ldquo;school&amp;rdquo; famously challenged the possibility of change (or &amp;ldquo;coming to be&amp;rdquo;) on the grounds that it is impossible for there to be anything except &lt;em&gt;to on&lt;/em&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A quick &amp;amp; dirty version of the Eleatic argument:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Parmenides: not only is it impossible for &lt;em&gt;to mē on&lt;/em&gt; to be, it is impossible to think or even say &lt;em&gt;to mē on&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If what-is &amp;ldquo;came to be&amp;rdquo; (&lt;em&gt;ginesthai&lt;/em&gt;), it previously was not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is not cannot be.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, what-is did not come to be.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, coming to be (change) is impossible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The ontological theories of the so-called Eleatic pluralists&amp;mdash;Empedocles, Anaxagoras, Democritus&amp;mdash;are often read as attempts to explain change in a way consistent with Eleatic principles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Empedocles&lt;/strong&gt; argued that what-is (the four elements) exists in an eternal cycle of combination and separation governed by the causal principles Love and Strife.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Anaxagoras&lt;/strong&gt; argued that &amp;ldquo;all is in all&amp;rdquo;, and that the macroscopic differences in things are brought about by alternating shifts in the preponderance of some properties over others in different portions of the cosmic mixture, the changes being brought about and ordered by &lt;em&gt;Nous&lt;/em&gt; (mind).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Democritus&lt;/strong&gt; (and Leucippus) argued that &lt;em&gt;to on&lt;/em&gt; and &lt;em&gt;to mē on&lt;/em&gt; both equally are: &lt;em&gt;to on&lt;/em&gt; are indivisible (atomic) bodies, &lt;em&gt;to mē on&lt;/em&gt; is the void through which they travel, combine, and separate with one another. Macroscopic change is just the combination and separation of unchanging microscopic atoms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;to on&lt;/em&gt; in Plato&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Plato picks up on this distinction, dividing the objects of cognition between coming-to-be (&lt;em&gt;genesis&lt;/em&gt;), which we apprehend by means of the senses, and what is (&lt;em&gt;ousia&lt;/em&gt;), which we apprehend by thought. (&lt;em&gt;Republic&lt;/em&gt; 7, 534a)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;More strikingly, Plato seems to have &lt;em&gt;ontologically&lt;/em&gt; separated the objects of perception and the objects of thought, and reserved the designation &amp;ldquo;real being&amp;rdquo; (&lt;em&gt;to ontōs on&lt;/em&gt;) for the objects of thought:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Plato, &lt;em&gt;Timaeus&lt;/em&gt; 52a&amp;ndash;b&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since these things are so, we must agree that that which keeps its own
+form unchangingly, which has not been brought into being and is not
+destroyed, which neither receives into itself anything else from anywhere
+else, nor itself enters into anything else anywhere, is one thing. It is invisi-
+ble&amp;mdash;it cannot be perceived by the senses at all&amp;mdash;and it is the role of
+understanding to study it. The second thing is that which shares the other&amp;rsquo;s
+name and resembles it. This thing can be perceived by the senses, and it
+has been begotten. It is constantly borne along, now coming to be in a
+certain place and then perishing out of it. It is apprehended by opinion,
+which involves sense perception. And the third type is space, which exists
+always and cannot be destroyed. It provides afixed state for all things
+that come to be. It is itself apprehended by a kind of bastard reasoning
+that does not involve sense perception, and it is hardly even an object of
+conviction. We look at it as in a dream when we say that everything that
+exists must of necessity be somewhere, in some place and occupying some
+space, and that that which doesn&amp;rsquo;t exist somewhere, whether on earth or
+in heaven, doesn&amp;rsquo;t exist at all.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This distinction is a central component of Plato&amp;rsquo;s &amp;ldquo;Theory of Forms&amp;rdquo;, so called because he reserved the word &lt;em&gt;eidos&lt;/em&gt;, form, for the real beings apprehended solely by thought&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;aristotle-on-substance&#34;&gt;Aristotle on substance&lt;/h4&gt;
+&lt;dl&gt;
+&lt;dt&gt;Question&lt;/dt&gt;
+&lt;dd&gt;What is a &lt;em&gt;substance&lt;/em&gt; in Aristotle&amp;rsquo;s theory?&lt;/dd&gt;
+&lt;dt&gt;Answer&lt;/dt&gt;
+&lt;dd&gt;Depends on where you look!
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Substance is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In the strictest sense, what is &amp;ldquo;neither said of nor present in a subject&amp;rdquo; (2a11&amp;ndash;13)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;A certain this&amp;rdquo; (&lt;em&gt;tode ti&lt;/em&gt;), i.e., something &amp;ldquo;indivisible&amp;rdquo; and &amp;ldquo;numerically one&amp;rdquo; (3b10&amp;ndash;11).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Metaphysics Z:&lt;/strong&gt; The substance &lt;em&gt;of a thing&lt;/em&gt; (e.g. some &lt;em&gt;tode ti&lt;/em&gt;) could be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Essence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A &amp;ldquo;universal&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The genus&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The  subject of predication&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &amp;ldquo;cause of being&amp;rdquo; (&lt;em&gt;Z&lt;/em&gt; 17)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Observation:&lt;/strong&gt; Matter and form play a significant role of Aristotle&amp;rsquo;s discussion of substance in &lt;em&gt;Metaphysics&lt;/em&gt; Z, but &lt;span class=&#34;underline&#34;&gt;not&lt;/span&gt; in &lt;em&gt;Categories&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Puzzle:&lt;/strong&gt; How do the &lt;em&gt;Categories&lt;/em&gt; and &lt;em&gt;Metaphysics&lt;/em&gt; Z accounts of substance relate? Do Aristotle&amp;rsquo;s views on substance develop? If so, how does the introduction of hylomorphism influence the development of Aristotle&amp;rsquo;s views?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;form--morphē-eidos&#34;&gt;Form (&lt;em&gt;morphē&lt;/em&gt;, &lt;em&gt;eidos&lt;/em&gt;)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aristotle has two words for form:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Eidos&lt;/em&gt; (lit., &amp;ldquo;look&amp;rdquo;), which comes from the (related) Greek words &amp;ldquo;to see&amp;rdquo; (&lt;em&gt;oida&lt;/em&gt;) and &amp;ldquo;to know&amp;rdquo; (&lt;em&gt;eidenai&lt;/em&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Morphē&lt;/em&gt;,  which means &amp;ldquo;shape&amp;rdquo; or &amp;ldquo;appearance&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is distinctive about Aristotle&amp;rsquo;s conception of form?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Towards an answer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Recall what Aristotle says of Plato&amp;rsquo;s reception of Socrates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Socrates was the first to draw attention to definitions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Plato, however, was convinced that the sensible world was in a state of constant flux and change, which meant that what definitions &lt;em&gt;define&lt;/em&gt; could not be anything sensible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hence the objects of definition must be &lt;em&gt;separate&lt;/em&gt; from the mutable objects of perception and, unlike them, imperceptible, stable, unchanging, fully what they are, etc. etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aristotle famously &lt;em&gt;denies&lt;/em&gt; that that forms are separable in the way Plato claimed (see &lt;em&gt;On Ideas&lt;/em&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To say that forms are separable from sensible &amp;ldquo;particulars&amp;rdquo; implies that forms could be &lt;em&gt;without&lt;/em&gt; sensibles (&lt;em&gt;Metaphysics&lt;/em&gt; Δ 11)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To the contrary, Aristotle believes that &lt;em&gt;nothing&lt;/em&gt; would be without &amp;ldquo;primary&amp;rdquo; substances:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Aristotle, &lt;em&gt;Categories&lt;/em&gt; 5, 2a35&amp;ndash;b5&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All the other things are either said of the primary substances
+as subjects or in [35] them as subjects. This is clear from an
+examination of cases. For example, animal is predicated of
+man and therefore also of the individual man; for were it
+predicated of none of the individual men it would not be
+predicated of man at all. Again, colour is [2b1] in body and
+therefore also in an individual body; for were it not in some
+individual body it would not be in body at all. Thus all the
+other things are either said of the primary substances as
+subjects or in them as subjects. So if the primary substances
+[5] did not exist it would be impossible for any of the other
+things to exist.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;aside--little-p--platonic-vs-dot--little-a--aristotelian-theories-of-universals&#34;&gt;Aside:  (little &amp;ldquo;p&amp;rdquo;) platonic vs. (little &amp;ldquo;a&amp;rdquo;) aristotelian theories of universals&lt;/h4&gt;
+&lt;dl&gt;
+&lt;dt&gt;Universal&lt;/dt&gt;
+&lt;dd&gt;What is &amp;ldquo;said of&amp;rdquo; many things, e.g. redness, &amp;ldquo;human being&amp;rdquo;&lt;/dd&gt;
+&lt;dt&gt;Particular&lt;/dt&gt;
+&lt;dd&gt;What is &lt;em&gt;not&lt;/em&gt; &amp;ldquo;said of&amp;rdquo; many things, e.g. scarlet, &lt;em&gt;this&lt;/em&gt; scarlet letter, Socrates&lt;/dd&gt;
+&lt;dt&gt;Question&lt;/dt&gt;
+&lt;dd&gt;Would &lt;em&gt;scarlet&lt;/em&gt; exist if nothing were scarlet colored?
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;(Little &amp;ldquo;p&amp;rdquo;) platonic response:&lt;/strong&gt; Yes! Universals are not ontologically dependent on their particular instances.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;(Little &amp;ldquo;a&amp;rdquo;) aristotelian response:&lt;/strong&gt; No! Universals depend on their particular instances.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h4 id=&#34;controversies-over-aristotle-s-theory-of-form&#34;&gt;Controversies over Aristotle&amp;rsquo;s theory of form&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Are Aristotelian forms &lt;em&gt;particular&lt;/em&gt; or &lt;em&gt;universal&lt;/em&gt;?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If form corresponds to the &lt;em&gt;essence&lt;/em&gt; and &lt;em&gt;definition&lt;/em&gt; of a thing, is it also the &lt;em&gt;substance&lt;/em&gt; of that thing?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Is form always the form of some &lt;em&gt;matter&lt;/em&gt;?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;matter--hulē&#34;&gt;Matter (&lt;em&gt;hulē&lt;/em&gt;)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Literally means &amp;ldquo;wood&amp;rdquo; or &amp;ldquo;stick&amp;rdquo;, but Aristotle associates it with two features of particulars:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The &amp;ldquo;subject&amp;rdquo; or &amp;ldquo;substratum&amp;rdquo; (&lt;em&gt;hupokeimenon&lt;/em&gt;) of which properties are predicated. (Aristotle associates substance with this too.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;That from which&amp;rdquo; (&lt;em&gt;to ex hou&lt;/em&gt;): most intuitively, the materials from which an object (Socrates or a chair) is fashioned or comes to be.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aristotle associates matter (or the &amp;ldquo;material cause&amp;rdquo;) with the theories of the earlier Ionian &amp;ldquo;natural philosophers&amp;rdquo; (&lt;em&gt;phusiologoi&lt;/em&gt;): Thales (everything is [from] water), Anaximander (everything is from the &amp;ldquo;unlimited&amp;rdquo;, &lt;em&gt;apeiron&lt;/em&gt;), Anaximenes (everything is [from] air):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Aristotle, &lt;em&gt;Metaphysics&lt;/em&gt; A 3, 983b5&amp;ndash;19&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Of the first philosophers, most thought the principles which
+were of the nature of matter were the only principles of all things;
+that of which all things that are consist, and from which they first
+come to be, and into which they are finally [10] resolved (the
+substance remaining, but changing in its modifications), this
+they say is the element and the principle of things, and
+therefore they think nothing is either generated or destroyed,
+since this sort of entity is always conserved, as we say
+Socrates neither comes to be absolutely when he comes to be
+beautiful or musical, [15] nor ceases to be when he loses these
+characteristics, because the substratum, Socrates himself,
+remains. So they say nothing else comes to be or ceases to be;
+for there must be some entity—either one or more than
+one—from which all other things come to be, it being
+conserved.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No clear Socratic or Platonic precedent&amp;mdash;although compare Plato&amp;rsquo;s notion of &amp;ldquo;space&amp;rdquo; (&lt;em&gt;chōrē&lt;/em&gt;) in &lt;em&gt;Timaeus&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aristotle often speaks of matter as a relative term: all matter is the matter &lt;em&gt;of&lt;/em&gt; something:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The matter of the chair is wood&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The matter of the wood is earth&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;However, the matter of the chair is not earth.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;matter is the &lt;strong&gt;potential&lt;/strong&gt; for form, which, in turn, is that &lt;strong&gt;actualization&lt;/strong&gt; of some material potential.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;questions-for-unit-1&#34;&gt;Questions for Unit 1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;How does Aristotle understand &lt;em&gt;being&lt;/em&gt; and &lt;em&gt;substance&lt;/em&gt; in the &lt;em&gt;Organon&lt;/em&gt;?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Is this a framework within which we can make senses of a &lt;em&gt;hylomorphic&lt;/em&gt; analysis of substance?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
