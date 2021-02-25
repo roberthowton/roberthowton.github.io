@@ -4844,7 +4844,7 @@ conserved.&lt;/p&gt;
 &lt;p&gt;However, the matter of the chair is not earth.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;matter is the &lt;strong&gt;potential&lt;/strong&gt; for form, which, in turn, is that &lt;strong&gt;actualization&lt;/strong&gt; of some material potential.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deep Point:&lt;/strong&gt; matter is the &lt;strong&gt;potential&lt;/strong&gt; for form, which, in turn, is that &lt;strong&gt;actualization&lt;/strong&gt; of some material potential.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -4856,6 +4856,617 @@ conserved.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Is this a framework within which we can make senses of a &lt;em&gt;hylomorphic&lt;/em&gt; analysis of substance?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unit 1 | Background: Ontology &amp; Explanation in the Organon</title>
+      <link>https://www.roberthowton.com/course-hylomorphism/lectures/unit1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course-hylomorphism/lectures/unit1/</guid>
+      <description>&lt;dl&gt;
+&lt;dt&gt;Organon&lt;/dt&gt;
+&lt;dd&gt;lit. &amp;ldquo;tool, instrument&amp;rdquo;; a collective name for Aristotle&amp;rsquo;s logico-epistemological treatises:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Categories&lt;/em&gt;, on predicates&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;De Interpretatione&lt;/em&gt;, on things said in combination&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Prior&lt;/em&gt; and &lt;em&gt;Posterior Analytics&lt;/em&gt;, on demonstrative scientific knowledge (&lt;em&gt;epistēmē apodeiktikē&lt;/em&gt;), including Aristotle&amp;rsquo;s categorical logic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Topics&lt;/em&gt;, on dialectic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Sophistical Refutations&lt;/em&gt;, on fallacy&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;background-ontology-and-explanation-in-the-organon&#34;&gt;Background: Ontology &amp;amp; Explanation in the &lt;em&gt;Organon&lt;/em&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;categories-1-5&#34;&gt;&lt;em&gt;Categories&lt;/em&gt; 1&amp;ndash;5&lt;/h3&gt;
+&lt;h4 id=&#34;cat-dot-1-three-semantico-ontological-distinctions&#34;&gt;&lt;em&gt;Cat.&lt;/em&gt; 1: Three semantico-ontological distinctions:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; are &lt;strong&gt;homonymous&lt;/strong&gt; iff:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; have a name (&lt;em&gt;N&lt;/em&gt;) in common, but&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the &amp;ldquo;definition of being&amp;rdquo; (&lt;em&gt;logos tēs ousias&lt;/em&gt;) of &lt;em&gt;N&lt;/em&gt; is &lt;span class=&#34;underline&#34;&gt;different&lt;/span&gt; in &amp;ldquo;&lt;em&gt;x&lt;/em&gt; is &lt;em&gt;N&lt;/em&gt;&amp;rdquo; and &amp;ldquo;&lt;em&gt;y&lt;/em&gt; is &lt;em&gt;N&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; are &lt;strong&gt;synonymous&lt;/strong&gt; iff:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; have a name (&lt;em&gt;N&lt;/em&gt;) in common,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the &amp;ldquo;definition of being&amp;rdquo; (&lt;em&gt;logos tēs ousias&lt;/em&gt;) of &lt;em&gt;N&lt;/em&gt; is &lt;span class=&#34;underline&#34;&gt;the same&lt;/span&gt; in &amp;ldquo;&lt;em&gt;x&lt;/em&gt; is &lt;em&gt;N&lt;/em&gt;&amp;rdquo; and &amp;ldquo;&lt;em&gt;y&lt;/em&gt; is &lt;em&gt;N&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; are &lt;strong&gt;paronymous&lt;/strong&gt; iff:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; get their name from the same &lt;em&gt;N&lt;/em&gt;, but&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; differ in grammatical category (&lt;em&gt;ptōsis&lt;/em&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cat-dot-2-a-fourfold-division-of-beings--ta-onta&#34;&gt;&lt;em&gt;Cat.&lt;/em&gt; 2: A fourfold division of beings (&lt;em&gt;ta onta&lt;/em&gt;):&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Said-of&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;¬Said-of&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Present-in&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Non-Substantial Universals (Knowledge)&lt;/td&gt;
+&lt;td&gt;Non-Substantial Particulars (Literacy)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;¬Present-in&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Secondary Substances (Human Being)&lt;/td&gt;
+&lt;td&gt;Primary Substances (Socrates)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Some definitions (&lt;em&gt;Cat.&lt;/em&gt; 5, 2a19&amp;ndash;35)&amp;hellip;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;N&lt;/em&gt; is &lt;strong&gt;predicated&lt;/strong&gt; of some subject &lt;em&gt;x&lt;/em&gt; if (and only if?):
+∀M(&lt;em&gt;M&lt;/em&gt; is said of &lt;em&gt;N&lt;/em&gt; → &lt;em&gt;M&lt;/em&gt; is said of &lt;em&gt;x&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;N&lt;/em&gt; is &lt;strong&gt;said of&lt;/strong&gt; some subject &lt;em&gt;x&lt;/em&gt; if (and only if?)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;&lt;em&gt;N&lt;/em&gt;&amp;rdquo; is (truly) predicated of &lt;em&gt;x&lt;/em&gt;, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;N&amp;rsquo;s definition is also (truly) predicated of &lt;em&gt;x&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;N&lt;/em&gt; is &lt;strong&gt;present in&lt;/strong&gt; a subject  &lt;em&gt;x&lt;/em&gt; iff:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;N&lt;/em&gt; is &amp;ldquo;in&amp;rdquo; &lt;em&gt;x&lt;/em&gt;, not as a part, and cannot be separately from what it is in. (1a24&amp;ndash;5)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Neither &amp;ldquo;&lt;em&gt;N&lt;/em&gt;&amp;rdquo; nor its definition is (non-paronymously) predicated of &lt;em&gt;x&lt;/em&gt;.
+(Socrates is &lt;em&gt;brave&lt;/em&gt;, not &lt;em&gt;bravery&lt;/em&gt;.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;mapping-said-of-and-present-in-relations&#34;&gt;Mapping said-of and present-in relations&lt;/h4&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Said-of relations and genus-species trees&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.roberthowton.com/ox-hugo/genus-species.png&#34; &gt;
+
+
+  &lt;img src=&#34;https://www.roberthowton.com/ox-hugo/genus-species.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Present-in relations and &amp;ldquo;kooky objects&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Kooky object
+: an &amp;ldquo;accidental&amp;rdquo; compound of a (primary) substance and an attribute present in that substance, e.g. &lt;em&gt;the pale man&lt;/em&gt; or &lt;em&gt;musical Socrates&lt;/em&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.roberthowton.com/ox-hugo/kookyobject.png&#34; &gt;
+
+
+  &lt;img src=&#34;https://www.roberthowton.com/ox-hugo/kookyobject.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;substance-in-cat-dot-5&#34;&gt;Substance in &lt;em&gt;Cat.&lt;/em&gt; 5&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Cat.&lt;/em&gt; 5, 2a11&amp;ndash;19 (Ackrill tr.)&lt;/p&gt;
+&lt;p&gt;A substance—that which is called a substance most
+strictly, primarily, and most of all—is that which is neither
+said of a subject nor in a subject, e.g. the [15] individual man
+or the individual horse. The species in which the things
+primarily called substances are, are called secondary
+substances, as also are the genera of these species. For
+example, the individual man belongs in a species, man, and
+animal is a genus of the species; so these—both man and
+animal—are called secondary substances.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;characteristics-of-substance-in-cat-dot-5&#34;&gt;Characteristics of substance in &lt;em&gt;Cat.&lt;/em&gt; 5&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Substance is not present in anything:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Primary substances&lt;/strong&gt; are neither said of nor present in anything else as subject.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Secondary substances&lt;/strong&gt; are said of primary substances, but present in nothing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Differentia&lt;/strong&gt; too are not present in anything as subject, but they are neither primary nor secondary substances&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Question:&lt;/strong&gt; How then do differentia fit into the &lt;em&gt;Cat.&lt;/em&gt; 2 division of beings?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Everything called from them are so-called synonymously.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No contrary of substance&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;F&lt;/em&gt; and &lt;em&gt;G&lt;/em&gt; are &lt;strong&gt;contraries&lt;/strong&gt; iff ∀x(Fx→¬Gx) ∀x(Gx→¬Fx)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;F&lt;/em&gt; and &lt;em&gt;G&lt;/em&gt; are &lt;strong&gt;contradictories&lt;/strong&gt; iff ∀x[(¬Fx→Gx) &amp;amp; (¬Gx→Fx)]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Substances do not admit of a more and less.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Most distinctive&amp;rdquo;: substances are (1) numerically one but (2) capable of receiving contraries.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cat. 5, 4a10&amp;ndash;21 (Ackrill tr.)&lt;/p&gt;
+&lt;p&gt;It seems most distinctive of substance that what is
+numerically one and the [10] same is able to receive
+contraries. In no other case could one bring forward anything,
+numerically one, which is able to receive contraries. For
+example, a colour which is numerically one and the same will
+not be black and white, nor will numerically one and the same
+action be bad and good; and similarly with everything [15]
+else that is not substance. A substance, however, numerically
+one and the same, is able to receive contraries. For example,
+an individual man—one and the same—becomes pale at one
+time and dark at another, and hot and cold, and bad and [20]
+good.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ontology-and-explanation-in-the-prior-analytics&#34;&gt;Ontology &amp;amp; Explanation in the &lt;em&gt;Prior Analytics&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;basics-of-aristotelian-syllogistic&#34;&gt;Basics of Aristotelian Syllogistic&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;strong&gt;term&lt;/strong&gt; (A, B, C, &amp;hellip;) is what is predicated and what it is predicated of in a &lt;strong&gt;premise&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;strong&gt;premise&lt;/strong&gt; is a sentence that affirms or denies one &lt;strong&gt;term&lt;/strong&gt; of another:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Affirmation:&lt;/strong&gt; &amp;ldquo;A belongs to B&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Denial:&lt;/strong&gt; &amp;ldquo;A does not belong to B&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Premises are distinguished by &lt;strong&gt;quantity&lt;/strong&gt; (and &lt;strong&gt;quality&lt;/strong&gt;, i.e. necessity, possibility).&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Affirmation&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Denial&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Universal&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;A belongs to &lt;em&gt;all&lt;/em&gt; B&lt;/td&gt;
+&lt;td&gt;A belongs to &lt;em&gt;no&lt;/em&gt; B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Particular&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;A belongs to &lt;em&gt;some&lt;/em&gt; B&lt;/td&gt;
+&lt;td&gt;A does &lt;em&gt;not&lt;/em&gt; belong to some B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Schematically:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Universal Affirmative:&lt;/strong&gt; AaB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Universal Negative:&lt;/strong&gt; AeB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Particular Affirmative:&lt;/strong&gt; AiB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Particular Negative:&lt;/strong&gt; AoB&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;strong&gt;syllogism&lt;/strong&gt; is &amp;ldquo;a &lt;em&gt;logos&lt;/em&gt; in which, certain things being posited (i.e., the premises), something else (i.e., the conclusion) results by necessity because these things are so&amp;rdquo; (24b18&amp;ndash;20).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aristotle&amp;rsquo;s syllogistic is the formal study of what combinations of premises produce syllogisms, using three tools:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Three &lt;strong&gt;rules of conversion&lt;/strong&gt; (&lt;em&gt;APr.&lt;/em&gt; 1.2)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AeB → BeA:&lt;/strong&gt; If A belongs to no B, B belongs to no A.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AiB → BiA:&lt;/strong&gt; If A belongs to some B, B belongs to some A.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AaB → BiA:&lt;/strong&gt; If A belongs to all B, B belongs to some A.
+(Note: Aristotle assumes terms are non-empty!)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arguments from impossibility (&lt;em&gt;reductio ad absurdum&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;I call a syllogism perfect if it requires nothing beyond the things posited for the necessity to be evident.&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;According to Aristotle, syllogisms of the First Figure are all perfect:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Mnemonic&lt;/th&gt;
+&lt;th&gt;Form&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Barbara&lt;/td&gt;
+&lt;td&gt;AaB, BaC &amp;amp;#8866 AaC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Celarent&lt;/td&gt;
+&lt;td&gt;AeB, BaC &amp;amp;#8866 AeC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Darii&lt;/td&gt;
+&lt;td&gt;AaB, BiC &amp;amp;#8866 AiC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ferio&lt;/td&gt;
+&lt;td&gt;AeB, BiC &amp;amp;#8866 AoC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Syllogisms in the second and third figures proved by conversion and reduction to one of the &amp;ldquo;perfect&amp;rdquo; first figure syllogisms; figures differ according to where the &lt;strong&gt;middle term&lt;/strong&gt; (the term that appears in both premises) appears in each premise.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Second Figure&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Mnemonic&lt;/th&gt;
+&lt;th&gt;Form&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ceasare&lt;/td&gt;
+&lt;td&gt;AeB, AaC &amp;amp;#8866 BeC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Camestres&lt;/td&gt;
+&lt;td&gt;AaB, AeC &amp;amp;#8866 BeC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Festino&lt;/td&gt;
+&lt;td&gt;AeB, AiC &amp;amp;#8866 BoC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Baroco&lt;/td&gt;
+&lt;td&gt;AaB, AoC &amp;amp;#8866 BoC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Third Figure&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Mnemonic&lt;/th&gt;
+&lt;th&gt;Form&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Darapti&lt;/td&gt;
+&lt;td&gt;AaC, BaC &amp;amp;#8866 AiB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Felapton&lt;/td&gt;
+&lt;td&gt;AeC, BaC &amp;amp;#8866 AoB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Disamis&lt;/td&gt;
+&lt;td&gt;AiC, BaC &amp;amp;#8866 AiB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Datisi&lt;/td&gt;
+&lt;td&gt;AaC, BiC &amp;amp;#8866 AiB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bocardo&lt;/td&gt;
+&lt;td&gt;AoC, BaC &amp;amp;#8866 AoB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ferison&lt;/td&gt;
+&lt;td&gt;AeC, BiC &amp;amp;#8866 AoB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;syllogistic-and-explanation&#34;&gt;Syllogistic and Explanation&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Demonstration&lt;/dt&gt;
+&lt;dd&gt;A &amp;ldquo;knowledge-yielding&amp;rdquo; syllogism; a syllogism grasp of which imparts scientific knowledge (&lt;em&gt;epistēmē&lt;/em&gt;) of the conclusion.
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Posterior Analytics&lt;/em&gt; 1.2, 71b9-12 (Barnes tr.)&lt;/p&gt;
+&lt;p&gt;We think we understand (= know scientifically) a thing &lt;em&gt;simpliciter&lt;/em&gt;
+(and not in the sophistic fashion accidentally) whenever we think
+we are aware both that the explanation [10] because of which the
+object is is its explanation, and that it is not possible for this
+to be otherwise.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;The syllogistic is a necessary preliminary to the study of demonstration and demonstrative scientific knowledge &amp;ldquo;because syllogism is more universal than demonstration, for a demonstration is a kind of syllogism, but not every syllogism is a demonstration&amp;rdquo; (&lt;em&gt;APr.&lt;/em&gt; 1.4, 28&amp;ndash;31)&lt;/p&gt;
+&lt;p&gt;As the universal patterns of which demonstrations are special instances, Aristotle thinks the syllogistic implies a method for inquiry and explanation in all disciplines:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Prior Analytics&lt;/em&gt; 1.30, 46a3&amp;ndash;10 (Striker tr.)&lt;/p&gt;
+&lt;p&gt;So the method is the same for all subjects, in philosophy as well as
+in the technical or mathematical disciplines. For one must discern for
+both terms what belongs to them and what they belong to, and be
+supplied with as many of those terms as possible. One must examine
+them with respect to the three terms, in one way when refuting, in
+another way when establishing something; and when it is a question
+of truth, from the terms that are listed as belonging truly, for dialecti-
+cal syllogisms from premisses according to opinion.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The method presupposes the classification of beings similar to the one articulated in the &lt;em&gt;Categories&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Prior Analytics&lt;/em&gt; 1.27, 43a25&amp;ndash;43&lt;/p&gt;
+&lt;p&gt;Now of all the things there are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;some are such that they cannot be predicated truly and universally of anything else (for instance, Cleon or Callias, that is, what is individual and perceptible), but other things may be predicated of them (for each of these is both a man and an animal).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some things are themselves predicated of others , but nothing else is prior and predicated of them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;And some things are both predicated themselves of others and others of them, as man is predicated of Callias and animal of man.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That [1] some things are by nature such as to be said of nothing else is clear, for just about every perceptible thing is such as not to be predicated of anything except accidentally&amp;mdash;for we do sometimes say that the white thing there is Socrates, or that what is approaching is Callias.&lt;/p&gt;
+&lt;p&gt;But [2] that one also comes to a halt if one goes upwards,  we will explain later; for the moment let this be assumed. (&lt;em&gt;APo.&lt;/em&gt; 1.3)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Now with respect to those things one cannot demonstrate that something else is predicated of them (except perhaps as a matter of mere opinion), but only that they themselves are predicated of other things;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;nor can one demonstrate that individuals are said of other things, but only that other things are said of them. But clearly the intermediate things admit of both, for they themselves will be said of others and others of them. And by and large arguments and investigations are mostly concerned with these.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What of [3], the terms that are both predicated and predicated of? Aristotle continues:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Prior Analytics&lt;/em&gt; 1.28 43b1&amp;ndash;11 (Striker tr.)&lt;/p&gt;
+&lt;p&gt;So one must select the premisses about each thing in the following
+way: &lt;strong&gt;first&lt;/strong&gt;, set down the thing itself, its definitions, and whatever
+properties are peculiar to it; &lt;strong&gt;after that&lt;/strong&gt;, whatever follows this thing,
+what is followed by it, and whatever cannot belong to the thing. (One
+need not select the terms to which the thing itself cannot belong, since
+the privative premiss converts.)&lt;/p&gt;
+&lt;p&gt;Among the terms that follow one must also distinguish:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;those that are predicated in the definition,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;those that are peculiar properties,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;and those that are predicated as accidents; and among those, which sort is predicated only as a matter of opinion and which according to the truth.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For the more such terms one has available, the faster one will hit upon a conclusion, and the more these belong in truth, the more one will hit upon a demonstration.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which of 1&amp;ndash;3 are said-of predications, and which are present-in predications?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--listend--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;With a ready supply of terms, Aristotle argues (&lt;em&gt;APr.&lt;/em&gt; 1.28) we can construct each kind of proposition (&lt;em&gt;pons asinorum&lt;/em&gt;):&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.roberthowton.com/ox-hugo/Pons_Asinorum.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://www.roberthowton.com/ox-hugo/Pons_Asinorum.jpg&#34; alt=&#34;&#34; width=&#34;700&#34; &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Commentary by Gisela Striker (2009, 195&amp;ndash;6):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Actually, instead of building a helpful bridge, the diagram seems
+to make Aristotle&amp;rsquo;s rules look much more complicated than they
+are, because it also shows the cases in which no syllogisms can be
+found.&lt;/p&gt;
+&lt;p&gt;Aristotle first introduces the letters B , C, D and F, G, H to stand
+for sets of terms, while A and E stand for the predicate- and subject­
+terms of the desired conclusion. For both A and E there will be lists of
+terms that either &#39; follow&#39; them ( B and F ) or are followed by the m (C
+and G), or that cannot be predicated of them (D and H). Evidently, the
+terms that are said to follow a given term are universally predicable
+of it. The middle term in each case will be one that occurs in one of
+the lists for A as well as one of the lists for E. In the first example,
+Aristotle makes this explicit by speaking of &amp;lsquo;one of the Cs&amp;rsquo; or &amp;lsquo;one
+of the Fs&amp;rsquo;; later on he simply uses the letters to stand for an item on
+the respective list.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The ontology Aristotle presents in &lt;em&gt;Categories&lt;/em&gt; is complemented elsewhere in the &lt;em&gt;Organon&lt;/em&gt; with a sophisticated methodology for understanding and explaining beings and their attributes. (Most notably in the &lt;em&gt;Analytics&lt;/em&gt;, but also in the &lt;em&gt;Topics&lt;/em&gt;.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conspicuously &lt;em&gt;absent&lt;/em&gt; from this ontology and explanatory theory is a method for understanding and explaining &lt;em&gt;change&lt;/em&gt;, including both changes in the attributes belonging to substances and the coming to be of substances themselves.&lt;/p&gt;
+&lt;p&gt;(N.B., considerations of change and coming to be are not wholly absent: see especially &lt;em&gt;APo.&lt;/em&gt; 2.12.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Outside of the &lt;em&gt;Organon&lt;/em&gt;, Aristotle will attempt to adapt this method and theory of explanation to accommodate explaining coming-to-be, but before he can do this, he has first to make conceptual sense of the phenomenon of change &lt;em&gt;itself&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
