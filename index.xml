@@ -93,6 +93,33 @@
     </item>
     
     <item>
+      <title>How to Write a Commentary</title>
+      <link>https://www.roberthowton.com/course-hylomorphism/assignments/commentary/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course-hylomorphism/assignments/commentary/</guid>
+      <description>&lt;h1 id=&#34;what-is-a-commentary&#34;&gt;What is a Commentary?&lt;/h1&gt;
+&lt;p&gt;A &lt;strong&gt;commentary&lt;/strong&gt; is a detailed, line-by-line &amp;ldquo;explication&amp;rdquo; of a text. From Late Antiquity through the Middle Ages, several commentaries were commentaries were written on a wide variety of ancient texts, each with the aims of (1) explaining difficult aspects of the text for novice readers, (2) resolving textual ambiguities, and (3) exploring the philosophical, literary, or historical questions raised by the text. For similar reasons modern &amp;ldquo;critical editions&amp;rdquo; of ancient texts are also often accompanied by commentaries.&lt;/p&gt;
+&lt;h1 id=&#34;the-structure-of-a-commentary&#34;&gt;The Structure of a Commentary&lt;/h1&gt;
+&lt;p&gt;Commentaries can differ significantly in organization and focus depending on the commentator&amp;rsquo;s interest, whether it is the literary character of a text, its historical transmission, its connection with other ancient literature, or its philosophical content. But whatever its focus, any commentary will have something like the following structure:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The commentary will begin by introducing the text, giving its overall context, aims, and reception by ancient and modern readers.&lt;/li&gt;
+&lt;li&gt;The commentator then proceeds slowly through the text, section-by-section, line-by-line, (a) clarifying the meaning of and (b) raising questions about the text, (c) making cross-references to other relevant passages, and (d) discussing alternative interpretations of the text.&lt;/li&gt;
+&lt;li&gt;Each new section to be discussed is introduced by a &lt;strong&gt;lemma&lt;/strong&gt;, an abbreviated quotation of a line of the text that introduces the issues to be discussed.&lt;/li&gt;
+&lt;li&gt;Paraphrase is discouraged; claims referenced from the text are cited by page and line number (&lt;em&gt;e.g.&lt;/em&gt;, Stephanus pages for Plato&amp;rsquo;s works, Bekker lines for Aristotle&amp;rsquo;s)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;requirements-for-your-philosophical-commentary&#34;&gt;Requirements for Your Philosophical Commentary&lt;/h1&gt;
+&lt;p&gt;You will be writing a &lt;em&gt;philosophical&lt;/em&gt; commentary. This means that your commentary will be dedicated to explicating the philosophical content of the text you choose. Here are some features your philosophical commentary must include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Avoid paraphrase.&lt;/em&gt; It will be more helpful to your reader if you &lt;em&gt;explain&lt;/em&gt; the meaning of a passage, rather than put the same claim into different words.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Break down&lt;/em&gt; the text into its logical components; dedicate a section of your commentary to each component of the text.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Consider alternative readings.&lt;/em&gt; Many sentences will be ambiguous. Pointing out the ambiguities and discussing the implications of alternative readings will help you and your reader understand the text.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Reference other passages&lt;/em&gt;, especially those which illuminate the context of the passage or contain more in depth discussion of ideas referenced in the text.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Keep the context in focus.&lt;/em&gt; What is the author&amp;rsquo;s project in the local context of the passage? What is the project of the containing work as a whole? How ought the context influence our interpretation of the text on which you are commenting?&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Spring 2021 Basic Information</title>
       <link>https://www.roberthowton.com/course-hylomorphism/spring2021/basicinfo/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
@@ -2964,7 +2991,7 @@ analogy those which are related as a third thing is to a fourth.&lt;/p&gt;
       <link>https://www.roberthowton.com/course-hylomorphism/lectures/unit3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.roberthowton.com/course-hylomorphism/lectures/unit3/</guid>
-      <description>&lt;h2 id=&#34;3-dot-1-nature-and-causation&#34;&gt;3.1 | Nature and Causation&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;3-dot-1-nature-and-causation&#34;&gt;3.1 | Nature &amp;amp; Causation&lt;/h2&gt;
 &lt;p&gt;The unity of Aristotle&amp;rsquo;s &lt;em&gt;Physics&lt;/em&gt; is a matter of scholarly controversy, but it seems clear that &lt;em&gt;Physics&lt;/em&gt; 2&amp;ndash;4 (at least) constitute a continuous discussion of &lt;strong&gt;nature&lt;/strong&gt; (&lt;em&gt;phusis&lt;/em&gt;). &lt;em&gt;Physics&lt;/em&gt; 2 provides the foundation of this discussion, defending a definition of nature as well as an enumeration of the kinds of cause operative in the things that come about by or in accordance with nature.&lt;/p&gt;
 &lt;h3 id=&#34;a-division-among-beings&#34;&gt;A Division Among Beings&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.1 begins with a distinction among beings (&lt;em&gt;ta onta&lt;/em&gt;):&lt;/p&gt;
@@ -3121,6 +3148,157 @@ analogy those which are related as a third thing is to a fourth.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;How nature-as-form and nature-as-matter map on to the notion of &lt;em&gt;cause&lt;/em&gt; in these senses is an important question for the remainder of &lt;em&gt;Physics&lt;/em&gt; 2. We&amp;rsquo;ll pick up with it next Thursday, and then again next week.&lt;/p&gt;
+&lt;h2 id=&#34;3-dot-2-necessity-and-teleology&#34;&gt;3.2 | Necessity &amp;amp; Teleology&lt;/h2&gt;
+&lt;h3 id=&#34;review&#34;&gt;Review&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;em&gt;Physics&lt;/em&gt; 2.1&lt;/dt&gt;
+&lt;dd&gt;Nature is an internal causal principle of change and rest in that which is by nature primarily and non-accidentally.&lt;/dd&gt;
+&lt;dt&gt;Question&lt;/dt&gt;
+&lt;dd&gt;What kind of causal principle?&lt;/dd&gt;
+&lt;dt&gt;Answer&lt;/dt&gt;
+&lt;dd&gt;It&amp;rsquo;s complicated&amp;hellip;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Physics&lt;/em&gt; 2.1&amp;ndash;2:&lt;/strong&gt; Nature is &amp;ldquo;double&amp;rdquo;, both formal and material.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Physics&lt;/em&gt; 2.3:&lt;/strong&gt; &amp;ldquo;Cause&amp;rdquo; is said in many ways: formal, material, efficient, and final.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;drawing-conclusions&#34;&gt;Drawing Conclusions&lt;/h3&gt;
+&lt;p&gt;In &lt;em&gt;Physics&lt;/em&gt; 2.7 A. consolidates some of these conclusions:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.7, 198a22&amp;ndash;31 (Hardie and Gaye tr.)&lt;/p&gt;
+&lt;p&gt;Now, the causes being four, it is the business of the student of nature to know about them all, and if he refers his problems back to all of them, he will assign the ‘why’ in the way proper to his science—the matter, the form, the mover, that for the [25] sake of which. &lt;strong&gt;The last three often coincide; for the what and that for the sake of which are one, while the primary source of motion is the same in species as these.&lt;/strong&gt; For man generates man—and so too, in general, with all things which cause movement by being themselves moved; and such as are not of this kind are no longer inside the province of natural science, for they cause motion not by possessing motion or a source of motion in themselves, but being themselves incapable of [30] motion.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The form, mover, and that for the sake of which are, in many cases, operations of &lt;strong&gt;formal nature&lt;/strong&gt; in natural substances.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Notice, however, that matter too can operate as a source of motion, as when we say that something is heated due to the presence of fire. In natural substances (a plant or animal, say) these sorts of efficient causes cannot &lt;em&gt;directly&lt;/em&gt; be attributed to formal nature but rather &lt;strong&gt;material nature&lt;/strong&gt;. How do these two types of cause interact in nature?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Answering this question is the topic of &lt;em&gt;Physics&lt;/em&gt; 2.8&amp;ndash;9, which Aristotle devotes to arguing for two claims:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Physics&lt;/em&gt; 2.8:&lt;/strong&gt; &lt;em&gt;That&lt;/em&gt; &amp;ldquo;nature belongs to the class of causes that act for the sake of something&amp;rdquo; (198b9&amp;ndash;10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Physics&lt;/em&gt; 2.9:&lt;/strong&gt; The place of (material) necessity in nature, &amp;ldquo;for all writers ascribe things to this cause, arguing that since the hot and the cold and the like are of such and such a kind, therefore certain things necessarily are and come to be—and if they mention any other cause (one friendship and strife, [15] another mind), it is only to touch on it, and then good-bye to it&amp;rdquo; (198b10&amp;ndash;15).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nature-as-a-final-cause&#34;&gt;Nature as a Final Cause&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Observation&lt;/dt&gt;
+&lt;dd&gt;Some things in nature do not happen for the sake of anything, &lt;em&gt;even though it benefits something&lt;/em&gt;.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Even if the farmer benefits from the rain, it does not rain &lt;em&gt;for the sake of&lt;/em&gt; making the corn grow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Even if the tourism industry in Antalya benefits from sunny summer weather, the weather is not sunny &lt;em&gt;for the sake of&lt;/em&gt; the tourism industry.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Question&lt;/dt&gt;
+&lt;dd&gt;Why shouldn&amp;rsquo;t &lt;em&gt;all&lt;/em&gt; natural processes happen this way?&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.8, 16&amp;ndash;32 (Hardie and Gaye tr.)&lt;/p&gt;
+&lt;p&gt;A difficulty presents itself: why should not nature work, not for the sake of something, nor because it is better so, but just as the sky rains, not in order to make the corn grow, but of necessity? (What is drawn up must cool, and what has been cooled must become water and descend, the result of this being that the corn grows.) [20] Similarly if a man’s crop is spoiled on the threshing-floor, the rain did not fall for the sake of this—in order that the crop might be spoiled—but that result just followed. Why then should it not be the same with the parts in nature, e.g. that our teeth should come up of necessity—the front teeth sharp, fitted for tearing, the [25] molars broad and useful for grinding down the food—since they did not arise for this end, but it was merely a coincident result; and so with all other parts in which we suppose that there is purpose? Wherever then all the parts came about just what they would have been if they had come to be for an end, such things survived, being [30] organized spontaneously in a fitting way; whereas those which grew otherwise perished and continue to perish, as Empedocles says his ‘man-faced oxprogeny’ did.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;aristotle-s-principal-argument-for-natural-teleology&#34;&gt;Aristotle&amp;rsquo;s Principal Argument for Natural Teleology&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.8, 198b32&amp;ndash;199a8&lt;/p&gt;
+&lt;p&gt;Yet it is impossible that this should be the true view. For teeth and all other natural things either invariably or for the most part come about in a given way; but of not one of the results of chance or spontaneity is this true. We do not [199a1] ascribe to chance or mere coincidence the frequency of rain in winter, but frequent rain in summer we do; nor heat in summer but only if we have it in winter. If then, it is agreed that things are either the result of coincidence or for the sake of something, and these cannot be the result of coincidence or spontaneity, it follows [5] that they must be for the sake of something; and that such things are all due to nature even the champions of the theory which is before us would agree. Therefore action for an end is present in things which come to be and are by nature.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A (very) rough reconstruction.&lt;/p&gt;
+&lt;p&gt;P1
+: For any product of nature, &lt;em&gt;o&lt;/em&gt;, either &lt;em&gt;o&lt;/em&gt; comes about by chance or &lt;em&gt;o&lt;/em&gt; comes about for the sake of something.&lt;/p&gt;
+&lt;p&gt;P2
+: If &lt;em&gt;o&lt;/em&gt; comes about by nature, then &lt;em&gt;o&lt;/em&gt; comes about (in the way it does) either always or for the most part (i.e. if nothing external interferes).&lt;/p&gt;
+&lt;p&gt;P3
+: Nothing that happens always or for the most part comes about by chance.&lt;/p&gt;
+&lt;p&gt;C
+: So, if &lt;em&gt;o&lt;/em&gt; comes about by nature, then &lt;em&gt;o&lt;/em&gt; comes about for the sake of something.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Supplement: Aristotle on Chance&lt;/p&gt;
+&lt;p&gt;A. here seems to be relying on &lt;em&gt;Physics&lt;/em&gt; 2.4&amp;ndash;6, which argued that chance and spontaneity are distinct sorts of cause, in particular on this observation:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.5, 196b1&amp;ndash;16 (Hardie and Gaye tr.)&lt;/p&gt;
+&lt;p&gt;First then we observe that some things always come to pass in the same [10] way, and others for the most part. It is clearly of neither of these that chance, or the result of chance, is said to be the cause—neither of that which is by necessity and always, nor of that which is for the most part. But as there is a third class of events besides these two—events which all say are by chance—it is plain that there is such [15] a thing as chance and spontaneity; for we know that things of this kind are due to chance and that things due to chance are of this kind.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aristotle reiterates this observation in &lt;em&gt;Physics&lt;/em&gt; 2.8 (199b16&amp;ndash;26, Hardie and Gaye tr.)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For those things are natural which, by a continuous movement originated from an internal principle, arrive at some end: the same end is not reached from every principle; nor any chance end, but always the tendency in each is towards the same end, if there is no impediment.&lt;/p&gt;
+&lt;p&gt;The end and the means towards it may come about by chance. We say, for instance, that a stranger has come by chance, paid the ransom, and gone away, [20] when he does so as if he had come for that purpose, though it was not for that that he came. This is accidental, for chance is an accidental cause, as I remarked before. But when an event takes place always or for the most part, it is not accidental or by [25] chance. In natural products the sequence is invariable, if there is no impediment.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Questions for Aristotle&amp;rsquo;s Argument&lt;/p&gt;
+&lt;p&gt;Might not A. be begging the question against his opponents? (More on this Thursday)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-craft-analogy&#34;&gt;The Craft Analogy&lt;/h3&gt;
+&lt;p&gt;Aristotle&amp;rsquo;s conception of natural teleology relies on an important analogy with art (or craft, &lt;em&gt;technē&lt;/em&gt;), which in his view always operates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Either to bring to completion what nature has not finished, or&lt;/li&gt;
+&lt;li&gt;Imitates nature.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.8, 199a17&amp;ndash;18&lt;/p&gt;
+&lt;p&gt;If, therefore, artificial products are for the sake of an end, so clearly are natural products.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For Aristotle&amp;rsquo;s the analogy is strict: apart from the fact that the causes of artificial products are external to the products themselves, art and nature are purposive in the same way:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.8, 199b26&amp;ndash;30 (Hardie and Gaye tr.)&lt;/p&gt;
+&lt;p&gt;It is absurd to suppose that purpose is not present because we do not observe the agent deliberating. Art does not deliberate. If the ship-building art were in the wood, it would produce the same results by nature. If, therefore, purpose is present in art, it is present also in nature. The best illustration is a doctor doctoring himself: [30] nature is like that.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;two-kinds-of-necessity&#34;&gt;Two Kinds of Necessity&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In &lt;em&gt;Physics&lt;/em&gt; 2.8, Aristotle associated form with &amp;ldquo;the cause in the sense of that for the sake of which&amp;rdquo; (199a30&amp;ndash;33).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In &lt;em&gt;Physics&lt;/em&gt; 2.9, when Aristotle turns to the role of necessity (&lt;em&gt;anankē&lt;/em&gt;) in nature, he argues for a subordinate causal role for material nature in natural processes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To do so, however, he has to clarify the sense in which it is true to say that things happen &lt;em&gt;necessarily&lt;/em&gt; in nature. Again he relies on an analogy with craft:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.9, 199b33&amp;ndash;200a14 (Hardie and Gaye tr.)&lt;/p&gt;
+&lt;p&gt;The current view places what is of necessity in the process of production, just as if one were to suppose that the wall of a house [200a1] necessarily comes to be because what is heavy is naturally carried downwards and what is light to the top, so that the stones and foundations take the lowest place, with earth above because it is lighter, and wood at the top of all as being the lightest. Whereas, though the wall does not come to be without these, it is not due to these, [5] except as its material cause: it comes to be for the sake of sheltering and guarding certain things.&lt;/p&gt;
+&lt;p&gt;Similarly in all other things which involve that for the sake of which: the product cannot come to be without things which have a necessary nature, but it is not due to these (except as its material); it comes to be for an end. For instance, why is a saw such as it is? To effect so-and-so and for the sake of so-and-so. This [10] end, however, cannot be realized unless the saw is made of iron. It is, therefore, necessary for it to be of iron, if we are to have a saw and perform the operation of sawing. &lt;strong&gt;What is necessary then, is necessary on a hypothesis, not as an end. Necessity is in the matter, while that for the sake of which is in the definition.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;dl&gt;
+&lt;dt&gt;Observation&lt;/dt&gt;
+&lt;dd&gt;It seems that we can explain a number of natural processes by focusing only on the necessary (efficient causal) effects of matter, e.g. heatings and coolings, hardenings and softenings, etc.&lt;/dd&gt;
+&lt;dt&gt;Question&lt;/dt&gt;
+&lt;dd&gt;Doesn&amp;rsquo;t this make the role of formal nature as a final cause &lt;em&gt;redundant&lt;/em&gt;?&lt;/dd&gt;
+&lt;dt&gt;Answer&lt;/dt&gt;
+&lt;dd&gt;No! All that happens &amp;ldquo;of necessity&amp;rdquo; in these natural processes is conditional on a hypothesis, namely: that there is to be an &lt;em&gt;F&lt;/em&gt;.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Physics&lt;/em&gt; 2.9, 200a24&amp;ndash;29 (Hardie and Gaye tr.)&lt;/p&gt;
+&lt;p&gt;If then there is to be a house, such-and-such things must be made or be there already or exist, or generally [25] the matter relative to the end, bricks and stones if it is a house. But the end is not due to these except as the matter, nor will it come to exist because of them. Yet if they do not exist at all, neither will the house, or the saw—the former in the absence of stones, the latter in the absence of iron&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Cause &lt;em&gt;sine qua non&lt;/em&gt; (without which not).&lt;/p&gt;
 </description>
     </item>
     
