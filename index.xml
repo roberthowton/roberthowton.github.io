@@ -3338,7 +3338,7 @@ primary things.&lt;/p&gt;
 &lt;p&gt;Matter is &lt;em&gt;passive&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;GC&lt;/em&gt; 2.9, 335b30&amp;ndash;34 (Joachim tr.)&lt;/p&gt;
-&lt;p&gt;For, to beginwith, it is characteristic of matter to suffer
+&lt;p&gt;For, to begin with, it is characteristic of matter to suffer
 action, i.e. to be moved; but to move, i.e. to act, belongs to a
 different power. This is obvious both in the things that
 come-to-be by art and in those that come-to-be by nature.
@@ -3374,7 +3374,8 @@ bring together, and of each remaining [5] contrary either to
 act or to suffer action, it is out of such materials and by their
 agency (so they maintain) that everything else comes-to-be
 and passes-away. Yet it is evident that even Fire is itself
-moved, i.e. suffers action. Moreover their procedure is
+moved, i.e. suffers action.&lt;/p&gt;
+&lt;p&gt;Moreover their procedure is
 virtually the same as if one were to treat the saw (and the
 various instruments of [10] carpentry) as the cause of the
 things that come-to-be; for the wood must be divided if a man
@@ -3477,6 +3478,306 @@ vaguely dreamed of by all our predecessors, definitely stated
 by none of them.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Strangely, A. does not refer to the third cause by name, but it should be clear what sort of cause A.&amp;rsquo;s objections to the &amp;ldquo;purely material&amp;rdquo; and &amp;ldquo;purely formal&amp;rdquo; accounts of change point to: &lt;strong&gt;the mover&lt;/strong&gt; (typically&amp;mdash;among perishable things&amp;mdash;the efficient cause).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unit 4 | Consequences for a Theory of Substance</title>
+      <link>https://www.roberthowton.com/course-hylomorphism/lectures/unit4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.roberthowton.com/course-hylomorphism/lectures/unit4/</guid>
+      <description>&lt;h2 id=&#34;4-dot-1-is-substance-matter-form-or-what-is-from-them-some-puzzles&#34;&gt;4.1 | Is Substance Matter, Form, or What is From Them? Some Puzzles&lt;/h2&gt;
+&lt;h3 id=&#34;preliminaries-aristotle-s-metaphysics&#34;&gt;Preliminaries: Aristotle&amp;rsquo;s Metaphysics&lt;/h3&gt;
+&lt;p&gt;Aristotle&amp;rsquo;s &lt;em&gt;Metaphysics&lt;/em&gt; (literally &amp;ldquo;after the &lt;em&gt;Physics&lt;/em&gt;&amp;quot;) is a work on &amp;ldquo;First Philosophy&amp;rdquo; or &amp;ldquo;Theology&amp;rdquo;, what, for Aristotle, amounts to the science of &amp;ldquo;being &lt;em&gt;qua&lt;/em&gt; being&amp;rdquo;. What does this mean?&lt;/p&gt;
+&lt;h4 id=&#34;aristotle-s-division-of-sciences--metaph-dot-e-dot-1&#34;&gt;Aristotle&amp;rsquo;s Division of Sciences (&lt;em&gt;Metaph.&lt;/em&gt; E.1)&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.roberthowton.com/ox-hugo/sciences.png&#34; &gt;
+
+
+  &lt;img src=&#34;https://www.roberthowton.com/ox-hugo/sciences.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Theoretical Sciences&lt;/dt&gt;
+&lt;dd&gt;Sciences that aim at no end beyond understanding itself.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Physics (Natural Philosophy):&lt;/strong&gt; Studies beings that are movable and inseparable from matter &lt;em&gt;qua&lt;/em&gt; movable and inseparable (in thought) from matter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mathematics:&lt;/strong&gt; Studies beings that are movable and inseparable from matter &lt;em&gt;qua&lt;/em&gt; immovable and separable (in thought) from matter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Theology (First Philosophy):&lt;/strong&gt; Studies immovable, separable being qua immovable and separable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Question&lt;/dt&gt;
+&lt;dd&gt;What makes &lt;em&gt;this&lt;/em&gt; identical to the study of being as such?&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h4 id=&#34;being-is-said-in-many-ways&#34;&gt;&amp;ldquo;Being is said in many ways&amp;rdquo;&lt;/h4&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aristotle is committed to the existence of a unified science of being&amp;hellip;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Γ.1 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;There is a science which investigates being as being and
+the attributes which belong to this in virtue of its own nature.
+Now this is not the same as any of the so-called special
+sciences; for none of these others deals generally with being
+as [25] being. They cut off a part of being and investigate the
+attributes of this part—this is what the mathematical sciences
+for instance do. Now since we are seeking the first principles
+and the highest causes, clearly there must be some thing to
+which these belong in virtue of its own nature. If then our
+predecessors who sought the elements of existing things were
+seeking these same principles, it is necessary that the [30]
+elements must be elements of being not by accident but just
+because it is being. Therefore it is of being as being that we
+also must grasp the first causes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;But there is a problem&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Being is said in many ways!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z.1, 1028a9&amp;ndash;12 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;There are several senses in which a thing may be said to
+be, as we pointed [10] out previously in our book on the
+various senses of words; for in one sense it means what a
+thing is or a ‘this’, and in another sense it means that a thing
+is of a certain quality or quantity or has some such predicate
+asserted of it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Solution?&lt;/p&gt;
+&lt;p&gt;Being has a &amp;ldquo;primary sense&amp;rdquo;, namely &lt;strong&gt;substance&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z.1, 1028a12&amp;ndash;19 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;While ‘being’ has all these senses, obviously
+that which is primarily is the ‘what’, which indicates the
+substance of the thing. For when we say of what quality a
+thing is, we say that it is [15] good or beautiful, but not that it
+is three cubits long or that it is a man; but when we say what
+it is, we do not say ‘white’ or ‘hot’ or ‘three cubits long’, but
+‘man’ or ‘God’. And all other things are said to be because
+they are, some of them, quantities of that which is in this
+primary sense, others qualities of it, others affections of it,
+and others some other determination of it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Background to the Solution&lt;/p&gt;
+&lt;p&gt;Being is spoken of &amp;ldquo;&lt;em&gt;pros hen&lt;/em&gt;&amp;rdquo;, i.e. in relation to one, primary referent:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Γ.2, 1003a33&amp;ndash;b18 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;There are many senses in which a thing may be said to ‘be’, but they are related to one central point, one definite kind of thing, and are not homonymous. [35]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Everything which is healthy is related to health, one thing in the sense that it preserves health, another in the sense that it produces it, another in the sense that it is a symptom of health, another because it is capable of it. And that which is [1003b1] medical is relative to the medical art, one thing in the sense that it possesses it, another in the sense that it is naturally adapted to it, another in the sense that it is a function of the medical art. And we shall find other words used similarly to these.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[5] So, too, there are many senses in which a thing is said to be, but all refer to one starting-point; some things are said to be because they are substances, others because they are affections of substance, others because they are a process towards substance, or destructions or privations or qualities of substance, or productive or generative of substance, or of things which are relative to substance, or negations of [10] some of these things or of substance itself.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[&amp;hellip;]&lt;/p&gt;
+&lt;p&gt;As, then, there is one science which deals with all healthy things, the same applies in the other cases also. [&amp;hellip;] It is clear then that it is the work of one science [15] also to study all things that are, qua being.&lt;/p&gt;
+&lt;p&gt;But everywhere science deals chiefly with that which is primary, and on which the other things depend, and in virtue of which they get their names. If, then, this is substance, it is of substances that the philosopher must grasp the principles and the causes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hence the grand conclusion of &lt;em&gt;Metaphysics&lt;/em&gt; Z.1 (1028b3&amp;ndash;5, Ross tr.)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And indeed the question which, both now and of old, has
+always been raised, and always been the subject of doubt, viz.
+what being is, is just the question, what is [5] substance?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aside on First Philosophy as Theology&lt;/p&gt;
+&lt;p&gt;Question
+: What is &amp;ldquo;being&amp;rdquo; in the primary sense?&lt;/p&gt;
+&lt;p&gt;Answer
+: Substance, but &amp;ldquo;there are three kinds of substance&amp;rdquo; (&lt;em&gt;Metaphysics&lt;/em&gt; Λ.1):
+-   &lt;strong&gt;Natural:&lt;/strong&gt; i.e., movable, of which there are two kinds:
+-   &lt;strong&gt;Perishable:&lt;/strong&gt; Plants, animals, their parts, simple bodies&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;     -   **Eternal:** Celestial substances
+
+ -   **Immovable:** Unchanging, separable from matter.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Immovable substance&lt;/strong&gt; is the first principle of all (and, according to many commentators, being in the primary sense):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Λ.6, 1071b3&amp;ndash;21&lt;/p&gt;
+&lt;p&gt;Since there were three kinds of substance, two of them
+natural and one unmovable, regarding the latter we must
+assert that it is necessary that there should
+be an eternal unmovable substance. For substances are the
+first of existing things, [5] and if they are all destructible, all
+things are destructible. But it is impossible that movement
+should either come into being or cease to be; for it must
+always have existed.&lt;/p&gt;
+&lt;p&gt;[&amp;hellip;]&lt;/p&gt;
+&lt;p&gt;There must, then, be such a principle, whose very substance is
+[20] actuality. Further, then, these substances must be without
+matter; for they must be eternal, at least if anything else is
+eternal. Therefore they must be actuality.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-project-of-metaphysics-z&#34;&gt;The Project of &lt;em&gt;Metaphysics&lt;/em&gt; Z&lt;/h3&gt;
+&lt;p&gt;To answer the question, &amp;ldquo;what is subsance (&lt;em&gt;ousia&lt;/em&gt;)&amp;rdquo;?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z.2, 1028b27&amp;ndash;33 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;Regarding these matters, then, we must inquire which of the
+common statements are right and which are not right, and
+what things are substances, and whether there are or are not
+any besides sensible substances, and how sensible [30]
+substances exist, and whether there is a separable substance
+(and if so why and how) or there is no substance separable
+from sensible substances; &lt;strong&gt;and we must first sketch the nature&lt;/strong&gt;
+&lt;strong&gt;of substance&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;what-is-the-nature-of-substance&#34;&gt;What is the nature of substance?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z.3, 1028b34&amp;ndash;1029a6 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;The word ‘substance’ is applied, if not in more senses, still at least to four main objects; for both &lt;strong&gt;(1) the essence&lt;/strong&gt; and &lt;strong&gt;(2) the universal&lt;/strong&gt; and &lt;strong&gt;(3) the genus&lt;/strong&gt; are thought to be [35] the substance &lt;span class=&#34;underline&#34;&gt;of each thing&lt;/span&gt;, and fourthly &lt;strong&gt;(4) the substratum&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Now &lt;strong&gt;(4) the substratum&lt;/strong&gt; is that of which other things are predicated, while it is itself not predicated of anything else. And so we must first determine the nature of this; &lt;strong&gt;for that which underlies a [1029a1] thing primarily is thought to be in the truest sense its substance.&lt;/strong&gt; And:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;in one sense &lt;strong&gt;(4a) matter&lt;/strong&gt; is said to be of the nature of substratum,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;in another, &lt;strong&gt;(4b) shape&lt;/strong&gt;, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;in a third sense, &lt;strong&gt;(4c) the compound of these&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By the matter I mean, for instance, the bronze, by the shape the plan of its form, and by the compound of these (the concrete thing) the [5] statue. Therefore if the form is prior to the matter and more real, it will be prior to the compound also for the same reason.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;dl&gt;
+&lt;dt&gt;Observation 1&lt;/dt&gt;
+&lt;dd&gt;Aristotle moves quickly from the question &amp;ldquo;what is substance&amp;rdquo; to the question &amp;ldquo;what is the substance &lt;span class=&#34;underline&#34;&gt;of each thing&lt;/span&gt;&amp;rdquo;? (Cf. the following lines: &amp;ldquo;We have now outlined &lt;span class=&#34;underline&#34;&gt;the nature of substance&lt;/span&gt;, showing that it is that which is not predicated of a subject, but of which all else is predicated.&amp;quot;)
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Question:&lt;/strong&gt; Are these questions equivalent?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Observation 2&lt;/dt&gt;
+&lt;dd&gt;Aristotle offers four candidates for an answer to the question(s) &amp;ldquo;what is substance?&amp;rdquo; and/or &amp;ldquo;what is the substance of &lt;em&gt;x&lt;/em&gt;?&amp;quot;:
+&lt;ol&gt;
+&lt;li&gt;The essence of (&amp;ldquo;what-being-is for&amp;rdquo;) &lt;em&gt;x&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;The universal to which &lt;em&gt;x&lt;/em&gt; (qua substance?) belongs.&lt;/li&gt;
+&lt;li&gt;The genus to which &lt;em&gt;x&lt;/em&gt; belongs.&lt;/li&gt;
+&lt;li&gt;The substatum of (that which underlies) &lt;em&gt;x&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Procedure of &lt;em&gt;Metaphysics&lt;/em&gt; Z :: Aristotle will create problems for &lt;em&gt;each&lt;/em&gt; of these candidates, only to propose (in Z.17) an entirely different account of substance grounded in the notion that substance is a &lt;em&gt;cause of being&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;substance-as-substratum--z-dot-3&#34;&gt;Substance as Substratum (Z.3)&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Question&lt;/dt&gt;
+&lt;dd&gt;Why cannot the substance of &lt;em&gt;x&lt;/em&gt; be identified with that which underlies &lt;em&gt;x&lt;/em&gt;?&lt;/dd&gt;
+&lt;dt&gt;Answer&lt;/dt&gt;
+&lt;dd&gt;If it were, &amp;ldquo;matter becomes substance&amp;rdquo;:
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Metaphysics&lt;/em&gt; Z.3, 1029a9&amp;ndash;32 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;For if this is not substance, it is [10] beyond us to say what else is. When all else is taken away evidently nothing but matter remains. For of the other elements some are affections, products, and capacities of bodies, while length, breadth, and depth are quantities and not substances. For a quantity is not a substance; but the substance is rather that to [15] which these belong primarily. But when length and breadth and depth are taken away we see nothing left except that which is bounded by these, whatever it be; so that to those who consider the question thus matter alone must seem to be substance. &lt;strong&gt;By matter I mean that which in itself is neither a particular thing nor of a [20] certain quantity nor assigned to any other of the categories by which being is determined.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[&amp;hellip;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;But this is impossible; for both separability and individuality are thought to belong chiefly to substance. And so form and the compound of form and matter would be thought to be substance, rather than matter.&lt;/strong&gt; The substance compounded of both, [30] i.e. of matter and shape, may be dismissed; for it is posterior and its nature is obvious. And matter also is in a sense manifest. But we must inquire into the third kind of substance [i.e., form]; for this is the most difficult.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;substance-as-essence--z-dot-4-6&#34;&gt;Substance as Essence (Z.4&amp;ndash;6)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Questions arising:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Q1:&lt;/strong&gt; Are there essences &lt;em&gt;only&lt;/em&gt; of substances like Socrates, or can there be an essence of &lt;em&gt;red&lt;/em&gt; or &lt;em&gt;being in Athens&lt;/em&gt; as well?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;If only of substance:&lt;/strong&gt; What defines what it is to be &lt;em&gt;red&lt;/em&gt;?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;If not only of substance:&lt;/strong&gt; Then, absurdy, &lt;em&gt;red&lt;/em&gt; would be substance, if substance is essence.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Q2:&lt;/strong&gt; If the essence is the substance of &lt;em&gt;x&lt;/em&gt;, and if &lt;em&gt;x&lt;/em&gt; is identical with its substance, can &lt;em&gt;x&lt;/em&gt; be identical with the essence of &lt;em&gt;x&lt;/em&gt;?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;If yes:&lt;/strong&gt; Contradictions abound! (The &amp;ldquo;pale man&amp;rdquo; argument&amp;hellip;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;If no:&lt;/strong&gt; What would explain the difference between a thing and its essence?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;q1--z-dot-4&#34;&gt;Q1 (Z.4)&lt;/h4&gt;
+&lt;dl&gt;
+&lt;dt&gt;Answer to Q1&lt;/dt&gt;
+&lt;dd&gt;Essence belongs &lt;em&gt;primarily&lt;/em&gt; to substance, but &lt;em&gt;derivatively&lt;/em&gt; to items in non-substance categories&amp;hellip;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1030a27&amp;ndash;b13 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;Now we must inquire how we should express ourselves on each point, but still more how the facts actually stand. And so now also since it is evident what language we use, &lt;strong&gt;essence will belong, just as the ‘what’ does, primarily and in the simple sense to substance, and in a secondary way to the other categories also,—not essence [30] simply, but the essence of a quality or of a quantity.&lt;/strong&gt; For it must be either homonymously that we say these are, or by making qualifications and abstractions (in the way in which that which is not known may be said to be known),—the truth being that we use the word neither homonymously nor in the same sense, but just as we apply the word ‘medical’ when there is a reference to one and the same thing, not meaning one and the same thing, nor yet speaking homonymously; for a patient and [1030b1] an operation and an instrument are called medical neither homonymously nor in virtue of one thing, but with reference to one thing. But it does not matter in which of the two ways one likes to describe the facts; this is evident, that &lt;strong&gt;definition and essence in the primary and simple sense belong to substances. Still they belong to [5] other things as well in a similar way, but not primarily.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;q1--z-dot-6&#34;&gt;Q1 (Z.6)&lt;/h4&gt;
+&lt;p&gt;Answer unclear&amp;hellip;&lt;/p&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The Pale Man Argument (1031a19&amp;ndash;25)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The pale man is the same as the essence of the pale man (&amp;ldquo;yes&amp;rdquo; to Q2)&lt;/li&gt;
+&lt;li&gt;The man is the same as the pale man (assumption)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;So&lt;/em&gt;, the essence of the man is the same as the essence of the pale man.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A thing can&amp;rsquo;t be separate from its essence!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1031b28&amp;ndash;1032a4 (Ross tr.)&lt;/p&gt;
+&lt;p&gt;The absurdity of the separation would appear also if one were to assign a name to each of the essences; for there would be another essence besides the original one, e.g. to the essence of horse there will belong a second essence. Yet why should not [30] some things be their essences from the start, since essence is substance? &lt;strong&gt;But not only are a thing and its essence one, but the formula of them is also the same, as is [1032a1] clear even from what has been said; for it is not by accident that the essence of one, and the one, are one. Further, if they were different, the process would go on to infinity; for we should have the essence of one, and the one, so that in their case also the same infinite regress would be found. Clearly, then, each primary and self-subsistent thing is one and the same as its essence.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
