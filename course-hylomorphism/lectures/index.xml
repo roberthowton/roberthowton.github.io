@@ -2233,7 +2233,7 @@ by none of them.&lt;/p&gt;
     <item>
       <title>Unit 4 | Consequences for a Theory of Substance</title>
       <link>https://www.roberthowton.com/course-hylomorphism/lectures/unit4/</link>
-      <pubDate>Tue, 20 Apr 2021 15:49:00 +0300</pubDate>
+      <pubDate>Tue, 27 Apr 2021 11:32:00 +0300</pubDate>
       <guid>https://www.roberthowton.com/course-hylomorphism/lectures/unit4/</guid>
       <description>&lt;h2 id=&#34;4-dot-1-is-substance-matter-form-or-what-is-from-them-some-puzzles&#34;&gt;4.1 | Is Substance Matter, Form, or What is From Them? Some Puzzles&lt;/h2&gt;
 &lt;h3 id=&#34;preliminaries-aristotle-s-metaphysics&#34;&gt;Preliminaries: Aristotle&amp;rsquo;s Metaphysics&lt;/h3&gt;
@@ -2738,6 +2738,257 @@ from sensible substances; &lt;strong&gt;and we must first sketch the nature&lt;/
 &lt;p&gt;Evidently, then, in the case of simple things no inquiry nor teaching is possible; but we must [10] inquire into them in a different way.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Of what sorts of substances are the essences simple?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unit 5 | Applications: the Soul in Animal Generation</title>
+      <link>https://www.roberthowton.com/course-hylomorphism/lectures/unit5/</link>
+      <pubDate>Wed, 28 Apr 2021 10:15:00 +0300</pubDate>
+      <guid>https://www.roberthowton.com/course-hylomorphism/lectures/unit5/</guid>
+      <description>&lt;h2 id=&#34;5-dot-1-soul-as-the-form-of-a-living-body&#34;&gt;5.1 | Soul as the Form of a Living Body&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Recall&lt;/dt&gt;
+&lt;dd&gt;Aristotle&amp;rsquo;s answer to the central ontological question, &amp;ldquo;what is substance?&amp;rdquo; or &amp;ldquo;what is the substance of &lt;em&gt;x&lt;/em&gt;?&amp;rdquo;, is that &lt;strong&gt;substance is a cause of being&lt;/strong&gt;, understood here as &lt;strong&gt;form in its role as efficient and/or final cause&lt;/strong&gt; of &lt;em&gt;x&lt;/em&gt;.&lt;/dd&gt;
+&lt;dt&gt;Question&lt;/dt&gt;
+&lt;dd&gt;How does this this conception of substance as both form and cause of being influence Aristotle&amp;rsquo;s approach to natural science, in particular, his zoology or science of animal life?&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;big-picture-aristotle-s-zoological-works&#34;&gt;Big Picture: Aristotle&amp;rsquo;s Zoological Works&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Work&lt;/th&gt;
+&lt;th&gt;Contents&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Historia Animalium&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Organized presentation of facts (&amp;ldquo;thats&amp;rdquo;) about animal kinds&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;De Anima&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Account of &amp;ldquo;nature and essence&amp;rdquo; of soul.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Parva Naturalia&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Shorter works on attributes &amp;ldquo;common to soul and body&amp;rdquo;, incl.:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;De Sensu&lt;/em&gt;: Sensation and sensible objects&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;De Memoria&lt;/em&gt;: Memory and recollection&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;De Somno: Sleep&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;De Insomniis: Dreams&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;De Div.: Divination in sleep&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;De Longitudine Vitae&lt;/em&gt;: On the length and shortness of life&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;De Juventute: On youth and old age&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;De Partibus Animalium&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Explains soul as final cause of animal body&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;De Generatione Animalium&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Explains soul as efficient cause of animal body&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;De Incessu Animalium&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Account of types of animal motion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;De Motu Animalium&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Account of psychological causes of animal motion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;the-project-of-de-anima&#34;&gt;The Project of &lt;em&gt;De Anima&lt;/em&gt;&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Aim&lt;/dt&gt;
+&lt;dd&gt;To determine the essence and attributes of soul.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 1.1, 402a1&amp;ndash;8 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;We count cognition among the fine and honourable things, and suppose that one kind of cognition is finer and more honourable than another owing to its precision or because of its having better and more marvellous objects; and for both these reasons we may reasonably place an inquiry into the soul into the premier class of study. &lt;strong&gt;It also seems that research into the soul contributes greatly to truth in general, and most especially to truth about nature. For the soul is a sort of first principle of animals. We aim to consider and ascertain its nature and essence, and then its properties, of which some seem to be affections peculiar to the soul itself, while others belong to animals as well because of the soul.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;dl&gt;
+&lt;dt&gt;Method&lt;/dt&gt;
+&lt;dd&gt;By studying both the form and matter of living things, as a natural scientist would!&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 1.1, 402b16&amp;ndash;29 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;And it would seem that all the affections of the soul involve the body&amp;mdash;anger, gentleness, fear, pity, courage, as well as joy, and loving and hating. For at the same time as these, the body is affected in some way. This is shown by the fact that sometimes, even though strong and evident affections are present, we are not provoked or made afraid, while at other times we are moved by something small and obscure, whenever the body is agitated and in the condition it is in when angry. This is even clearer from the fact that sometimes though nothing frightful is present, people come to have the affections of a frightened person.&lt;/p&gt;
+&lt;p&gt;If this is so, it is clear that the affections are accounts in matter. Consequently, definitions will be of this sort, for example: &amp;lsquo;being angry is (1) a sort of motion (2) of a body of such a sort, or of a part or capacity of a body, (3) brought about by this (4)  for the sake of that.&amp;rsquo; And for these reasons, a consideration of the soul, either all souls or this sort of soul, is already in the province of the natural scientist.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;aristotle-s-definition-of-soul-in-de-anima-2&#34;&gt;Aristotle&amp;rsquo;s Definition of Soul in &lt;em&gt;De Anima&lt;/em&gt; 2&lt;/h3&gt;
+&lt;p&gt;Aristotle&amp;rsquo;s postive account of soul begins in Book 2 of &lt;em&gt;De Anima&lt;/em&gt;, which begins somewhat predictably but marks a radical change in the focus of psychological investigation. In summary:&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;em&gt;De Anima&lt;/em&gt; 2.1&lt;/dt&gt;
+&lt;dd&gt;Soul is the form and first actuality of an organic body, a body having the potential for life.&lt;/dd&gt;
+&lt;dt&gt;&lt;em&gt;De Anima&lt;/em&gt; 2.2&lt;/dt&gt;
+&lt;dd&gt;This can serve only as an &amp;ldquo;outline&amp;rdquo; account of soul, since &amp;ldquo;living is said in many ways&amp;rdquo;.&lt;/dd&gt;
+&lt;dt&gt;&lt;em&gt;De Anima&lt;/em&gt; 2.3&lt;/dt&gt;
+&lt;dd&gt;To formulate a &amp;ldquo;scientific&amp;rdquo; definition of soul&amp;mdash;one that explains how soul operates as the cause of life&amp;mdash;we must turn our attention to the principal &lt;em&gt;capacities&lt;/em&gt; of soul, including nutrition, reproduction, perception, locomotion, and thought.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h4 id=&#34;the-outline-account-of-soul-in-de-anima-2-dot-1&#34;&gt;The Outline Account of Soul in &lt;em&gt;De Anima&lt;/em&gt; 2.1&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 2.1, 412a 5&amp;ndash;22 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;We say that among the things that exist one kind is substance, and that one sort is substance as matter, which is not in its own right some this; another is shape and form, in accordance with which it is already called some this; and the third is what comes from these. Matter is potentiality, while form is actuality; and &lt;strong&gt;actuality is spoken of in two ways, first as knowledge is, and second as contemplating is.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bodies seem most of all to be substances, and among these, natural bodies, since these are the principles of the others. Among natural bodies, some have life and some do not have it. By &amp;lsquo;life&amp;rsquo; we mean that which has through itself nourishment, growth, and decay.&lt;/p&gt;
+&lt;p&gt;It would follow that every natural body having life is a substance, and a substance as a compound. But since it is also a body of this sort-for it has life-the soul could not be a body; for the body is not among those things said of a subject, but rather is spoken of as a subject and as matter. &lt;strong&gt;It is necessary, then, that the soul is a substance as the form of a natural body which has life in potentiality. But substance is actuality; hence, the soul will be an actuality of a body of such a sort.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Two refinements:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Soul is the actuality in the way &lt;em&gt;knowledge&lt;/em&gt; is (= &lt;strong&gt;first actuality&lt;/strong&gt;) rather than the way &lt;em&gt;contemplating&lt;/em&gt; is (= &lt;strong&gt;second actuality&lt;/strong&gt;):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 2.1, 412a23&amp;ndash;29 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;Actuality is spoken of in two ways, first as knowledge is, and second as contemplating is. &lt;strong&gt;Evidently, then, the soul is actuality as knowledge is. For both sleeping and waking depend upon the soul&amp;rsquo;s being present; and as waking is analogous to contemplating, sleeping is analogous to having knowledge without exercising it. And in the same individual knowledge is prior in generation. Hence, the soul is the first actuality of a natural body which has life in potentiality.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;A body having the potential for life is an &lt;em&gt;organic&lt;/em&gt; (functionally organized) body:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 2.1, 412b1&amp;ndash;6 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;This sort of body would be one which is organic. And even the parts of plants are organs, although altogether simple ones. For example, the leaf is a shelter of the outer covering, and the outer covering of the fruit; and the roots are analogous to the mouth, since both draw in nourishment. Hence, &lt;strong&gt;if it is necessary to say something which is common to every soul, it would be that the soul is the first actuality of an organic natural body&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!--list-separator--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A Complication: the &amp;ldquo;Ackrill Problem&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To be the material cause of a process of generation, the body must be capable of receiving contrary forms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;According to &lt;em&gt;DA&lt;/em&gt; 2.1, however, the body seems to be &lt;em&gt;necessarily&lt;/em&gt; enformed with soul; a dead body, or a body (or body part) lacking soul is a body only &lt;em&gt;homonymously&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 2.1, 412b25&amp;ndash;27 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;The body which has cast off its soul is not a being which is potentially such as to be alive; this is rather the one that &lt;em&gt;has&lt;/em&gt; soul. The seed, however, and the fruit, is such a body (= a body potentially such as to be alive?) in potentiality.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How, then, can the body be the matter for soul?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;the-homonymy-of-life-in-de-anima-2-dot-2&#34;&gt;The Homonymy of Life in &lt;em&gt;De Anima&lt;/em&gt; 2.2&lt;/h4&gt;
+&lt;p&gt;The account of soul offered in &lt;em&gt;DA&lt;/em&gt; 2.1 is however only an &amp;ldquo;outline&amp;rdquo; or &amp;ldquo;general&amp;rdquo; account of soul, not a scientific definition specifying its &lt;em&gt;essence&lt;/em&gt;. Why?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;De Anima&lt;/em&gt; 2.2, 413a11&amp;ndash;20 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;Because what is sure and better known as conforming to reason comes to be from what is unsure but more apparent, one must try to proceed anew in this way concerning the soul. &lt;strong&gt;For it is not only necessary that a defining account make clear the that, which is what most definitions state, but it must also contain and make manifest the cause. As things are, statements of definitions are like conclusions. For example: &amp;lsquo;what is squaring? It is an equilateral rectangle being equal to an oblong figure.&amp;rsquo; But this sort of definition is an account of the conclusion: the one who states that squaring is the discovery of a mean states the cause of the matter.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see what Aristotle has in mind here, we need to appreciate a difficulty for the science of soul that Aristotle raised back in &lt;em&gt;DA&lt;/em&gt; 1.1:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 1.1, 402b5&amp;ndash;8 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;And one must take care not to overlook the question of whether&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;there is one account of soul, as there is one account of animal,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;or whether&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;there is a different account for each type of soul, for example, of horse, of dog, of man, of god, while the universal animal is either nothing or is posterior to these;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and it would be the same if any other common thing were being predicated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In &lt;em&gt;DA&lt;/em&gt; 2.2, Aristotle offers reason for thinking that &amp;ldquo;there is a different account of each type of soul&amp;rdquo;, namely that &lt;em&gt;living is said in many ways&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 2.2, 413a21&amp;ndash;25 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;We say, then, taking up the beginning of the inquiry, that what is ensouled is distinguished from what is not ensouled by living. &lt;strong&gt;But living is spoken of in several ways.&lt;/strong&gt; And should even one of these belong to something, we say that it is alive: reason, perception, motion and rest with respect to place, and further the motion in relation to nourishment, decay, and growth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Specifically:&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Nutrition (Growth, Decay, Reproduction)&lt;/dt&gt;
+&lt;dd&gt;Belongs to everything that is said to live, including &lt;strong&gt;plants&lt;/strong&gt; and &lt;strong&gt;animals&lt;/strong&gt;.&lt;/dd&gt;
+&lt;dt&gt;Perception&lt;/dt&gt;
+&lt;dd&gt;Belongs to &lt;strong&gt;animals&lt;/strong&gt; but not to &lt;strong&gt;plants&lt;/strong&gt;.&lt;/dd&gt;
+&lt;dt&gt;Locomotion&lt;/dt&gt;
+&lt;dd&gt;Belongs to &lt;em&gt;some&lt;/em&gt; &lt;strong&gt;animals&lt;/strong&gt;.&lt;/dd&gt;
+&lt;dt&gt;Reason&lt;/dt&gt;
+&lt;dd&gt;Belongs to apparently one kind of animal: &lt;strong&gt;humans&lt;/strong&gt;.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;On the assumption that soul is the cause of life in living things: how can there be a single account of soul, given how many different ways living is spoken of?&lt;/p&gt;
+&lt;h3 id=&#34;the-unity-of-psychology-de-anima-2-dot-3&#34;&gt;The Unity of Psychology: &lt;em&gt;De Anima&lt;/em&gt; 2.3&lt;/h3&gt;
+&lt;p&gt;Aristotle showed in &lt;em&gt;DA&lt;/em&gt; 2.2 that no univocal definition (of the sort given in &lt;em&gt;DA&lt;/em&gt; 2.1) of soul could capture its role as the cause of life in the many ways in which living things are said to live. Instead, we need to study the soul of each kind of living thing individually:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 2.3, 414b25&amp;ndash;28 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;For this reason, it is ludicrous to seek a common account in these cases, or in other cases, an account which is not peculiar to anything which exists, and which does not correspond to any proper and indivisible species, while neglecting what is of this sort. Consequently, &lt;strong&gt;one must ask individually what the soul of each is, for example, what the soul of a plant is, and what the soul of a man or a beast is.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This does not mean, however, that there is not unified &lt;em&gt;science&lt;/em&gt; of psychology, as opposed to a set of unrelated sciences of botany, zoology, and anthropology. To the contrary, there is a systematic relation among the capacities of soul present in plants, animals, and humans:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;DA&lt;/em&gt; 2.3, 414b29&amp;ndash;415a13 (Shields tr.)&lt;/p&gt;
+&lt;p&gt;What holds in the case of the soul is very close to what holds concerning figures: for &lt;strong&gt;in the case of both figures and ensouled things, what is prior is always present potentially in what follows in a series&lt;/strong&gt;&amp;mdash;for example, the triangle in the square, and the nutritive faculty in the perceptual faculty. One must investigate the reason why they are thus in a series.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;For the percepual faculty is not without the nutritive, though the nutritive faculty is separated from the perceptual in plants.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Again, without touch, none of the other senses are present, though touch is present without the others; for many animals have neither sight nor hearing nor a sense of smell.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Also, among things capable of perceiving, some have motion in respect of place, while others do not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lastly, and most rarely, some have reasoning and understanding. For among perishable things, to those to which reasoning belongs all the remaining capacities also belong, though it is not the case that reasoning belongs to each of those with each of the others. Rather, imagination does not belong to some, while others live by this alone.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A different account will deal with theoretical reason.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Represented schematically:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.roberthowton.com/ox-hugo/souls.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://www.roberthowton.com/ox-hugo/souls.jpg&#34; alt=&#34;&#34; width=&#34;750&#34; &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;The upshot?&lt;/dt&gt;
+&lt;dd&gt;&amp;ldquo;The account of each of these [sc. capacities of soul] will also be the most appropriate account of the soul [itself]&amp;rdquo; (415a14&amp;ndash;15).&lt;/dd&gt;
+&lt;/dl&gt;
 </description>
     </item>
     
